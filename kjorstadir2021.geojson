@@ -1,0 +1,327 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Norðlingaskóli",
+        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.772532,
+          64.10110499999958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Ráðhús Reykjavíkur",
+        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.942316,
+          64.1459719999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Laugalækjarskóli",
+        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.879701,
+          64.1474329999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Hlíðaskóli",
+        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.910643,
+          64.13090399999959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Borgaskóli",
+        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.791766,
+          64.15324899999959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Íþróttamiðstöðin Austurbergi",
+        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.817637,
+          64.10452399999959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Hagaskóli",
+        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.957444,
+          64.1405889999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Klébergsskóli",
+        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.825668,
+          64.23729699999959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Kjarvalsstaðir",
+        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.913669,
+          64.13789999999959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Breiðagerðisskóli",
+        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.871444,
+          64.12536999999959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Árbæjarskóli",
+        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.797752,
+          64.1155579999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Ingunnarskóli",
+        "Kjördæmi": "Reykjavíkurkjördæmi norður og suður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.758232,
+          64.12601799999959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Ölduselsskóli",
+        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.849499,
+          64.10032699999957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Menntaskólinn við Sund",
+        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.859896,
+          64.13097899999957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Dalskóli",
+        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.738923532814756,
+          64.13246090530829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Breiðholtsskóli",
+        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.834890508735466,
+          64.10752866123522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Borgarbókasafnið Kringlan",
+        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.893022519850877,
+          64.12972100362511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Vesturbæjarskóli",
+        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.95785976106265,
+          64.14967157972345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Höfðatorg",
+        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.908966318747964,
+          64.14503116098378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Frostaskjól",
+        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.96842908859253,
+          64.1458828790758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Álftamýrarskóli",
+        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.892619132995605,
+          64.13459101435238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Foldaskóli",
+        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.79391920566559,
+          64.13422358896503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Rimaskóli",
+        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.794600486755368,
+          64.14571444736227
+        ]
+      }
+    }
+  ]
+}
