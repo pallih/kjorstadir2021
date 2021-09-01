@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Norðlingaskóli",
-        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+        "Kjördæmi": "Reykjavíkurkjördæmi suður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +20,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Ráðhús Reykjavíkur",
-        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+        "Kjördæmi": "Reykjavíkurkjördæmi norður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +35,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Laugalækjarskóli",
-        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+        "Kjördæmi": "Reykjavíkurkjördæmi norður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +50,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Hlíðaskóli",
-        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+        "Kjördæmi": "Reykjavíkurkjördæmi suður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +65,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Borgaskóli",
-        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+        "Kjördæmi": "Reykjavíkurkjördæmi norður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +80,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Íþróttamiðstöðin Austurbergi",
-        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+        "Kjördæmi": "Reykjavíkurkjördæmi suður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +95,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Hagaskóli",
-        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+        "Kjördæmi": "Reykjavíkurkjördæmi suður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +110,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Klébergsskóli",
-        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+        "Kjördæmi": "Reykjavíkurkjördæmi norður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +125,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Kjarvalsstaðir",
-        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+        "Kjördæmi": "Reykjavíkurkjördæmi norður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +140,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Breiðagerðisskóli",
-        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+        "Kjördæmi": "Reykjavíkurkjördæmi suður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +155,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Árbæjarskóli",
-        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+        "Kjördæmi": "Reykjavíkurkjördæmi suður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +170,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Ingunnarskóli",
-        "Kjördæmi": "Reykjavíkurkjördæmi norður og suður"
+        "Kjördæmi": "Reykjavíkurkjördæmi norður og suður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +185,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Ölduselsskóli",
-        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+        "Kjördæmi": "Reykjavíkurkjördæmi suður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +200,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Menntaskólinn við Sund",
-        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+        "Kjördæmi": "Reykjavíkurkjördæmi norður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +215,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Dalskóli",
-        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+        "Kjördæmi": "Reykjavíkurkjördæmi norður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +230,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Breiðholtsskóli",
-        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+        "Kjördæmi": "Reykjavíkurkjördæmi suður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +245,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Borgarbókasafnið Kringlan",
-        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+        "Kjördæmi": "Reykjavíkurkjördæmi suður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +260,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Vesturbæjarskóli",
-        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+        "Kjördæmi": "Reykjavíkurkjördæmi norður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +275,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Höfðatorg",
-        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+        "Kjördæmi": "Reykjavíkurkjördæmi norður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +290,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Frostaskjól",
-        "Kjördæmi": "Reykjavíkurkjördæmi suður"
+        "Kjördæmi": "Reykjavíkurkjördæmi suður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -285,7 +305,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Álftamýrarskóli",
-        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+        "Kjördæmi": "Reykjavíkurkjördæmi norður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -299,7 +320,8 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Foldaskóli",
-        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+        "Kjördæmi": "Reykjavíkurkjördæmi norður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
@@ -313,13 +335,74 @@
       "type": "Feature",
       "properties": {
         "Kjörstaður": "Rimaskóli",
-        "Kjördæmi": "Reykjavíkurkjördæmi norður"
+        "Kjördæmi": "Reykjavíkurkjördæmi norður",
+        "Sveitarfélag": "Reykjavík"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -21.794600486755368,
           64.14571444736227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Menntaskólinn á Egilsstöðum",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Múlaþing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.398639798164368,
+          65.26742784799862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Hreppsstofa",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Múlaþing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.817311227321625,
+          65.52727896998195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Tryggvabúð",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Múlaþing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.28486853837967,
+          64.65700810349584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Íþróttamiðstöðin Seyðisfirði",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Múlaþing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.006286263465881,
+          65.26014718476316
         ]
       }
     }
