@@ -405,6 +405,21 @@
           65.26014718476316
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Lágafellsskóli",
+        "Kjördæmi": "Suðvesturkjördæmi",
+        "Sveitarfélag": "Mosfellsbær"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.724369525909424,
+          64.1660405155874
+        ]
+      }
     }
   ]
 }
