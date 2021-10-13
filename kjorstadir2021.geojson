@@ -480,6 +480,36 @@
           64.07528612321404
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Íþróttahúsið Mýrin",
+        "Kjördæmi": "Suðvesturkjördæmi",
+        "Sveitarfélag": "Garðabær"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.904935836791992,
+          64.09373727268574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Álftanesskóli",
+        "Kjördæmi": "Suðvesturkjördæmi",
+        "Sveitarfélag": "Garðabær"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.016440629959106,
+          64.10449284475251
+        ]
+      }
     }
   ]
 }
