@@ -615,6 +615,93 @@
           64.21768891566072
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Hofgarður",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Hornafjörður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.71641170978546,
+          63.90709856862315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Kjörstaður": "Hrollaugsstaðir",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Hornafjörður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.870217680931091,
+          64.17943186603529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Kjörstaður": "Holt",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Hornafjörður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.411881804466248,
+          64.29975641846796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Kjörstaður": "Mánagarður",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Hornafjörður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.229234099388123,
+          64.31361448638422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Kjörstaður": "Heppuskóli",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Hornafjörður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.213124752044678,
+          64.25801341816243
+        ]
+      }
     }
   ]
 }
