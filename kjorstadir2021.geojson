@@ -585,6 +585,36 @@
           63.98298090291267
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Aratunga",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Bláskógabyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.446881651878357,
+          64.17403871066743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Bláskógaskóli",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Bláskógabyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.73093295097351,
+          64.21768891566072
+        ]
+      }
     }
   ]
 }
