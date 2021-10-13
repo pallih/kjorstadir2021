@@ -690,6 +690,51 @@
           64.25801341816243
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Verkmenntaskólinn á Akureyri",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Akureyrarbær"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.10172975063324,
+          65.6718404582583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Hríseyjarskóli",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Akureyrarbær"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.37164044380188,
+          65.97896848265427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Múli",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Akureyrarbær"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.00922840833664,
+          66.53742428635668
+        ]
+      }
     }
   ]
 }
