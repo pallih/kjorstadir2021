@@ -450,6 +450,36 @@
           64.08271494333832
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Lækjarskóli",
+        "Kjördæmi": "Suðvesturkjördæmi",
+        "Sveitarfélag": "Hafnarfjörður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.94096326828003,
+          64.06770518346026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Víðistaðaskóli",
+        "Kjördæmi": "Suðvesturkjördæmi",
+        "Sveitarfélag": "Hafnarfjörður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.958258152008057,
+          64.07528612321404
+        ]
+      }
     }
   ]
 }
