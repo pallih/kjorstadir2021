@@ -652,9 +652,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Kjörstaður": "Holt",
         "Kjördæmi": "Suðurkjördæmi",
         "Sveitarfélag": "Hornafjörður"
@@ -670,9 +667,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Kjörstaður": "Mánagarður",
         "Kjördæmi": "Suðurkjördæmi",
         "Sveitarfélag": "Hornafjörður"
@@ -688,9 +682,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Kjörstaður": "Heppuskóli",
         "Kjördæmi": "Suðurkjördæmi",
         "Sveitarfélag": "Hornafjörður"
