@@ -510,6 +510,81 @@
           64.10449284475251
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Fjölbrautaskóli Suðurnesja",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Reykjanesbær"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.560258507728577,
+          63.996571101049575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Grunnskóli Grindavíkur",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Grindavík"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.439556419849396,
+          63.84027584930153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Gerðaskóli",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Suðurnesjabær"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.653443813323975,
+          64.07250684121679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Sandgerðisskóli",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Suðurnesjabær"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.699309587478638,
+          64.03371103901944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Stóru-Vogaskóli",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Sveitarfélagið Vogar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.387320399284363,
+          63.98298090291267
+        ]
+      }
     }
   ]
 }
