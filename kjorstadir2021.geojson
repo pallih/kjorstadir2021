@@ -420,6 +420,36 @@
           64.1660405155874
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Smárinn",
+        "Kjördæmi": "Suðvesturkjördæmi",
+        "Sveitarfélag": "Kópavogur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.898090839385986,
+          64.10261853442151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Kórinn",
+        "Kjördæmi": "Suðvesturkjördæmi",
+        "Sveitarfélag": "Kópavogur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.824984550476074,
+          64.08271494333832
+        ]
+      }
     }
   ]
 }
