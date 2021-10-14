@@ -1500,6 +1500,21 @@
           63.83670678081437
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Hvoll",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Rangárþing eystra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.233951807022095,
+          63.75133556323742
+        ]
+      }
     }
   ]
 }
