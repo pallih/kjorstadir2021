@@ -1950,6 +1950,21 @@
           64.53063013479589
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Árnesi",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Skeiða- og Gnúpverjahreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.25128960609436,
+          64.0425222282487
+        ]
+      }
     }
   ]
 }
