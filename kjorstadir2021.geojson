@@ -1230,6 +1230,66 @@
           65.55098751597002
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Borgarhólsskóli",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Norðurþing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.33583569526672,
+          66.0452015144941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Skúlagarður",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Norðurþing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.709969043731686,
+          66.07714634510135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Ráðhúsið Raufarhöfn",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Norðurþing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.951043367385864,
+          66.45460395872932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Skólahúsið Kópaskeri",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Norðurþing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.42439693212509,
+          66.29519956919303
+        ]
+      }
     }
   ]
 }
