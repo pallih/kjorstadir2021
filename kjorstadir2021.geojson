@@ -1605,6 +1605,21 @@
           66.06970136160889
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Végarður",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Fljótsdalshreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.972734451293945,
+          65.02546787638806
+        ]
+      }
     }
   ]
 }
