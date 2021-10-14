@@ -1965,6 +1965,21 @@
           64.0425222282487
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Skrifstofa Reykhólahrepps",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Reykhólahreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.199238538742062,
+          65.45452411540431
+        ]
+      }
     }
   ]
 }
