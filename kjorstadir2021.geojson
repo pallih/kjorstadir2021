@@ -1920,6 +1920,21 @@
           65.70674167332837
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Skjólbrekka",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Skútustaðahreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.026842534542084,
+          65.56533410475245
+        ]
+      }
     }
   ]
 }
