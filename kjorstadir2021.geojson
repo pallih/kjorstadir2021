@@ -1890,6 +1890,21 @@
           65.84353990523863
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Svalbarðsskóli",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Svalbarðshreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.709558725357057,
+          66.20713089023126
+        ]
+      }
     }
   ]
 }
