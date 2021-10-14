@@ -1680,6 +1680,21 @@
           65.94901343612581
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimili Hrunamanna",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Hrunamannahreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.31998097896576,
+          64.13029159904174
+        ]
+      }
     }
   ]
 }
