@@ -1635,6 +1635,21 @@
           63.88073618264188
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Stjórnsýsluhúsið á Borg",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Grímsnes- og Grafningshreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.767464637756344,
+          64.07508911995157
+        ]
+      }
     }
   ]
 }
