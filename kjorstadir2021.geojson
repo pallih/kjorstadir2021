@@ -780,6 +780,21 @@
           63.83766236107684
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Grunnskóli Vestmannaeyja",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Vestmannaeyjabær"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.27248978614807,
+          63.43778639429621
+        ]
+      }
     }
   ]
 }
