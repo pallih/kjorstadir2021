@@ -1650,6 +1650,21 @@
           64.07508911995157
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Samkomuhús Grundarfjarðar",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Grundarfjarðarbær"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.259354829788208,
+          64.92631537553096
+        ]
+      }
     }
   ]
 }
