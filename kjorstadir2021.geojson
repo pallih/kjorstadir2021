@@ -1755,6 +1755,21 @@
           66.20061263709465
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Ljósvetningabúð",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Þingeyjarsveit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.561345100402832,
+          65.81156334294133
+        ]
+      }
     }
   ]
 }
