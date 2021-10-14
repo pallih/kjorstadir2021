@@ -1125,6 +1125,111 @@
           64.65590132954677
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Skagasel",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Sveitarfélagið Skagafjörður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.949820041656494,
+          65.98984101368156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Fjölbrautaskóli Norðurlands vestra",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Sveitarfélagið Skagafjörður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.64253544807434,
+          65.74087293473487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Árgarður",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Sveitarfélagið Skagafjörður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.35412287712097,
+          65.4682656568861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Grunnskólinn að Hólum",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Sveitarfélagið Skagafjörður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.12408053874969,
+          65.73676206038972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Höfðaborg",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Sveitarfélagið Skagafjörður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.41006302833557,
+          65.8977148990021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Ketilás",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Sveitarfélagið Skagafjörður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.01682436466217,
+          66.05064602844227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaðir": "Varmahlíðarskóli",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Sveitarfélagið Skagafjörður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.448083341121674,
+          65.55098751597002
+        ]
+      }
     }
   ]
 }
