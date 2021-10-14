@@ -1335,6 +1335,36 @@
           65.54134099449517
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Skagabúð",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Skagabyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.319310426712036,
+          65.90450501626057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Hvammstanga",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Húnaþing vestra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.94546675682068,
+          65.39744453909809
+        ]
+      }
     }
   ]
 }
