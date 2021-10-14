@@ -1770,6 +1770,21 @@
           65.81156334294133
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Safnaðarheimili Vopnafjarðarkirkju",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Vopnafjarðarhreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.829877316951752,
+          65.75238100340668
+        ]
+      }
     }
   ]
 }
