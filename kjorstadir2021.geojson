@@ -1665,6 +1665,21 @@
           64.92631537553096
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Grenivíkurskóli",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Grýtubakkahreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.172411322593685,
+          65.94901343612581
+        ]
+      }
     }
   ]
 }
