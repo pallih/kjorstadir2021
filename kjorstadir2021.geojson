@@ -1905,6 +1905,21 @@
           66.20713089023126
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Hnyðja",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Strandabyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.665583550930023,
+          65.70674167332837
+        ]
+      }
     }
   ]
 }
