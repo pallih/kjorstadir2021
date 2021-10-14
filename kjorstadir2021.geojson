@@ -1485,6 +1485,21 @@
           65.9684124594529
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Grunnskólinn á Hellu",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Rangárþing ytra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.39865016937256,
+          63.83670678081437
+        ]
+      }
     }
   ]
 }
