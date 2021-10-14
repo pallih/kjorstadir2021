@@ -1515,6 +1515,21 @@
           63.75133556323742
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Heimaland",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Rangárþing eystra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.9892096221447,
+          63.60814427605566
+        ]
+      }
     }
   ]
 }
