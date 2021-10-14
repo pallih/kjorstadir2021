@@ -1305,6 +1305,21 @@
           65.6597559111204
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Fellsborg",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Skagaströnd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.296854972839355,
+          65.82341009251961
+        ]
+      }
     }
   ]
 }
