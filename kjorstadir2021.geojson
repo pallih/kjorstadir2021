@@ -1425,6 +1425,21 @@
           65.10947333014272
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Valhúsaskóli",
+        "Kjördæmi": "Suðvesturkjördæmi",
+        "Sveitarfélag": "Seltjarnarneskaupstaður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.995320916175842,
+          64.15098914994925
+        ]
+      }
     }
   ]
 }
