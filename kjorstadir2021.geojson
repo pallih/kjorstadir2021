@@ -1710,6 +1710,21 @@
           64.38160359389512
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Þelamerkurskóli",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Hörgársveit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.27923834323883,
+          65.74268459758392
+        ]
+      }
     }
   ]
 }
