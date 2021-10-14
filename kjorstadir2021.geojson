@@ -859,7 +859,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Kjöjrstaður": "Safnaðarheimili Reyðarfjarðarkirkju",
+        "Kjörstaður": "Safnaðarheimili Reyðarfjarðarkirkju",
         "Kjördæmi": "Norðausturkjördæmi",
         "Sveitarfélag": "Fjarðabyggð"
       },
@@ -1219,7 +1219,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Kjörstaðir": "Varmahlíðarskóli",
+        "Kjörstaður": "Varmahlíðarskóli",
         "Kjördæmi": "Norðvesturkjördæmi",
         "Sveitarfélag": "Sveitarfélagið Skagafjörður"
       },
@@ -1444,7 +1444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Kjjörstaður": "Grunnskólinn í Stykkishólmi",
+        "Kjörstaður": "Grunnskólinn í Stykkishólmi",
         "Kjördæmi": "Norðvesturkjördæmi",
         "Sveitarfélag": "Stykkishólmsbær"
       },
