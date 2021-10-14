@@ -1545,6 +1545,21 @@
           63.41730409181819
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Kirkjubæjarskóli",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Skaftárhreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.05370211601257,
+          63.78720172440247
+        ]
+      }
     }
   ]
 }
