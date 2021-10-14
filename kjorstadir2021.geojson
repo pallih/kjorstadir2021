@@ -915,6 +915,69 @@
           64.79443557031261
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Kjörstaður": "Grunnskóli Ísafjarðar",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Ísafjarðarbær"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.117326498031616,
+          66.07322179210902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Grunnskólinn á Suðureyri",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Ísafjarðarbær"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.524104952812195,
+          66.12841869864079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Grunnskóli Önundarfjarðar",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Ísafjarðarbær"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5176944732666,
+          66.05210713775092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Grunnskólinn á Þingeyri",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Ísafjarðarbær"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.48801851272583,
+          65.87510837578436
+        ]
+      }
     }
   ]
 }
