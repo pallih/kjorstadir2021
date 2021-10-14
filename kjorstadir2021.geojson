@@ -735,6 +735,51 @@
           66.53742428635668
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Vallaskóli",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Árborg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.996246337890625,
+          63.93430364882678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Samkomuhúsið Staður",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Árborg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.157007217407227,
+          63.86454367602896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Grunnskólinn á Stokkseyri",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Árborg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.06455683708191,
+          63.83766236107684
+        ]
+      }
     }
   ]
 }
