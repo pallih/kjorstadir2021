@@ -1440,6 +1440,21 @@
           64.15098914994925
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjjörstaður": "Grunnskólinn í Stykkishólmi",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Stykkishólmsbær"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.72821843624115,
+          65.07217982709089
+        ]
+      }
     }
   ]
 }
