@@ -1035,6 +1035,96 @@
           64.31861433226645
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Menntaskóli Borgarfjarðar",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Borgarbyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.912928819656372,
+          64.54203052592021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Lindartungu",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Borgarbyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.256691455841064,
+          64.82091624838162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Lyngbrekku",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Borgarbyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.06449508666992,
+          64.62969756494272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Þinghamar",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Borgarbyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.592710614204407,
+          64.69092878954278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Brúarási",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Borgarbyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.041114330291748,
+          64.70195958107934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Grunnskólinn að Kleppjárnsreykjum",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Borgarbyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.40233278274536,
+          64.65590132954677
+        ]
+      }
     }
   ]
 }
