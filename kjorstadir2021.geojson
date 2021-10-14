@@ -1560,6 +1560,21 @@
           63.78720172440247
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Hrafnagilsskóli",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Eyjafjarðarsveit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.09124231338501,
+          65.57216446222523
+        ]
+      }
     }
   ]
 }
