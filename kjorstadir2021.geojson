@@ -1380,6 +1380,21 @@
           65.53634422935066
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Árnesi",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Árneshreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.51261448860168,
+          66.01127776258257
+        ]
+      }
     }
   ]
 }
