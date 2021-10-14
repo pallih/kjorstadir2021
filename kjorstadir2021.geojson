@@ -1290,6 +1290,21 @@
           66.29519956919303
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Íþróttamiðstöðin Blönudósi",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Blönduósbær"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.282585620880123,
+          65.6597559111204
+        ]
+      }
     }
   ]
 }
