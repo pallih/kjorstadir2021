@@ -1935,6 +1935,21 @@
           65.56533410475245
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Hvammur",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Skorradalshreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.512281894683838,
+          64.53063013479589
+        ]
+      }
     }
   ]
 }
