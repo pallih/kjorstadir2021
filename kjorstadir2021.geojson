@@ -810,6 +810,111 @@
           64.00043969994428
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Sólbrekka",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Fjarðabyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.793557584285736,
+          65.2030017460807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Nesskóli",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Fjarðabyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.67822527885437,
+          65.14762995944763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Tónlistarmiðstöð Austurlands",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Fjarðabyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.033151268959045,
+          65.07861604336057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjöjrstaður": "Safnaðarheimili Reyðarfjarðarkirkju",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Fjarðabyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.2214235663414,
+          65.03245090425031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Grunnskóli Fáskrúðsfjarðar",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Fjarðabyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.015781283378601,
+          64.93257318203986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Grunnskóli Stöðvarfjarðar",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Fjarðabyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.868922293186186,
+          64.83340772571424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Grunnskóli Breiðdalshrepps",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Fjarðabyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.001882076263428,
+          64.79443557031261
+        ]
+      }
     }
   ]
 }
