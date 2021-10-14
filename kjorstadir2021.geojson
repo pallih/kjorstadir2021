@@ -1020,6 +1020,21 @@
           64.83985028188656
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Íþróttahúsið að Jaðarsbökkum",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Akraneskaupstaður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.05876588821411,
+          64.31861433226645
+        ]
+      }
     }
   ]
 }
