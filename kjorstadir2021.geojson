@@ -1725,6 +1725,36 @@
           65.74268459758392
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Grunnskólinn á Bakkafirði",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Langanesbyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.801217913627626,
+          66.0367101044428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Þórsver",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Langanesbyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.337284207344053,
+          66.20061263709465
+        ]
+      }
     }
   ]
 }
