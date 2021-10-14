@@ -795,6 +795,21 @@
           63.43778639429621
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Grunnskólinn í Hveragerði",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Hveragerði"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.18204832077026,
+          64.00043969994428
+        ]
+      }
     }
   ]
 }
