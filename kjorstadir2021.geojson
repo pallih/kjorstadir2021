@@ -1530,6 +1530,21 @@
           63.60814427605566
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Víkurskóli",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Mýrdalshreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.00782287120819,
+          63.41730409181819
+        ]
+      }
     }
   ]
 }
