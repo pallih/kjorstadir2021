@@ -1860,6 +1860,21 @@
           63.856124234077186
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Valsárskóli",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Svalbarðsstrandarhreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.081838488578796,
+          65.7486388272988
+        ]
+      }
     }
   ]
 }
