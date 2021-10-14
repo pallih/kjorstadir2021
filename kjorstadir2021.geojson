@@ -1620,6 +1620,21 @@
           65.02546787638806
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Þjórsárver",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Flóahreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.754547119140625,
+          63.88073618264188
+        ]
+      }
     }
   ]
 }
