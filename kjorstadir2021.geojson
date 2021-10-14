@@ -1575,6 +1575,36 @@
           65.57216446222523
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Ráðhús Fjallabyggðar",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Fjallabyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.9085154235363,
+          66.15016194811929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Menntaskólinn á Tröllaskaga",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Fjallabyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.653339445590973,
+          66.06970136160889
+        ]
+      }
     }
   ]
 }
