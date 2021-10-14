@@ -1410,6 +1410,21 @@
           66.15746193244543
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Stjórnsýsluhúsið í Dalabyggð",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Dalabyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.765010356903073,
+          65.10947333014272
+        ]
+      }
     }
   ]
 }
