@@ -1395,6 +1395,21 @@
           66.01127776258257
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimili Bolungarvíkur",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Bolungarvíkurkaupstaður"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.25083613395691,
+          66.15746193244543
+        ]
+      }
     }
   ]
 }
