@@ -1695,6 +1695,21 @@
           64.13029159904174
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Stjórnsýsluhúsið í Melahverfi",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Hvalfjarðasveit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.84008538722992,
+          64.38160359389512
+        ]
+      }
     }
   ]
 }
