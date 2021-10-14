@@ -1365,6 +1365,21 @@
           65.39744453909809
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Héðinsminni",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Akrahreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.316537082195282,
+          65.53634422935066
+        ]
+      }
     }
   ]
 }
