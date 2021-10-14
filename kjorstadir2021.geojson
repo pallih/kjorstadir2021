@@ -1860,6 +1860,36 @@
           65.7486388272988
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Súðavíkurskóli",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Súðavíkurhreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.9901522397995,
+          66.02684056561996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Heydalur",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Súðavíkurhreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.678710222244263,
+          65.84353990523863
+        ]
+      }
     }
   ]
 }
