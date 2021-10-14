@@ -1785,6 +1785,51 @@
           65.75238100340668
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimili Patreksfjarðar",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Vesturbyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.974072337150574,
+          65.59130475783914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Baldurshagi",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Vesturbyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.60015630722046,
+          65.68566876576877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Birkimelur",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Vesturbyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.409005999565125,
+          65.5212148188643
+        ]
+      }
     }
   ]
 }
