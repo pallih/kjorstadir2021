@@ -1470,6 +1470,21 @@
           63.75135691581283
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Dalvíkurskóli",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Dalvíkurbyggð"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.532074093818665,
+          65.9684124594529
+        ]
+      }
     }
   ]
 }
