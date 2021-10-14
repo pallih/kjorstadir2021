@@ -1830,6 +1830,21 @@
           65.5212148188643
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Tálknafjarðarskóli",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Tálknafjarðarhreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.843883275985718,
+          65.62869531695554
+        ]
+      }
     }
   ]
 }
