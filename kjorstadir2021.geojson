@@ -1845,6 +1845,21 @@
           65.62869531695554
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Versalir",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Sveitarfélagið Ölfus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.385751366615295,
+          63.856124234077186
+        ]
+      }
     }
   ]
 }
