@@ -1311,13 +1311,28 @@
       "properties": {
         "Kjörstaður": "Félagsheimilið Fellsborg",
         "Kjördæmi": "Norðvesturkjördæmi",
-        "Sveitarfélag": "Skagaströnd"
+        "Sveitarfélag": "Sveitarfélagið Skagaströnd"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -20.296854972839355,
           65.82341009251961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Húnavallaskóli",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Húnavatnshreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.20657181739807,
+          65.54134099449517
         ]
       }
     }
