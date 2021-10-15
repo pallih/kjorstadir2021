@@ -2010,6 +2010,21 @@
           65.00569215913283
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Sólvangur",
+        "Kjördæmi": "Norðausturkjördæmi",
+        "Sveitarfélag": "Tjörneshreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.245895862579342,
+          66.14863922629911
+        ]
+      }
     }
   ]
 }
