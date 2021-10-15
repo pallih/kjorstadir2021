@@ -2025,6 +2025,21 @@
           66.14863922629911
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Grunnskóli Drangsness",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Kaldrananeshreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.4487886428833,
+          65.68831361821604
+        ]
+      }
     }
   ]
 }
