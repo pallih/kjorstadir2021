@@ -919,15 +919,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Kjörstaður": "Grunnskóli Ísafjarðar",
+        "Kjörstaður": "Menntaskólinn á Ísafirði",
         "Kjördæmi": "Norðvesturkjördæmi",
         "Sveitarfélag": "Ísafjarðarbær"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -23.117326498031616,
-          66.07322179210902
+          -23.132100105285645,
+          66.0736525653324
         ]
       }
     },
