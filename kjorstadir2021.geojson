@@ -1995,6 +1995,21 @@
           64.34174525850469
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Skjöldur",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Helgafellssveit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.760721445083618,
+          65.00569215913283
+        ]
+      }
     }
   ]
 }
