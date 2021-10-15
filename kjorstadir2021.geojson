@@ -2040,6 +2040,21 @@
           65.68831361821604
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Breiðablik",
+        "Kjördæmi": "Norðvesturkjördæmi",
+        "Sveitarfélag": "Eyja- og Miklaholtshreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.65308976173401,
+          64.84428584203275
+        ]
+      }
     }
   ]
 }
