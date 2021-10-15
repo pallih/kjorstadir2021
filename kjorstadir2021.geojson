@@ -1980,6 +1980,21 @@
           65.45452411540431
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Ásgarður",
+        "Kjördæmi": "Suðvesturkjördæmi",
+        "Sveitarfélag": "Kjósarhreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.592608690261837,
+          64.34174525850469
+        ]
+      }
     }
   ]
 }
