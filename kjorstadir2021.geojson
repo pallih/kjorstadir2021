@@ -2055,6 +2055,21 @@
           64.84428584203275
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kjörstaður": "Félagsheimilið Ásgarður",
+        "Kjördæmi": "Suðurkjördæmi",
+        "Sveitarfélag": "Ásahreppur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.587091445922848,
+          63.84211105887423
+        ]
+      }
     }
   ]
 }
