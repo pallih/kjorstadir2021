@@ -456,7 +456,7 @@
       "properties": {
         "Kjörstaður": "Lækjarskóli",
         "Kjördæmi": "Suðvesturkjördæmi",
-        "Sveitarfélag": "Hafnarfjarðarkaupstaður"
+        "Sveitarfélag": "Hafnarfjarðarbær"
       },
       "geometry": {
         "type": "Point",
@@ -471,7 +471,7 @@
       "properties": {
         "Kjörstaður": "Víðistaðaskóli",
         "Kjördæmi": "Suðvesturkjördæmi",
-        "Sveitarfélag": "Hafnarfjarðarkaupstaður"
+        "Sveitarfélag": "Hafnarfjarðarbær"
       },
       "geometry": {
         "type": "Point",
