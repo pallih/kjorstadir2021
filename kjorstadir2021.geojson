@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi suður",
         "kjorstadur": "Norðlingaskóli"
@@ -20,7 +20,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi norður",
         "kjorstadur": "Ráðhús Reykjavíkur"
@@ -36,7 +36,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi norður",
         "kjorstadur": "Laugalækjarskóli"
@@ -52,7 +52,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi suður",
         "kjorstadur": "Hlíðaskóli"
@@ -68,7 +68,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi norður",
         "kjorstadur": "Borgaskóli"
@@ -84,7 +84,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi suður",
         "kjorstadur": "Íþróttamiðstöðin Austurbergi"
@@ -100,7 +100,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi suður",
         "kjorstadur": "Hagaskóli"
@@ -116,7 +116,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi norður",
         "kjorstadur": "Klébergsskóli"
@@ -132,7 +132,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi norður",
         "kjorstadur": "Kjarvalsstaðir"
@@ -148,7 +148,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi suður",
         "kjorstadur": "Breiðagerðisskóli"
@@ -164,7 +164,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi suður",
         "kjorstadur": "Árbæjarskóli"
@@ -180,7 +180,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi norður og suður",
         "kjorstadur": "Ingunnarskóli"
@@ -196,7 +196,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi suður",
         "kjorstadur": "Ölduselsskóli"
@@ -212,7 +212,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi norður",
         "kjorstadur": "Menntaskólinn við Sund"
@@ -228,7 +228,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi norður",
         "kjorstadur": "Dalskóli"
@@ -244,7 +244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi suður",
         "kjorstadur": "Breiðholtsskóli"
@@ -260,7 +260,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi suður",
         "kjorstadur": "Borgarbókasafnið Kringlan"
@@ -276,7 +276,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi norður",
         "kjorstadur": "Vesturbæjarskóli"
@@ -292,7 +292,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi norður",
         "kjorstadur": "Höfðatorg"
@@ -308,7 +308,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi suður",
         "kjorstadur": "Frostaskjól"
@@ -324,7 +324,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi norður",
         "kjorstadur": "Álftamýrarskóli"
@@ -340,7 +340,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi norður",
         "kjorstadur": "Foldaskóli"
@@ -356,7 +356,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": "0000",
+        "svfnr": "0000",
         "sveitarfelag": "Reykjavíkurborg",
         "kjordaemi": "Reykjavíkurkjördæmi norður",
         "kjorstadur": "Rimaskóli"
@@ -372,7 +372,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 7400,
+        "svfnr": 7400,
         "sveitarfelag": "Múlaþing",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Menntaskólinn á Egilsstöðum"
@@ -388,7 +388,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 7400,
+        "svfnr": 7400,
         "sveitarfelag": "Múlaþing",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Hreppsstofa"
@@ -404,7 +404,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 7400,
+        "svfnr": 7400,
         "sveitarfelag": "Múlaþing",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Tryggvabúð"
@@ -420,7 +420,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 7400,
+        "svfnr": 7400,
         "sveitarfelag": "Múlaþing",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Íþróttamiðstöðin Seyðisfirði"
@@ -436,7 +436,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 1604,
+        "svfnr": 1604,
         "sveitarfelag": "Mosfellsbær",
         "kjordaemi": "Suðvesturkjördæmi",
         "kjorstadur": "Lágafellsskóli"
@@ -452,7 +452,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 1000,
+        "svfnr": 1000,
         "sveitarfelag": "Kópavogsbær",
         "kjordaemi": "Suðvesturkjördæmi",
         "kjorstadur": "Smárinn"
@@ -468,7 +468,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 1000,
+        "svfnr": 1000,
         "sveitarfelag": "Kópavogsbær",
         "kjordaemi": "Suðvesturkjördæmi",
         "kjorstadur": "Kórinn"
@@ -484,7 +484,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 1400,
+        "svfnr": 1400,
         "sveitarfelag": "Hafnarfjarðarkaupstaður",
         "kjordaemi": "Suðvesturkjördæmi",
         "kjorstadur": "Lækjarskóli"
@@ -500,7 +500,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 1400,
+        "svfnr": 1400,
         "sveitarfelag": "Hafnarfjarðarkaupstaður",
         "kjordaemi": "Suðvesturkjördæmi",
         "kjorstadur": "Víðistaðaskóli"
@@ -516,7 +516,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 1300,
+        "svfnr": 1300,
         "sveitarfelag": "Garðabær",
         "kjordaemi": "Suðvesturkjördæmi",
         "kjorstadur": "Íþróttahúsið Mýrin"
@@ -532,7 +532,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 1300,
+        "svfnr": 1300,
         "sveitarfelag": "Garðabær",
         "kjordaemi": "Suðvesturkjördæmi",
         "kjorstadur": "Álftanesskóli"
@@ -548,7 +548,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 2000,
+        "svfnr": 2000,
         "sveitarfelag": "Reykjanesbær",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Fjölbrautaskóli Suðurnesja"
@@ -564,7 +564,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 2300,
+        "svfnr": 2300,
         "sveitarfelag": "Grindavíkurbær",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Grunnskóli Grindavíkur"
@@ -580,7 +580,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 2510,
+        "svfnr": 2510,
         "sveitarfelag": "Suðurnesjabær",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Gerðaskóli"
@@ -596,7 +596,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 2510,
+        "svfnr": 2510,
         "sveitarfelag": "Suðurnesjabær",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Sandgerðisskóli"
@@ -612,7 +612,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 2506,
+        "svfnr": 2506,
         "sveitarfelag": "Sveitarfélagið Vogar",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Stóru-Vogaskóli"
@@ -628,7 +628,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8721,
+        "svfnr": 8721,
         "sveitarfelag": "Bláskógabyggð",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Aratunga"
@@ -644,7 +644,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8721,
+        "svfnr": 8721,
         "sveitarfelag": "Bláskógabyggð",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Bláskógaskóli"
@@ -660,7 +660,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8401,
+        "svfnr": 8401,
         "sveitarfelag": "Sveitarfélagið Hornafjörður",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Hofgarður"
@@ -676,7 +676,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8401,
+        "svfnr": 8401,
         "sveitarfelag": "Sveitarfélagið Hornafjörður",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Hrollaugsstaðir"
@@ -692,7 +692,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8401,
+        "svfnr": 8401,
         "sveitarfelag": "Sveitarfélagið Hornafjörður",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Holt"
@@ -708,7 +708,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8401,
+        "svfnr": 8401,
         "sveitarfelag": "Sveitarfélagið Hornafjörður",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Mánagarður"
@@ -724,7 +724,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8401,
+        "svfnr": 8401,
         "sveitarfelag": "Sveitarfélagið Hornafjörður",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Heppuskóli"
@@ -740,7 +740,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6000,
+        "svfnr": 6000,
         "sveitarfelag": "Akureyrarbær",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Verkmenntaskólinn á Akureyri"
@@ -756,7 +756,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6000,
+        "svfnr": 6000,
         "sveitarfelag": "Akureyrarbær",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Hríseyjarskóli"
@@ -772,7 +772,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6000,
+        "svfnr": 6000,
         "sveitarfelag": "Akureyrarbær",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Félagsheimilið Múli"
@@ -788,7 +788,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8200,
+        "svfnr": 8200,
         "sveitarfelag": "Sveitarfélagið Árborg",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Vallaskóli"
@@ -804,7 +804,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8200,
+        "svfnr": 8200,
         "sveitarfelag": "Sveitarfélagið Árborg",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Samkomuhúsið Staður"
@@ -820,7 +820,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8200,
+        "svfnr": 8200,
         "sveitarfelag": "Sveitarfélagið Árborg",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Grunnskólinn á Stokkseyri"
@@ -836,7 +836,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8000,
+        "svfnr": 8000,
         "sveitarfelag": "Vestmannaeyjabær",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Grunnskóli Vestmannaeyja"
@@ -852,7 +852,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8716,
+        "svfnr": 8716,
         "sveitarfelag": "Hveragerðisbær",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Grunnskólinn í Hveragerði"
@@ -868,7 +868,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 7300,
+        "svfnr": 7300,
         "sveitarfelag": "Fjarðabyggð",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Sólbrekka"
@@ -884,7 +884,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 7300,
+        "svfnr": 7300,
         "sveitarfelag": "Fjarðabyggð",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Nesskóli"
@@ -900,7 +900,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 7300,
+        "svfnr": 7300,
         "sveitarfelag": "Fjarðabyggð",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Tónlistarmiðstöð Austurlands"
@@ -916,7 +916,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 7300,
+        "svfnr": 7300,
         "sveitarfelag": "Fjarðabyggð",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Safnaðarheimili Reyðarfjarðarkirkju"
@@ -932,7 +932,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 7300,
+        "svfnr": 7300,
         "sveitarfelag": "Fjarðabyggð",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Grunnskóli Fáskrúðsfjarðar"
@@ -948,7 +948,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 7300,
+        "svfnr": 7300,
         "sveitarfelag": "Fjarðabyggð",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Grunnskóli Stöðvarfjarðar"
@@ -964,7 +964,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 7300,
+        "svfnr": 7300,
         "sveitarfelag": "Fjarðabyggð",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Grunnskóli Breiðdalshrepps"
@@ -980,7 +980,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 4200,
+        "svfnr": 4200,
         "sveitarfelag": "Ísafjarðarbær",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Menntaskólinn á Ísafirði"
@@ -996,7 +996,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 4200,
+        "svfnr": 4200,
         "sveitarfelag": "Ísafjarðarbær",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Grunnskólinn á Suðureyri"
@@ -1012,7 +1012,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 4200,
+        "svfnr": 4200,
         "sveitarfelag": "Ísafjarðarbær",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Grunnskóli Önundarfjarðar"
@@ -1028,7 +1028,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 4200,
+        "svfnr": 4200,
         "sveitarfelag": "Ísafjarðarbær",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Grunnskólinn á Þingeyri"
@@ -1044,7 +1044,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 3714,
+        "svfnr": 3714,
         "sveitarfelag": "Snæfellsbær",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Grunnskólinn í Ólafsvík"
@@ -1060,7 +1060,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 3714,
+        "svfnr": 3714,
         "sveitarfelag": "Snæfellsbær",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Grunnskólinn á Hellissandi"
@@ -1076,7 +1076,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 3714,
+        "svfnr": 3714,
         "sveitarfelag": "Snæfellsbær",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Grunnskólinn á Lýsuhóli"
@@ -1092,7 +1092,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 3000,
+        "svfnr": 3000,
         "sveitarfelag": "Akraneskaupstaður",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Íþróttahúsið að Jaðarsbökkum"
@@ -1108,7 +1108,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 3609,
+        "svfnr": 3609,
         "sveitarfelag": "Borgarbyggð",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Menntaskóli Borgarfjarðar"
@@ -1124,7 +1124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 3609,
+        "svfnr": 3609,
         "sveitarfelag": "Borgarbyggð",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Félagsheimilið Lindartungu"
@@ -1140,7 +1140,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 3609,
+        "svfnr": 3609,
         "sveitarfelag": "Borgarbyggð",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Félagsheimilið Lyngbrekku"
@@ -1156,7 +1156,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 3609,
+        "svfnr": 3609,
         "sveitarfelag": "Borgarbyggð",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Félagsheimilið Þinghamar"
@@ -1172,7 +1172,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 3609,
+        "svfnr": 3609,
         "sveitarfelag": "Borgarbyggð",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Félagsheimilið Brúarási"
@@ -1188,7 +1188,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 3609,
+        "svfnr": 3609,
         "sveitarfelag": "Borgarbyggð",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Grunnskólinn að Kleppjárnsreykjum"
@@ -1204,7 +1204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 5200,
+        "svfnr": 5200,
         "sveitarfelag": "Sveitarfélagið Skagafjörður",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Félagsheimilið Skagasel"
@@ -1220,7 +1220,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 5200,
+        "svfnr": 5200,
         "sveitarfelag": "Sveitarfélagið Skagafjörður",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Fjölbrautaskóli Norðurlands vestra"
@@ -1236,7 +1236,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 5200,
+        "svfnr": 5200,
         "sveitarfelag": "Sveitarfélagið Skagafjörður",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Félagsheimilið Árgarður"
@@ -1252,7 +1252,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 5200,
+        "svfnr": 5200,
         "sveitarfelag": "Sveitarfélagið Skagafjörður",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Grunnskólinn að Hólum"
@@ -1268,7 +1268,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 5200,
+        "svfnr": 5200,
         "sveitarfelag": "Sveitarfélagið Skagafjörður",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Félagsheimilið Höfðaborg"
@@ -1284,7 +1284,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 5200,
+        "svfnr": 5200,
         "sveitarfelag": "Sveitarfélagið Skagafjörður",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Ketilás"
@@ -1300,7 +1300,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 5200,
+        "svfnr": 5200,
         "sveitarfelag": "Sveitarfélagið Skagafjörður",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Varmahlíðarskóli"
@@ -1316,7 +1316,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6100,
+        "svfnr": 6100,
         "sveitarfelag": "Norðurþing",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Borgarhólsskóli"
@@ -1332,7 +1332,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6100,
+        "svfnr": 6100,
         "sveitarfelag": "Norðurþing",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Skúlagarður"
@@ -1348,7 +1348,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6100,
+        "svfnr": 6100,
         "sveitarfelag": "Norðurþing",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Ráðhúsið Raufarhöfn"
@@ -1364,7 +1364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6100,
+        "svfnr": 6100,
         "sveitarfelag": "Norðurþing",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Skólahúsið Kópaskeri"
@@ -1380,7 +1380,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 5604,
+        "svfnr": 5604,
         "sveitarfelag": "Blönduósbær",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Íþróttamiðstöðin Blönudósi"
@@ -1396,7 +1396,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 5200,
+        "svfnr": 5200,
         "sveitarfelag": "Sveitarfélagið Skagaströnd",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Félagsheimilið Fellsborg"
@@ -1412,7 +1412,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 5612,
+        "svfnr": 5612,
         "sveitarfelag": "Húnavatnshreppur",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Húnavallaskóli"
@@ -1428,7 +1428,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 5611,
+        "svfnr": 5611,
         "sveitarfelag": "Skagabyggð",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Skagabúð"
@@ -1444,7 +1444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 5508,
+        "svfnr": 5508,
         "sveitarfelag": "Húnaþing vestra",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Félagsheimilið Hvammstanga"
@@ -1460,7 +1460,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 5706,
+        "svfnr": 5706,
         "sveitarfelag": "Akrahreppur",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Héðinsminni"
@@ -1476,7 +1476,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 4901,
+        "svfnr": 4901,
         "sveitarfelag": "Árneshreppur",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Félagsheimilið Árnesi"
@@ -1492,7 +1492,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 4100,
+        "svfnr": 4100,
         "sveitarfelag": "Bolungarvíkurkaupstaður",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Félagsheimili Bolungarvíkur"
@@ -1508,7 +1508,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 3811,
+        "svfnr": 3811,
         "sveitarfelag": "Dalabyggð",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Stjórnsýsluhúsið í Dalabyggð"
@@ -1524,7 +1524,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 1100,
+        "svfnr": 1100,
         "sveitarfelag": "Seltjarnarnesbær",
         "kjordaemi": "Suðvesturkjördæmi",
         "kjorstadur": "Valhúsaskóli"
@@ -1540,7 +1540,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 3711,
+        "svfnr": 3711,
         "sveitarfelag": "Stykkishólmsbær",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Grunnskólinn í Stykkishólmi"
@@ -1556,7 +1556,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6400,
+        "svfnr": 6400,
         "sveitarfelag": "Dalvíkurbyggð",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Dalvíkurskóli"
@@ -1572,7 +1572,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8614,
+        "svfnr": 8614,
         "sveitarfelag": "Rangárþing ytra",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Grunnskólinn á Hellu"
@@ -1588,7 +1588,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8613,
+        "svfnr": 8613,
         "sveitarfelag": "Rangárþing eystra",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Félagsheimilið Hvoll"
@@ -1604,7 +1604,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8613,
+        "svfnr": 8613,
         "sveitarfelag": "Rangárþing eystra",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Félagsheimilið Heimaland"
@@ -1620,7 +1620,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8508,
+        "svfnr": 8508,
         "sveitarfelag": "Mýrdalshreppur",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Víkurskóli"
@@ -1636,7 +1636,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8509,
+        "svfnr": 8509,
         "sveitarfelag": "Skaftárhreppur",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Kirkjubæjarskóli"
@@ -1652,7 +1652,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6513,
+        "svfnr": 6513,
         "sveitarfelag": "Eyjafjarðarsveit",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Hrafnagilsskóli"
@@ -1668,7 +1668,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6250,
+        "svfnr": 6250,
         "sveitarfelag": "Fjallabyggð",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Ráðhús Fjallabyggðar"
@@ -1684,7 +1684,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6250,
+        "svfnr": 6250,
         "sveitarfelag": "Fjallabyggð",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Menntaskólinn á Tröllaskaga"
@@ -1700,7 +1700,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 7505,
+        "svfnr": 7505,
         "sveitarfelag": "Fljótsdalshreppur",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Végarður"
@@ -1716,7 +1716,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8722,
+        "svfnr": 8722,
         "sveitarfelag": "Flóahreppur",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Félagsheimilið Þjórsárver"
@@ -1732,7 +1732,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8719,
+        "svfnr": 8719,
         "sveitarfelag": "Grímsnes- og Grafningshreppur",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Stjórnsýsluhúsið á Borg"
@@ -1748,7 +1748,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 3709,
+        "svfnr": 3709,
         "sveitarfelag": "Grundarfjarðarbær",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Samkomuhús Grundarfjarðar"
@@ -1764,7 +1764,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6602,
+        "svfnr": 6602,
         "sveitarfelag": "Grýtubakkahreppur",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Grenivíkurskóli"
@@ -1780,7 +1780,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8710,
+        "svfnr": 8710,
         "sveitarfelag": "Hrunamannahreppur",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Félagsheimili Hrunamanna"
@@ -1796,7 +1796,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 3511,
+        "svfnr": 3511,
         "sveitarfelag": "Hvalfjarðarsveit",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Stjórnsýsluhúsið í Melahverfi"
@@ -1812,7 +1812,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6515,
+        "svfnr": 6515,
         "sveitarfelag": "Hörgársveit",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Þelamerkurskóli"
@@ -1828,7 +1828,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6709,
+        "svfnr": 6709,
         "sveitarfelag": "Langanesbyggð",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Grunnskólinn á Bakkafirði"
@@ -1844,7 +1844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6709,
+        "svfnr": 6709,
         "sveitarfelag": "Langanesbyggð",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Félagsheimilið Þórsver"
@@ -1860,7 +1860,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6612,
+        "svfnr": 6612,
         "sveitarfelag": "Þingeyjarsveit",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Ljósvetningabúð"
@@ -1876,7 +1876,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 7502,
+        "svfnr": 7502,
         "sveitarfelag": "Vopnafjarðarhreppur",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Safnaðarheimili Vopnafjarðarkirkju"
@@ -1892,7 +1892,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 4607,
+        "svfnr": 4607,
         "sveitarfelag": "Vesturbyggð",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Félagsheimili Patreksfjarðar"
@@ -1908,7 +1908,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 4607,
+        "svfnr": 4607,
         "sveitarfelag": "Vesturbyggð",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Baldurshagi"
@@ -1924,7 +1924,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 4607,
+        "svfnr": 4607,
         "sveitarfelag": "Vesturbyggð",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Birkimelur"
@@ -1940,7 +1940,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 4604,
+        "svfnr": 4604,
         "sveitarfelag": "Tálknafjarðarhreppur",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Tálknafjarðarskóli"
@@ -1956,7 +1956,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8717,
+        "svfnr": 8717,
         "sveitarfelag": "Sveitarfélagið Ölfus",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Versalir"
@@ -1972,7 +1972,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6601,
+        "svfnr": 6601,
         "sveitarfelag": "Svalbarðsstrandarhreppur",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Valsárskóli"
@@ -1988,7 +1988,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 4803,
+        "svfnr": 4803,
         "sveitarfelag": "Súðavíkurhreppur",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Súðavíkurskóli"
@@ -2004,7 +2004,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 4803,
+        "svfnr": 4803,
         "sveitarfelag": "Súðavíkurhreppur",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Heydalur"
@@ -2020,7 +2020,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6706,
+        "svfnr": 6706,
         "sveitarfelag": "Svalbarðshreppur",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Svalbarðsskóli"
@@ -2036,7 +2036,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 4911,
+        "svfnr": 4911,
         "sveitarfelag": "Strandabyggð",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Hnyðja"
@@ -2052,7 +2052,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6607,
+        "svfnr": 6607,
         "sveitarfelag": "Skútustaðahreppur",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Skjólbrekka"
@@ -2068,7 +2068,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 3506,
+        "svfnr": 3506,
         "sveitarfelag": "Skorradalshreppur",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Hvammur"
@@ -2084,7 +2084,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8720,
+        "svfnr": 8720,
         "sveitarfelag": "Skeiða- og Gnúpverjahreppur",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Félagsheimilið Árnesi"
@@ -2100,7 +2100,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 4502,
+        "svfnr": 4502,
         "sveitarfelag": "Reykhólahreppur",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Skrifstofa Reykhólahrepps"
@@ -2116,7 +2116,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 1606,
+        "svfnr": 1606,
         "sveitarfelag": "Kjósarhreppur",
         "kjordaemi": "Suðvesturkjördæmi",
         "kjorstadur": "Ásgarður"
@@ -2132,7 +2132,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 3710,
+        "svfnr": 3710,
         "sveitarfelag": "Helgafellssveit",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Félagsheimilið Skjöldur"
@@ -2148,7 +2148,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 6611,
+        "svfnr": 6611,
         "sveitarfelag": "Tjörneshreppur",
         "kjordaemi": "Norðausturkjördæmi",
         "kjorstadur": "Félagsheimilið Sólvangur"
@@ -2164,7 +2164,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 4902,
+        "svfnr": 4902,
         "sveitarfelag": "Kaldrananeshreppur",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Grunnskóli Drangsness"
@@ -2180,7 +2180,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 3713,
+        "svfnr": 3713,
         "sveitarfelag": "Eyja- og Miklaholtshreppur",
         "kjordaemi": "Norðvesturkjördæmi",
         "kjorstadur": "Félagsheimilið Breiðablik"
@@ -2196,7 +2196,7 @@
     {
       "type": "Feature",
       "properties": {
-        "svfn": 8610,
+        "svfnr": 8610,
         "sveitarfelag": "Ásahreppur",
         "kjordaemi": "Suðurkjördæmi",
         "kjorstadur": "Félagsheimilið Ásgarður"
