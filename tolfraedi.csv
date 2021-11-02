@@ -1,0 +1,823 @@
+ferdatimi,fjoldi,hlutfall,kjordaemi,kjorstadur,sveitarfelag,svfnr
+0-5,67,0.033102766798418976,Suðurkjördæmi,Aratunga,Bláskógabyggð,8721
+6-10,80,0.039525691699604744,Suðurkjördæmi,Aratunga,Bláskógabyggð,8721
+11-15,34,0.016798418972332016,Suðurkjördæmi,Aratunga,Bláskógabyggð,8721
+16-20,27,0.0133399209486166,Suðurkjördæmi,Aratunga,Bláskógabyggð,8721
+21-25,18,0.008893280632411068,Suðurkjördæmi,Aratunga,Bláskógabyggð,8721
+>26,1798,0.8883399209486166,Suðurkjördæmi,Aratunga,Bláskógabyggð,8721
+0-5,87,0.35802469135802467,Norðvesturkjördæmi,Baldurshagi,Vesturbyggð,4607
+6-10,41,0.16872427983539096,Norðvesturkjördæmi,Baldurshagi,Vesturbyggð,4607
+11-15,16,0.06584362139917696,Norðvesturkjördæmi,Baldurshagi,Vesturbyggð,4607
+16-20,1,0.00411522633744856,Norðvesturkjördæmi,Baldurshagi,Vesturbyggð,4607
+21-25,4,0.01646090534979424,Norðvesturkjördæmi,Baldurshagi,Vesturbyggð,4607
+>26,94,0.3868312757201646,Norðvesturkjördæmi,Baldurshagi,Vesturbyggð,4607
+0-5,17,0.12318840579710146,Norðvesturkjördæmi,Birkimelur,Vesturbyggð,4607
+6-10,5,0.036231884057971016,Norðvesturkjördæmi,Birkimelur,Vesturbyggð,4607
+11-15,4,0.028985507246376812,Norðvesturkjördæmi,Birkimelur,Vesturbyggð,4607
+16-20,0,0.0,Norðvesturkjördæmi,Birkimelur,Vesturbyggð,4607
+21-25,2,0.014492753623188406,Norðvesturkjördæmi,Birkimelur,Vesturbyggð,4607
+>26,110,0.7971014492753623,Norðvesturkjördæmi,Birkimelur,Vesturbyggð,4607
+0-5,50,0.029691211401425176,Suðurkjördæmi,Bláskógaskóli,Bláskógabyggð,8721
+6-10,41,0.024346793349168647,Suðurkjördæmi,Bláskógaskóli,Bláskógabyggð,8721
+11-15,51,0.030285035629453682,Suðurkjördæmi,Bláskógaskóli,Bláskógabyggð,8721
+16-20,17,0.010095011876484561,Suðurkjördæmi,Bláskógaskóli,Bláskógabyggð,8721
+21-25,24,0.014251781472684086,Suðurkjördæmi,Bláskógaskóli,Bláskógabyggð,8721
+>26,1501,0.8913301662707839,Suðurkjördæmi,Bláskógaskóli,Bláskógabyggð,8721
+0-5,196,0.6030769230769231,Reykjavíkurkjördæmi suður,Borgarbókasafnið Kringlan,Reykjavíkurborg,0000
+6-10,73,0.2246153846153846,Reykjavíkurkjördæmi suður,Borgarbókasafnið Kringlan,Reykjavíkurborg,0000
+11-15,27,0.08307692307692308,Reykjavíkurkjördæmi suður,Borgarbókasafnið Kringlan,Reykjavíkurborg,0000
+16-20,29,0.08923076923076922,Reykjavíkurkjördæmi suður,Borgarbókasafnið Kringlan,Reykjavíkurborg,0000
+21-25,0,0.0,Reykjavíkurkjördæmi suður,Borgarbókasafnið Kringlan,Reykjavíkurborg,0000
+>26,0,0.0,Reykjavíkurkjördæmi suður,Borgarbókasafnið Kringlan,Reykjavíkurborg,0000
+0-5,127,0.12649402390438247,Norðausturkjördæmi,Borgarhólsskóli,Norðurþing,6100
+6-10,266,0.2649402390438247,Norðausturkjördæmi,Borgarhólsskóli,Norðurþing,6100
+11-15,254,0.25298804780876494,Norðausturkjördæmi,Borgarhólsskóli,Norðurþing,6100
+16-20,185,0.18426294820717132,Norðausturkjördæmi,Borgarhólsskóli,Norðurþing,6100
+21-25,14,0.013944223107569721,Norðausturkjördæmi,Borgarhólsskóli,Norðurþing,6100
+>26,158,0.15737051792828685,Norðausturkjördæmi,Borgarhólsskóli,Norðurþing,6100
+0-5,253,0.23867924528301887,Reykjavíkurkjördæmi norður,Borgaskóli,Reykjavíkurborg,0000
+6-10,173,0.1632075471698113,Reykjavíkurkjördæmi norður,Borgaskóli,Reykjavíkurborg,0000
+11-15,226,0.21320754716981133,Reykjavíkurkjördæmi norður,Borgaskóli,Reykjavíkurborg,0000
+16-20,202,0.19056603773584907,Reykjavíkurkjördæmi norður,Borgaskóli,Reykjavíkurborg,0000
+21-25,96,0.09056603773584905,Reykjavíkurkjördæmi norður,Borgaskóli,Reykjavíkurborg,0000
+>26,110,0.10377358490566038,Reykjavíkurkjördæmi norður,Borgaskóli,Reykjavíkurborg,0000
+0-5,386,0.1774712643678161,Reykjavíkurkjördæmi suður,Breiðagerðisskóli,Reykjavíkurborg,0000
+6-10,788,0.3622988505747126,Reykjavíkurkjördæmi suður,Breiðagerðisskóli,Reykjavíkurborg,0000
+11-15,747,0.34344827586206894,Reykjavíkurkjördæmi suður,Breiðagerðisskóli,Reykjavíkurborg,0000
+16-20,178,0.08183908045977012,Reykjavíkurkjördæmi suður,Breiðagerðisskóli,Reykjavíkurborg,0000
+21-25,74,0.03402298850574713,Reykjavíkurkjördæmi suður,Breiðagerðisskóli,Reykjavíkurborg,0000
+>26,2,0.0009195402298850574,Reykjavíkurkjördæmi suður,Breiðagerðisskóli,Reykjavíkurborg,0000
+0-5,284,0.5892116182572614,Reykjavíkurkjördæmi suður,Breiðholtsskóli,Reykjavíkurborg,0000
+6-10,178,0.36929460580912865,Reykjavíkurkjördæmi suður,Breiðholtsskóli,Reykjavíkurborg,0000
+11-15,8,0.016597510373443983,Reykjavíkurkjördæmi suður,Breiðholtsskóli,Reykjavíkurborg,0000
+16-20,12,0.024896265560165973,Reykjavíkurkjördæmi suður,Breiðholtsskóli,Reykjavíkurborg,0000
+21-25,0,0.0,Reykjavíkurkjördæmi suður,Breiðholtsskóli,Reykjavíkurborg,0000
+>26,0,0.0,Reykjavíkurkjördæmi suður,Breiðholtsskóli,Reykjavíkurborg,0000
+0-5,157,0.25363489499192243,Reykjavíkurkjördæmi norður,Dalskóli,Reykjavíkurborg,0000
+6-10,258,0.4168012924071082,Reykjavíkurkjördæmi norður,Dalskóli,Reykjavíkurborg,0000
+11-15,140,0.22617124394184168,Reykjavíkurkjördæmi norður,Dalskóli,Reykjavíkurborg,0000
+16-20,18,0.029079159935379646,Reykjavíkurkjördæmi norður,Dalskóli,Reykjavíkurborg,0000
+21-25,17,0.027463651050080775,Reykjavíkurkjördæmi norður,Dalskóli,Reykjavíkurborg,0000
+>26,29,0.046849757673667204,Reykjavíkurkjördæmi norður,Dalskóli,Reykjavíkurborg,0000
+0-5,105,0.0995260663507109,Norðausturkjördæmi,Dalvíkurskóli,Dalvíkurbyggð,6400
+6-10,289,0.2739336492890995,Norðausturkjördæmi,Dalvíkurskóli,Dalvíkurbyggð,6400
+11-15,158,0.14976303317535544,Norðausturkjördæmi,Dalvíkurskóli,Dalvíkurbyggð,6400
+16-20,21,0.01990521327014218,Norðausturkjördæmi,Dalvíkurskóli,Dalvíkurbyggð,6400
+21-25,18,0.017061611374407582,Norðausturkjördæmi,Dalvíkurskóli,Dalvíkurbyggð,6400
+>26,464,0.43981042654028435,Norðausturkjördæmi,Dalvíkurskóli,Dalvíkurbyggð,6400
+0-5,12,0.009167303284950344,Norðvesturkjördæmi,Fjölbrautaskóli Norðurlands vestra,Sveitarfélagið Skagafjörður,5200
+6-10,256,0.19556913674560733,Norðvesturkjördæmi,Fjölbrautaskóli Norðurlands vestra,Sveitarfélagið Skagafjörður,5200
+11-15,545,0.4163483575248281,Norðvesturkjördæmi,Fjölbrautaskóli Norðurlands vestra,Sveitarfélagið Skagafjörður,5200
+16-20,195,0.1489686783804431,Norðvesturkjördæmi,Fjölbrautaskóli Norðurlands vestra,Sveitarfélagið Skagafjörður,5200
+21-25,24,0.01833460656990069,Norðvesturkjördæmi,Fjölbrautaskóli Norðurlands vestra,Sveitarfélagið Skagafjörður,5200
+>26,277,0.21161191749427044,Norðvesturkjördæmi,Fjölbrautaskóli Norðurlands vestra,Sveitarfélagið Skagafjörður,5200
+0-5,189,0.03735177865612648,Suðurkjördæmi,Fjölbrautaskóli Suðurnesja,Reykjanesbær,2000
+6-10,742,0.1466403162055336,Suðurkjördæmi,Fjölbrautaskóli Suðurnesja,Reykjanesbær,2000
+11-15,781,0.15434782608695652,Suðurkjördæmi,Fjölbrautaskóli Suðurnesja,Reykjanesbær,2000
+16-20,718,0.14189723320158104,Suðurkjördæmi,Fjölbrautaskóli Suðurnesja,Reykjanesbær,2000
+21-25,334,0.06600790513833991,Suðurkjördæmi,Fjölbrautaskóli Suðurnesja,Reykjanesbær,2000
+>26,2296,0.45375494071146244,Suðurkjördæmi,Fjölbrautaskóli Suðurnesja,Reykjanesbær,2000
+0-5,235,0.11820925553319919,Reykjavíkurkjördæmi norður,Foldaskóli,Reykjavíkurborg,0000
+6-10,576,0.289738430583501,Reykjavíkurkjördæmi norður,Foldaskóli,Reykjavíkurborg,0000
+11-15,470,0.23641851106639838,Reykjavíkurkjördæmi norður,Foldaskóli,Reykjavíkurborg,0000
+16-20,448,0.22535211267605634,Reykjavíkurkjördæmi norður,Foldaskóli,Reykjavíkurborg,0000
+21-25,101,0.05080482897384306,Reykjavíkurkjördæmi norður,Foldaskóli,Reykjavíkurborg,0000
+>26,158,0.079476861167002,Reykjavíkurkjördæmi norður,Foldaskóli,Reykjavíkurborg,0000
+0-5,316,0.4606413994169096,Reykjavíkurkjördæmi suður,Frostaskjól,Reykjavíkurborg,0000
+6-10,347,0.5058309037900874,Reykjavíkurkjördæmi suður,Frostaskjól,Reykjavíkurborg,0000
+11-15,23,0.033527696793002916,Reykjavíkurkjördæmi suður,Frostaskjól,Reykjavíkurborg,0000
+16-20,0,0.0,Reykjavíkurkjördæmi suður,Frostaskjól,Reykjavíkurborg,0000
+21-25,0,0.0,Reykjavíkurkjördæmi suður,Frostaskjól,Reykjavíkurborg,0000
+>26,0,0.0,Reykjavíkurkjördæmi suður,Frostaskjól,Reykjavíkurborg,0000
+0-5,198,0.4024390243902439,Norðvesturkjördæmi,Félagsheimili Bolungarvíkur,Bolungarvíkurkaupstaður,4100
+6-10,171,0.3475609756097561,Norðvesturkjördæmi,Félagsheimili Bolungarvíkur,Bolungarvíkurkaupstaður,4100
+11-15,20,0.04065040650406504,Norðvesturkjördæmi,Félagsheimili Bolungarvíkur,Bolungarvíkurkaupstaður,4100
+16-20,17,0.034552845528455285,Norðvesturkjördæmi,Félagsheimili Bolungarvíkur,Bolungarvíkurkaupstaður,4100
+21-25,21,0.042682926829268296,Norðvesturkjördæmi,Félagsheimili Bolungarvíkur,Bolungarvíkurkaupstaður,4100
+>26,65,0.13211382113821138,Norðvesturkjördæmi,Félagsheimili Bolungarvíkur,Bolungarvíkurkaupstaður,4100
+0-5,60,0.058195926285160036,Suðurkjördæmi,Félagsheimili Hrunamanna,Hrunamannahreppur,8710
+6-10,67,0.06498545101842872,Suðurkjördæmi,Félagsheimili Hrunamanna,Hrunamannahreppur,8710
+11-15,75,0.07274490785645005,Suðurkjördæmi,Félagsheimili Hrunamanna,Hrunamannahreppur,8710
+16-20,69,0.06692531522793405,Suðurkjördæmi,Félagsheimili Hrunamanna,Hrunamannahreppur,8710
+21-25,64,0.06207565470417071,Suðurkjördæmi,Félagsheimili Hrunamanna,Hrunamannahreppur,8710
+>26,696,0.6750727449078564,Suðurkjördæmi,Félagsheimili Hrunamanna,Hrunamannahreppur,8710
+0-5,64,0.13417190775681342,Norðvesturkjördæmi,Félagsheimili Patreksfjarðar,Vesturbyggð,4607
+6-10,110,0.23060796645702306,Norðvesturkjördæmi,Félagsheimili Patreksfjarðar,Vesturbyggð,4607
+11-15,42,0.0880503144654088,Norðvesturkjördæmi,Félagsheimili Patreksfjarðar,Vesturbyggð,4607
+16-20,74,0.15513626834381553,Norðvesturkjördæmi,Félagsheimili Patreksfjarðar,Vesturbyggð,4607
+21-25,72,0.1509433962264151,Norðvesturkjördæmi,Félagsheimili Patreksfjarðar,Vesturbyggð,4607
+>26,115,0.24109014675052412,Norðvesturkjördæmi,Félagsheimili Patreksfjarðar,Vesturbyggð,4607
+0-5,1,0.00558659217877095,Norðvesturkjördæmi,Félagsheimilið Breiðablik,Eyja- og Miklaholtshreppur,3713
+6-10,2,0.0111731843575419,Norðvesturkjördæmi,Félagsheimilið Breiðablik,Eyja- og Miklaholtshreppur,3713
+11-15,1,0.00558659217877095,Norðvesturkjördæmi,Félagsheimilið Breiðablik,Eyja- og Miklaholtshreppur,3713
+16-20,0,0.0,Norðvesturkjördæmi,Félagsheimilið Breiðablik,Eyja- og Miklaholtshreppur,3713
+21-25,0,0.0,Norðvesturkjördæmi,Félagsheimilið Breiðablik,Eyja- og Miklaholtshreppur,3713
+>26,175,0.9776536312849162,Norðvesturkjördæmi,Félagsheimilið Breiðablik,Eyja- og Miklaholtshreppur,3713
+0-5,5,0.0071633237822349575,Norðvesturkjördæmi,Félagsheimilið Brúarási,Borgarbyggð,3609
+6-10,6,0.008595988538681949,Norðvesturkjördæmi,Félagsheimilið Brúarási,Borgarbyggð,3609
+11-15,6,0.008595988538681949,Norðvesturkjördæmi,Félagsheimilið Brúarási,Borgarbyggð,3609
+16-20,30,0.04297994269340974,Norðvesturkjördæmi,Félagsheimilið Brúarási,Borgarbyggð,3609
+21-25,4,0.0057306590257879654,Norðvesturkjördæmi,Félagsheimilið Brúarási,Borgarbyggð,3609
+>26,647,0.9269340974212035,Norðvesturkjördæmi,Félagsheimilið Brúarási,Borgarbyggð,3609
+0-5,0,0.0,Norðvesturkjördæmi,Félagsheimilið Fellsborg,Sveitarfélagið Skagaströnd,5200
+6-10,0,0.0,Norðvesturkjördæmi,Félagsheimilið Fellsborg,Sveitarfélagið Skagaströnd,5200
+11-15,0,0.0,Norðvesturkjördæmi,Félagsheimilið Fellsborg,Sveitarfélagið Skagaströnd,5200
+16-20,0,0.0,Norðvesturkjördæmi,Félagsheimilið Fellsborg,Sveitarfélagið Skagaströnd,5200
+21-25,0,0.0,Norðvesturkjördæmi,Félagsheimilið Fellsborg,Sveitarfélagið Skagaströnd,5200
+>26,2663,1.0,Norðvesturkjördæmi,Félagsheimilið Fellsborg,Sveitarfélagið Skagaströnd,5200
+0-5,4,0.009615384615384616,Suðurkjördæmi,Félagsheimilið Heimaland,Rangárþing eystra,8613
+6-10,3,0.007211538461538462,Suðurkjördæmi,Félagsheimilið Heimaland,Rangárþing eystra,8613
+11-15,2,0.004807692307692308,Suðurkjördæmi,Félagsheimilið Heimaland,Rangárþing eystra,8613
+16-20,2,0.004807692307692308,Suðurkjördæmi,Félagsheimilið Heimaland,Rangárþing eystra,8613
+21-25,4,0.009615384615384616,Suðurkjördæmi,Félagsheimilið Heimaland,Rangárþing eystra,8613
+>26,401,0.9639423076923077,Suðurkjördæmi,Félagsheimilið Heimaland,Rangárþing eystra,8613
+0-5,137,0.12638376383763839,Norðvesturkjördæmi,Félagsheimilið Hvammstanga,Húnaþing vestra,5508
+6-10,154,0.14206642066420663,Norðvesturkjördæmi,Félagsheimilið Hvammstanga,Húnaþing vestra,5508
+11-15,28,0.025830258302583026,Norðvesturkjördæmi,Félagsheimilið Hvammstanga,Húnaþing vestra,5508
+16-20,13,0.011992619926199263,Norðvesturkjördæmi,Félagsheimilið Hvammstanga,Húnaþing vestra,5508
+21-25,4,0.0036900369003690036,Norðvesturkjördæmi,Félagsheimilið Hvammstanga,Húnaþing vestra,5508
+>26,748,0.6900369003690037,Norðvesturkjördæmi,Félagsheimilið Hvammstanga,Húnaþing vestra,5508
+0-5,48,0.031270358306188926,Suðurkjördæmi,Félagsheimilið Hvoll,Rangárþing eystra,8613
+6-10,179,0.11661237785016286,Suðurkjördæmi,Félagsheimilið Hvoll,Rangárþing eystra,8613
+11-15,149,0.09706840390879479,Suðurkjördæmi,Félagsheimilið Hvoll,Rangárþing eystra,8613
+16-20,129,0.08403908794788274,Suðurkjördæmi,Félagsheimilið Hvoll,Rangárþing eystra,8613
+21-25,13,0.008469055374592834,Suðurkjördæmi,Félagsheimilið Hvoll,Rangárþing eystra,8613
+>26,1017,0.6625407166123779,Suðurkjördæmi,Félagsheimilið Hvoll,Rangárþing eystra,8613
+0-5,93,0.31313131313131315,Norðvesturkjördæmi,Félagsheimilið Höfðaborg,Sveitarfélagið Skagafjörður,5200
+6-10,35,0.11784511784511785,Norðvesturkjördæmi,Félagsheimilið Höfðaborg,Sveitarfélagið Skagafjörður,5200
+11-15,7,0.02356902356902357,Norðvesturkjördæmi,Félagsheimilið Höfðaborg,Sveitarfélagið Skagafjörður,5200
+16-20,3,0.010101010101010102,Norðvesturkjördæmi,Félagsheimilið Höfðaborg,Sveitarfélagið Skagafjörður,5200
+21-25,3,0.010101010101010102,Norðvesturkjördæmi,Félagsheimilið Höfðaborg,Sveitarfélagið Skagafjörður,5200
+>26,156,0.5252525252525253,Norðvesturkjördæmi,Félagsheimilið Höfðaborg,Sveitarfélagið Skagafjörður,5200
+0-5,1,0.007042253521126761,Norðvesturkjördæmi,Félagsheimilið Lindartungu,Borgarbyggð,3609
+6-10,4,0.028169014084507043,Norðvesturkjördæmi,Félagsheimilið Lindartungu,Borgarbyggð,3609
+11-15,2,0.014084507042253521,Norðvesturkjördæmi,Félagsheimilið Lindartungu,Borgarbyggð,3609
+16-20,2,0.014084507042253521,Norðvesturkjördæmi,Félagsheimilið Lindartungu,Borgarbyggð,3609
+21-25,2,0.014084507042253521,Norðvesturkjördæmi,Félagsheimilið Lindartungu,Borgarbyggð,3609
+>26,131,0.9225352112676056,Norðvesturkjördæmi,Félagsheimilið Lindartungu,Borgarbyggð,3609
+0-5,1,0.0026666666666666666,Norðvesturkjördæmi,Félagsheimilið Lyngbrekku,Borgarbyggð,3609
+6-10,2,0.005333333333333333,Norðvesturkjördæmi,Félagsheimilið Lyngbrekku,Borgarbyggð,3609
+11-15,4,0.010666666666666666,Norðvesturkjördæmi,Félagsheimilið Lyngbrekku,Borgarbyggð,3609
+16-20,2,0.005333333333333333,Norðvesturkjördæmi,Félagsheimilið Lyngbrekku,Borgarbyggð,3609
+21-25,2,0.005333333333333333,Norðvesturkjördæmi,Félagsheimilið Lyngbrekku,Borgarbyggð,3609
+>26,364,0.9706666666666667,Norðvesturkjördæmi,Félagsheimilið Lyngbrekku,Borgarbyggð,3609
+0-5,31,0.4246575342465753,Norðausturkjördæmi,Félagsheimilið Múli,Akureyrarbær,6000
+6-10,29,0.3972602739726027,Norðausturkjördæmi,Félagsheimilið Múli,Akureyrarbær,6000
+11-15,0,0.0,Norðausturkjördæmi,Félagsheimilið Múli,Akureyrarbær,6000
+16-20,9,0.1232876712328767,Norðausturkjördæmi,Félagsheimilið Múli,Akureyrarbær,6000
+21-25,1,0.0136986301369863,Norðausturkjördæmi,Félagsheimilið Múli,Akureyrarbær,6000
+>26,3,0.0410958904109589,Norðausturkjördæmi,Félagsheimilið Múli,Akureyrarbær,6000
+0-5,4,0.08,Norðvesturkjördæmi,Félagsheimilið Skagasel,Sveitarfélagið Skagafjörður,5200
+6-10,1,0.02,Norðvesturkjördæmi,Félagsheimilið Skagasel,Sveitarfélagið Skagafjörður,5200
+11-15,1,0.02,Norðvesturkjördæmi,Félagsheimilið Skagasel,Sveitarfélagið Skagafjörður,5200
+16-20,1,0.02,Norðvesturkjördæmi,Félagsheimilið Skagasel,Sveitarfélagið Skagafjörður,5200
+21-25,0,0.0,Norðvesturkjördæmi,Félagsheimilið Skagasel,Sveitarfélagið Skagafjörður,5200
+>26,43,0.86,Norðvesturkjördæmi,Félagsheimilið Skagasel,Sveitarfélagið Skagafjörður,5200
+0-5,4,0.024844720496894408,Norðvesturkjördæmi,Félagsheimilið Skjöldur,Helgafellssveit,3710
+6-10,0,0.0,Norðvesturkjördæmi,Félagsheimilið Skjöldur,Helgafellssveit,3710
+11-15,0,0.0,Norðvesturkjördæmi,Félagsheimilið Skjöldur,Helgafellssveit,3710
+16-20,0,0.0,Norðvesturkjördæmi,Félagsheimilið Skjöldur,Helgafellssveit,3710
+21-25,3,0.018633540372670808,Norðvesturkjördæmi,Félagsheimilið Skjöldur,Helgafellssveit,3710
+>26,154,0.9565217391304348,Norðvesturkjördæmi,Félagsheimilið Skjöldur,Helgafellssveit,3710
+0-5,6,0.13333333333333333,Norðausturkjördæmi,Félagsheimilið Sólvangur,Tjörneshreppur,6611
+6-10,0,0.0,Norðausturkjördæmi,Félagsheimilið Sólvangur,Tjörneshreppur,6611
+11-15,0,0.0,Norðausturkjördæmi,Félagsheimilið Sólvangur,Tjörneshreppur,6611
+16-20,1,0.022222222222222223,Norðausturkjördæmi,Félagsheimilið Sólvangur,Tjörneshreppur,6611
+21-25,0,0.0,Norðausturkjördæmi,Félagsheimilið Sólvangur,Tjörneshreppur,6611
+>26,38,0.8444444444444444,Norðausturkjördæmi,Félagsheimilið Sólvangur,Tjörneshreppur,6611
+0-5,15,0.056818181818181816,Norðvesturkjördæmi,Félagsheimilið Árgarður,Sveitarfélagið Skagafjörður,5200
+6-10,19,0.07196969696969698,Norðvesturkjördæmi,Félagsheimilið Árgarður,Sveitarfélagið Skagafjörður,5200
+11-15,19,0.07196969696969698,Norðvesturkjördæmi,Félagsheimilið Árgarður,Sveitarfélagið Skagafjörður,5200
+16-20,6,0.022727272727272728,Norðvesturkjördæmi,Félagsheimilið Árgarður,Sveitarfélagið Skagafjörður,5200
+21-25,23,0.08712121212121213,Norðvesturkjördæmi,Félagsheimilið Árgarður,Sveitarfélagið Skagafjörður,5200
+>26,182,0.6893939393939394,Norðvesturkjördæmi,Félagsheimilið Árgarður,Sveitarfélagið Skagafjörður,5200
+0-5,6,0.05128205128205128,Norðvesturkjördæmi,Félagsheimilið Árnesi,Árneshreppur,4901
+6-10,4,0.03418803418803419,Norðvesturkjördæmi,Félagsheimilið Árnesi,Árneshreppur,4901
+11-15,1,0.008547008547008548,Norðvesturkjördæmi,Félagsheimilið Árnesi,Árneshreppur,4901
+16-20,1,0.008547008547008548,Norðvesturkjördæmi,Félagsheimilið Árnesi,Árneshreppur,4901
+21-25,0,0.0,Norðvesturkjördæmi,Félagsheimilið Árnesi,Árneshreppur,4901
+>26,105,0.8974358974358975,Norðvesturkjördæmi,Félagsheimilið Árnesi,Árneshreppur,4901
+0-5,13,0.04406779661016949,Suðurkjördæmi,Félagsheimilið Ásgarður,Ásahreppur,8610
+6-10,3,0.010169491525423728,Suðurkjördæmi,Félagsheimilið Ásgarður,Ásahreppur,8610
+11-15,7,0.023728813559322035,Suðurkjördæmi,Félagsheimilið Ásgarður,Ásahreppur,8610
+16-20,5,0.01694915254237288,Suðurkjördæmi,Félagsheimilið Ásgarður,Ásahreppur,8610
+21-25,5,0.01694915254237288,Suðurkjördæmi,Félagsheimilið Ásgarður,Ásahreppur,8610
+>26,262,0.888135593220339,Suðurkjördæmi,Félagsheimilið Ásgarður,Ásahreppur,8610
+0-5,14,0.015765765765765764,Norðvesturkjördæmi,Félagsheimilið Þinghamar,Borgarbyggð,3609
+6-10,6,0.006756756756756757,Norðvesturkjördæmi,Félagsheimilið Þinghamar,Borgarbyggð,3609
+11-15,4,0.0045045045045045045,Norðvesturkjördæmi,Félagsheimilið Þinghamar,Borgarbyggð,3609
+16-20,8,0.009009009009009009,Norðvesturkjördæmi,Félagsheimilið Þinghamar,Borgarbyggð,3609
+21-25,2,0.0022522522522522522,Norðvesturkjördæmi,Félagsheimilið Þinghamar,Borgarbyggð,3609
+>26,854,0.9617117117117117,Norðvesturkjördæmi,Félagsheimilið Þinghamar,Borgarbyggð,3609
+0-5,3,0.00392156862745098,Suðurkjördæmi,Félagsheimilið Þjórsárver,Flóahreppur,8722
+6-10,5,0.006535947712418301,Suðurkjördæmi,Félagsheimilið Þjórsárver,Flóahreppur,8722
+11-15,1,0.00130718954248366,Suðurkjördæmi,Félagsheimilið Þjórsárver,Flóahreppur,8722
+16-20,2,0.00261437908496732,Suðurkjördæmi,Félagsheimilið Þjórsárver,Flóahreppur,8722
+21-25,7,0.009150326797385621,Suðurkjördæmi,Félagsheimilið Þjórsárver,Flóahreppur,8722
+>26,747,0.9764705882352941,Suðurkjördæmi,Félagsheimilið Þjórsárver,Flóahreppur,8722
+0-5,129,0.344,Norðausturkjördæmi,Félagsheimilið Þórsver,Langanesbyggð,6709
+6-10,52,0.13866666666666666,Norðausturkjördæmi,Félagsheimilið Þórsver,Langanesbyggð,6709
+11-15,27,0.072,Norðausturkjördæmi,Félagsheimilið Þórsver,Langanesbyggð,6709
+16-20,2,0.005333333333333333,Norðausturkjördæmi,Félagsheimilið Þórsver,Langanesbyggð,6709
+21-25,0,0.0,Norðausturkjördæmi,Félagsheimilið Þórsver,Langanesbyggð,6709
+>26,165,0.44,Norðausturkjördæmi,Félagsheimilið Þórsver,Langanesbyggð,6709
+0-5,75,0.08690614136732329,Suðurkjördæmi,Gerðaskóli,Suðurnesjabær,2510
+6-10,338,0.39165701042873696,Suðurkjördæmi,Gerðaskóli,Suðurnesjabær,2510
+11-15,300,0.34762456546929316,Suðurkjördæmi,Gerðaskóli,Suðurnesjabær,2510
+16-20,104,0.1205098493626883,Suðurkjördæmi,Gerðaskóli,Suðurnesjabær,2510
+21-25,14,0.016222479721900347,Suðurkjördæmi,Gerðaskóli,Suðurnesjabær,2510
+>26,32,0.03707995365005794,Suðurkjördæmi,Gerðaskóli,Suðurnesjabær,2510
+0-5,19,0.06643356643356643,Norðausturkjördæmi,Grenivíkurskóli,Grýtubakkahreppur,6602
+6-10,110,0.38461538461538464,Norðausturkjördæmi,Grenivíkurskóli,Grýtubakkahreppur,6602
+11-15,34,0.11888111888111888,Norðausturkjördæmi,Grenivíkurskóli,Grýtubakkahreppur,6602
+16-20,11,0.038461538461538464,Norðausturkjördæmi,Grenivíkurskóli,Grýtubakkahreppur,6602
+21-25,5,0.017482517482517484,Norðausturkjördæmi,Grenivíkurskóli,Grýtubakkahreppur,6602
+>26,107,0.3741258741258741,Norðausturkjördæmi,Grenivíkurskóli,Grýtubakkahreppur,6602
+0-5,44,0.23157894736842105,Norðausturkjördæmi,Grunnskóli Breiðdalshrepps,Fjarðabyggð,7300
+6-10,57,0.3,Norðausturkjördæmi,Grunnskóli Breiðdalshrepps,Fjarðabyggð,7300
+11-15,6,0.031578947368421054,Norðausturkjördæmi,Grunnskóli Breiðdalshrepps,Fjarðabyggð,7300
+16-20,3,0.015789473684210527,Norðausturkjördæmi,Grunnskóli Breiðdalshrepps,Fjarðabyggð,7300
+21-25,5,0.02631578947368421,Norðausturkjördæmi,Grunnskóli Breiðdalshrepps,Fjarðabyggð,7300
+>26,75,0.39473684210526316,Norðausturkjördæmi,Grunnskóli Breiðdalshrepps,Fjarðabyggð,7300
+0-5,30,0.17045454545454544,Norðvesturkjördæmi,Grunnskóli Drangsness,Kaldrananeshreppur,4902
+6-10,37,0.21022727272727273,Norðvesturkjördæmi,Grunnskóli Drangsness,Kaldrananeshreppur,4902
+11-15,2,0.011363636363636364,Norðvesturkjördæmi,Grunnskóli Drangsness,Kaldrananeshreppur,4902
+16-20,3,0.017045454545454544,Norðvesturkjördæmi,Grunnskóli Drangsness,Kaldrananeshreppur,4902
+21-25,2,0.011363636363636364,Norðvesturkjördæmi,Grunnskóli Drangsness,Kaldrananeshreppur,4902
+>26,102,0.5795454545454546,Norðvesturkjördæmi,Grunnskóli Drangsness,Kaldrananeshreppur,4902
+0-5,146,0.34679334916864607,Norðausturkjördæmi,Grunnskóli Fáskrúðsfjarðar,Fjarðabyggð,7300
+6-10,144,0.342042755344418,Norðausturkjördæmi,Grunnskóli Fáskrúðsfjarðar,Fjarðabyggð,7300
+11-15,54,0.12826603325415678,Norðausturkjördæmi,Grunnskóli Fáskrúðsfjarðar,Fjarðabyggð,7300
+16-20,12,0.028503562945368172,Norðausturkjördæmi,Grunnskóli Fáskrúðsfjarðar,Fjarðabyggð,7300
+21-25,10,0.023752969121140142,Norðausturkjördæmi,Grunnskóli Fáskrúðsfjarðar,Fjarðabyggð,7300
+>26,55,0.13064133016627077,Norðausturkjördæmi,Grunnskóli Fáskrúðsfjarðar,Fjarðabyggð,7300
+0-5,258,0.2087378640776699,Suðurkjördæmi,Grunnskóli Grindavíkur,Grindavíkurbær,2300
+6-10,371,0.30016181229773464,Suðurkjördæmi,Grunnskóli Grindavíkur,Grindavíkurbær,2300
+11-15,191,0.15453074433656958,Suðurkjördæmi,Grunnskóli Grindavíkur,Grindavíkurbær,2300
+16-20,217,0.1755663430420712,Suðurkjördæmi,Grunnskóli Grindavíkur,Grindavíkurbær,2300
+21-25,64,0.05177993527508091,Suðurkjördæmi,Grunnskóli Grindavíkur,Grindavíkurbær,2300
+>26,135,0.10922330097087378,Suðurkjördæmi,Grunnskóli Grindavíkur,Grindavíkurbær,2300
+0-5,79,0.5602836879432624,Norðausturkjördæmi,Grunnskóli Stöðvarfjarðar,Fjarðabyggð,7300
+6-10,37,0.2624113475177305,Norðausturkjördæmi,Grunnskóli Stöðvarfjarðar,Fjarðabyggð,7300
+11-15,7,0.04964539007092199,Norðausturkjördæmi,Grunnskóli Stöðvarfjarðar,Fjarðabyggð,7300
+16-20,1,0.0070921985815602835,Norðausturkjördæmi,Grunnskóli Stöðvarfjarðar,Fjarðabyggð,7300
+21-25,2,0.014184397163120567,Norðausturkjördæmi,Grunnskóli Stöðvarfjarðar,Fjarðabyggð,7300
+>26,15,0.10638297872340426,Norðausturkjördæmi,Grunnskóli Stöðvarfjarðar,Fjarðabyggð,7300
+0-5,336,0.20314389359129384,Suðurkjördæmi,Grunnskóli Vestmannaeyja,Vestmannaeyjabær,8000
+6-10,703,0.42503022974607013,Suðurkjördæmi,Grunnskóli Vestmannaeyja,Vestmannaeyjabær,8000
+11-15,305,0.18440145102781136,Suðurkjördæmi,Grunnskóli Vestmannaeyja,Vestmannaeyjabær,8000
+16-20,176,0.10640870616686819,Suðurkjördæmi,Grunnskóli Vestmannaeyja,Vestmannaeyjabær,8000
+21-25,102,0.06166868198307134,Suðurkjördæmi,Grunnskóli Vestmannaeyja,Vestmannaeyjabær,8000
+>26,32,0.019347037484885126,Suðurkjördæmi,Grunnskóli Vestmannaeyja,Vestmannaeyjabær,8000
+0-5,126,0.47191011235955055,Norðvesturkjördæmi,Grunnskóli Önundarfjarðar,Ísafjarðarbær,4200
+6-10,52,0.1947565543071161,Norðvesturkjördæmi,Grunnskóli Önundarfjarðar,Ísafjarðarbær,4200
+11-15,4,0.0149812734082397,Norðvesturkjördæmi,Grunnskóli Önundarfjarðar,Ísafjarðarbær,4200
+16-20,1,0.003745318352059925,Norðvesturkjördæmi,Grunnskóli Önundarfjarðar,Ísafjarðarbær,4200
+21-25,1,0.003745318352059925,Norðvesturkjördæmi,Grunnskóli Önundarfjarðar,Ísafjarðarbær,4200
+>26,83,0.31086142322097376,Norðvesturkjördæmi,Grunnskóli Önundarfjarðar,Ísafjarðarbær,4200
+0-5,2,0.009523809523809525,Norðvesturkjördæmi,Grunnskólinn að Hólum,Sveitarfélagið Skagafjörður,5200
+6-10,16,0.0761904761904762,Norðvesturkjördæmi,Grunnskólinn að Hólum,Sveitarfélagið Skagafjörður,5200
+11-15,33,0.15714285714285714,Norðvesturkjördæmi,Grunnskólinn að Hólum,Sveitarfélagið Skagafjörður,5200
+16-20,3,0.014285714285714285,Norðvesturkjördæmi,Grunnskólinn að Hólum,Sveitarfélagið Skagafjörður,5200
+21-25,1,0.004761904761904762,Norðvesturkjördæmi,Grunnskólinn að Hólum,Sveitarfélagið Skagafjörður,5200
+>26,155,0.7380952380952381,Norðvesturkjördæmi,Grunnskólinn að Hólum,Sveitarfélagið Skagafjörður,5200
+0-5,20,0.028409090909090908,Norðvesturkjördæmi,Grunnskólinn að Kleppjárnsreykjum,Borgarbyggð,3609
+6-10,15,0.02130681818181818,Norðvesturkjördæmi,Grunnskólinn að Kleppjárnsreykjum,Borgarbyggð,3609
+11-15,3,0.004261363636363636,Norðvesturkjördæmi,Grunnskólinn að Kleppjárnsreykjum,Borgarbyggð,3609
+16-20,3,0.004261363636363636,Norðvesturkjördæmi,Grunnskólinn að Kleppjárnsreykjum,Borgarbyggð,3609
+21-25,3,0.004261363636363636,Norðvesturkjördæmi,Grunnskólinn að Kleppjárnsreykjum,Borgarbyggð,3609
+>26,660,0.9375,Norðvesturkjördæmi,Grunnskólinn að Kleppjárnsreykjum,Borgarbyggð,3609
+0-5,51,0.136,Norðausturkjördæmi,Grunnskólinn á Bakkafirði,Langanesbyggð,6709
+6-10,15,0.04,Norðausturkjördæmi,Grunnskólinn á Bakkafirði,Langanesbyggð,6709
+11-15,1,0.0026666666666666666,Norðausturkjördæmi,Grunnskólinn á Bakkafirði,Langanesbyggð,6709
+16-20,0,0.0,Norðausturkjördæmi,Grunnskólinn á Bakkafirði,Langanesbyggð,6709
+21-25,1,0.0026666666666666666,Norðausturkjördæmi,Grunnskólinn á Bakkafirði,Langanesbyggð,6709
+>26,307,0.8186666666666667,Norðausturkjördæmi,Grunnskólinn á Bakkafirði,Langanesbyggð,6709
+0-5,56,0.17337461300309598,Norðvesturkjördæmi,Grunnskólinn á Hellissandi,Snæfellsbær,3714
+6-10,112,0.34674922600619196,Norðvesturkjördæmi,Grunnskólinn á Hellissandi,Snæfellsbær,3714
+11-15,23,0.07120743034055728,Norðvesturkjördæmi,Grunnskólinn á Hellissandi,Snæfellsbær,3714
+16-20,11,0.034055727554179564,Norðvesturkjördæmi,Grunnskólinn á Hellissandi,Snæfellsbær,3714
+21-25,2,0.006191950464396285,Norðvesturkjördæmi,Grunnskólinn á Hellissandi,Snæfellsbær,3714
+>26,119,0.3684210526315789,Norðvesturkjördæmi,Grunnskólinn á Hellissandi,Snæfellsbær,3714
+0-5,78,0.027263194687172317,Suðurkjördæmi,Grunnskólinn á Hellu,Rangárþing ytra,8614
+6-10,176,0.06151695211464523,Suðurkjördæmi,Grunnskólinn á Hellu,Rangárþing ytra,8614
+11-15,188,0.06571128975882559,Suðurkjördæmi,Grunnskólinn á Hellu,Rangárþing ytra,8614
+16-20,57,0.019923103809856693,Suðurkjördæmi,Grunnskólinn á Hellu,Rangárþing ytra,8614
+21-25,26,0.009087731562390773,Suðurkjördæmi,Grunnskólinn á Hellu,Rangárþing ytra,8614
+>26,2336,0.8164977280671094,Suðurkjördæmi,Grunnskólinn á Hellu,Rangárþing ytra,8614
+0-5,7,0.01971830985915493,Norðvesturkjördæmi,Grunnskólinn á Lýsuhóli,Snæfellsbær,3714
+6-10,1,0.0028169014084507044,Norðvesturkjördæmi,Grunnskólinn á Lýsuhóli,Snæfellsbær,3714
+11-15,1,0.0028169014084507044,Norðvesturkjördæmi,Grunnskólinn á Lýsuhóli,Snæfellsbær,3714
+16-20,0,0.0,Norðvesturkjördæmi,Grunnskólinn á Lýsuhóli,Snæfellsbær,3714
+21-25,3,0.008450704225352112,Norðvesturkjördæmi,Grunnskólinn á Lýsuhóli,Snæfellsbær,3714
+>26,343,0.9661971830985916,Norðvesturkjördæmi,Grunnskólinn á Lýsuhóli,Snæfellsbær,3714
+0-5,106,0.18181818181818182,Suðurkjördæmi,Grunnskólinn á Stokkseyri,Sveitarfélagið Árborg,8200
+6-10,114,0.1955403087478559,Suðurkjördæmi,Grunnskólinn á Stokkseyri,Sveitarfélagið Árborg,8200
+11-15,50,0.08576329331046312,Suðurkjördæmi,Grunnskólinn á Stokkseyri,Sveitarfélagið Árborg,8200
+16-20,31,0.05317324185248713,Suðurkjördæmi,Grunnskólinn á Stokkseyri,Sveitarfélagið Árborg,8200
+21-25,16,0.0274442538593482,Suðurkjördæmi,Grunnskólinn á Stokkseyri,Sveitarfélagið Árborg,8200
+>26,266,0.4562607204116638,Suðurkjördæmi,Grunnskólinn á Stokkseyri,Sveitarfélagið Árborg,8200
+0-5,116,0.6270270270270271,Norðvesturkjördæmi,Grunnskólinn á Suðureyri,Ísafjarðarbær,4200
+6-10,32,0.17297297297297298,Norðvesturkjördæmi,Grunnskólinn á Suðureyri,Ísafjarðarbær,4200
+11-15,1,0.005405405405405406,Norðvesturkjördæmi,Grunnskólinn á Suðureyri,Ísafjarðarbær,4200
+16-20,0,0.0,Norðvesturkjördæmi,Grunnskólinn á Suðureyri,Ísafjarðarbær,4200
+21-25,0,0.0,Norðvesturkjördæmi,Grunnskólinn á Suðureyri,Ísafjarðarbær,4200
+>26,36,0.1945945945945946,Norðvesturkjördæmi,Grunnskólinn á Suðureyri,Ísafjarðarbær,4200
+0-5,60,0.15544041450777202,Norðvesturkjördæmi,Grunnskólinn á Þingeyri,Ísafjarðarbær,4200
+6-10,101,0.2616580310880829,Norðvesturkjördæmi,Grunnskólinn á Þingeyri,Ísafjarðarbær,4200
+11-15,6,0.015544041450777202,Norðvesturkjördæmi,Grunnskólinn á Þingeyri,Ísafjarðarbær,4200
+16-20,0,0.0,Norðvesturkjördæmi,Grunnskólinn á Þingeyri,Ísafjarðarbær,4200
+21-25,0,0.0,Norðvesturkjördæmi,Grunnskólinn á Þingeyri,Ísafjarðarbær,4200
+>26,219,0.5673575129533679,Norðvesturkjördæmi,Grunnskólinn á Þingeyri,Ísafjarðarbær,4200
+0-5,114,0.08236994219653179,Suðurkjördæmi,Grunnskólinn í Hveragerði,Hveragerðisbær,8716
+6-10,403,0.2911849710982659,Suðurkjördæmi,Grunnskólinn í Hveragerði,Hveragerðisbær,8716
+11-15,435,0.3143063583815029,Suðurkjördæmi,Grunnskólinn í Hveragerði,Hveragerðisbær,8716
+16-20,217,0.15679190751445088,Suðurkjördæmi,Grunnskólinn í Hveragerði,Hveragerðisbær,8716
+21-25,125,0.09031791907514451,Suðurkjördæmi,Grunnskólinn í Hveragerði,Hveragerðisbær,8716
+>26,90,0.06502890173410404,Suðurkjördæmi,Grunnskólinn í Hveragerði,Hveragerðisbær,8716
+0-5,84,0.12518628912071536,Norðvesturkjördæmi,Grunnskólinn í Stykkishólmi,Stykkishólmsbær,3711
+6-10,367,0.5469448584202683,Norðvesturkjördæmi,Grunnskólinn í Stykkishólmi,Stykkishólmsbær,3711
+11-15,122,0.18181818181818182,Norðvesturkjördæmi,Grunnskólinn í Stykkishólmi,Stykkishólmsbær,3711
+16-20,32,0.04769001490312966,Norðvesturkjördæmi,Grunnskólinn í Stykkishólmi,Stykkishólmsbær,3711
+21-25,27,0.040238450074515646,Norðvesturkjördæmi,Grunnskólinn í Stykkishólmi,Stykkishólmsbær,3711
+>26,39,0.05812220566318927,Norðvesturkjördæmi,Grunnskólinn í Stykkishólmi,Stykkishólmsbær,3711
+0-5,96,0.1935483870967742,Norðvesturkjördæmi,Grunnskólinn í Ólafsvík,Snæfellsbær,3714
+6-10,177,0.35685483870967744,Norðvesturkjördæmi,Grunnskólinn í Ólafsvík,Snæfellsbær,3714
+11-15,129,0.2600806451612903,Norðvesturkjördæmi,Grunnskólinn í Ólafsvík,Snæfellsbær,3714
+16-20,16,0.03225806451612903,Norðvesturkjördæmi,Grunnskólinn í Ólafsvík,Snæfellsbær,3714
+21-25,4,0.008064516129032258,Norðvesturkjördæmi,Grunnskólinn í Ólafsvík,Snæfellsbær,3714
+>26,74,0.14919354838709678,Norðvesturkjördæmi,Grunnskólinn í Ólafsvík,Snæfellsbær,3714
+0-5,109,0.11449579831932773,Reykjavíkurkjördæmi suður,Hagaskóli,Reykjavíkurborg,0000
+6-10,400,0.42016806722689076,Reykjavíkurkjördæmi suður,Hagaskóli,Reykjavíkurborg,0000
+11-15,109,0.11449579831932773,Reykjavíkurkjördæmi suður,Hagaskóli,Reykjavíkurborg,0000
+16-20,126,0.1323529411764706,Reykjavíkurkjördæmi suður,Hagaskóli,Reykjavíkurborg,0000
+21-25,142,0.14915966386554622,Reykjavíkurkjördæmi suður,Hagaskóli,Reykjavíkurborg,0000
+>26,66,0.06932773109243698,Reykjavíkurkjördæmi suður,Hagaskóli,Reykjavíkurborg,0000
+0-5,137,0.20087976539589442,Suðurkjördæmi,Heppuskóli,Sveitarfélagið Hornafjörður,8401
+6-10,277,0.40615835777126097,Suðurkjördæmi,Heppuskóli,Sveitarfélagið Hornafjörður,8401
+11-15,196,0.2873900293255132,Suðurkjördæmi,Heppuskóli,Sveitarfélagið Hornafjörður,8401
+16-20,26,0.03812316715542522,Suðurkjördæmi,Heppuskóli,Sveitarfélagið Hornafjörður,8401
+21-25,14,0.020527859237536656,Suðurkjördæmi,Heppuskóli,Sveitarfélagið Hornafjörður,8401
+>26,32,0.0469208211143695,Suðurkjördæmi,Heppuskóli,Sveitarfélagið Hornafjörður,8401
+0-5,1,0.010526315789473684,Norðvesturkjördæmi,Heydalur,Súðavíkurhreppur,4803
+6-10,0,0.0,Norðvesturkjördæmi,Heydalur,Súðavíkurhreppur,4803
+11-15,2,0.021052631578947368,Norðvesturkjördæmi,Heydalur,Súðavíkurhreppur,4803
+16-20,2,0.021052631578947368,Norðvesturkjördæmi,Heydalur,Súðavíkurhreppur,4803
+21-25,1,0.010526315789473684,Norðvesturkjördæmi,Heydalur,Súðavíkurhreppur,4803
+>26,89,0.9368421052631579,Norðvesturkjördæmi,Heydalur,Súðavíkurhreppur,4803
+0-5,155,0.21262002743484226,Reykjavíkurkjördæmi suður,Hlíðaskóli,Reykjavíkurborg,0000
+6-10,345,0.4732510288065844,Reykjavíkurkjördæmi suður,Hlíðaskóli,Reykjavíkurborg,0000
+11-15,132,0.18106995884773663,Reykjavíkurkjördæmi suður,Hlíðaskóli,Reykjavíkurborg,0000
+16-20,73,0.10013717421124829,Reykjavíkurkjördæmi suður,Hlíðaskóli,Reykjavíkurborg,0000
+21-25,24,0.03292181069958848,Reykjavíkurkjördæmi suður,Hlíðaskóli,Reykjavíkurborg,0000
+>26,0,0.0,Reykjavíkurkjördæmi suður,Hlíðaskóli,Reykjavíkurborg,0000
+0-5,78,0.17647058823529413,Norðvesturkjördæmi,Hnyðja,Strandabyggð,4911
+6-10,41,0.09276018099547512,Norðvesturkjördæmi,Hnyðja,Strandabyggð,4911
+11-15,44,0.09954751131221719,Norðvesturkjördæmi,Hnyðja,Strandabyggð,4911
+16-20,42,0.09502262443438914,Norðvesturkjördæmi,Hnyðja,Strandabyggð,4911
+21-25,1,0.0022624434389140274,Norðvesturkjördæmi,Hnyðja,Strandabyggð,4911
+>26,236,0.5339366515837104,Norðvesturkjördæmi,Hnyðja,Strandabyggð,4911
+0-5,1,0.006622516556291391,Suðurkjördæmi,Hofgarður,Sveitarfélagið Hornafjörður,8401
+6-10,17,0.11258278145695365,Suðurkjördæmi,Hofgarður,Sveitarfélagið Hornafjörður,8401
+11-15,15,0.09933774834437085,Suðurkjördæmi,Hofgarður,Sveitarfélagið Hornafjörður,8401
+16-20,3,0.019867549668874173,Suðurkjördæmi,Hofgarður,Sveitarfélagið Hornafjörður,8401
+21-25,0,0.0,Suðurkjördæmi,Hofgarður,Sveitarfélagið Hornafjörður,8401
+>26,115,0.7615894039735099,Suðurkjördæmi,Hofgarður,Sveitarfélagið Hornafjörður,8401
+0-5,3,0.045454545454545456,Suðurkjördæmi,Holt,Sveitarfélagið Hornafjörður,8401
+6-10,7,0.10606060606060606,Suðurkjördæmi,Holt,Sveitarfélagið Hornafjörður,8401
+11-15,0,0.0,Suðurkjördæmi,Holt,Sveitarfélagið Hornafjörður,8401
+16-20,0,0.0,Suðurkjördæmi,Holt,Sveitarfélagið Hornafjörður,8401
+21-25,4,0.06060606060606061,Suðurkjördæmi,Holt,Sveitarfélagið Hornafjörður,8401
+>26,52,0.7878787878787878,Suðurkjördæmi,Holt,Sveitarfélagið Hornafjörður,8401
+0-5,43,0.053217821782178217,Norðausturkjördæmi,Hrafnagilsskóli,Eyjafjarðarsveit,6513
+6-10,60,0.07425742574257425,Norðausturkjördæmi,Hrafnagilsskóli,Eyjafjarðarsveit,6513
+11-15,22,0.027227722772277228,Norðausturkjördæmi,Hrafnagilsskóli,Eyjafjarðarsveit,6513
+16-20,3,0.0037128712871287127,Norðausturkjördæmi,Hrafnagilsskóli,Eyjafjarðarsveit,6513
+21-25,11,0.013613861386138614,Norðausturkjördæmi,Hrafnagilsskóli,Eyjafjarðarsveit,6513
+>26,669,0.8279702970297029,Norðausturkjördæmi,Hrafnagilsskóli,Eyjafjarðarsveit,6513
+0-5,59,0.3390804597701149,Norðausturkjördæmi,Hreppsstofa,Múlaþing,7400
+6-10,35,0.20114942528735633,Norðausturkjördæmi,Hreppsstofa,Múlaþing,7400
+11-15,4,0.022988505747126436,Norðausturkjördæmi,Hreppsstofa,Múlaþing,7400
+16-20,2,0.011494252873563218,Norðausturkjördæmi,Hreppsstofa,Múlaþing,7400
+21-25,1,0.005747126436781609,Norðausturkjördæmi,Hreppsstofa,Múlaþing,7400
+>26,73,0.41954022988505746,Norðausturkjördæmi,Hreppsstofa,Múlaþing,7400
+0-5,2,0.024691358024691357,Suðurkjördæmi,Hrollaugsstaðir,Sveitarfélagið Hornafjörður,8401
+6-10,5,0.06172839506172839,Suðurkjördæmi,Hrollaugsstaðir,Sveitarfélagið Hornafjörður,8401
+11-15,3,0.037037037037037035,Suðurkjördæmi,Hrollaugsstaðir,Sveitarfélagið Hornafjörður,8401
+16-20,3,0.037037037037037035,Suðurkjördæmi,Hrollaugsstaðir,Sveitarfélagið Hornafjörður,8401
+21-25,3,0.037037037037037035,Suðurkjördæmi,Hrollaugsstaðir,Sveitarfélagið Hornafjörður,8401
+>26,65,0.8024691358024691,Suðurkjördæmi,Hrollaugsstaðir,Sveitarfélagið Hornafjörður,8401
+0-5,93,0.5568862275449101,Norðausturkjördæmi,Hríseyjarskóli,Akureyrarbær,6000
+6-10,47,0.281437125748503,Norðausturkjördæmi,Hríseyjarskóli,Akureyrarbær,6000
+11-15,7,0.041916167664670656,Norðausturkjördæmi,Hríseyjarskóli,Akureyrarbær,6000
+16-20,4,0.023952095808383235,Norðausturkjördæmi,Hríseyjarskóli,Akureyrarbær,6000
+21-25,6,0.03592814371257485,Norðausturkjördæmi,Hríseyjarskóli,Akureyrarbær,6000
+>26,10,0.059880239520958084,Norðausturkjördæmi,Hríseyjarskóli,Akureyrarbær,6000
+0-5,5,0.00546448087431694,Norðvesturkjördæmi,Hvammur,Skorradalshreppur,3506
+6-10,6,0.006557377049180328,Norðvesturkjördæmi,Hvammur,Skorradalshreppur,3506
+11-15,42,0.04590163934426229,Norðvesturkjördæmi,Hvammur,Skorradalshreppur,3506
+16-20,28,0.030601092896174863,Norðvesturkjördæmi,Hvammur,Skorradalshreppur,3506
+21-25,57,0.06229508196721312,Norðvesturkjördæmi,Hvammur,Skorradalshreppur,3506
+>26,777,0.8491803278688524,Norðvesturkjördæmi,Hvammur,Skorradalshreppur,3506
+0-5,6,0.03468208092485549,Norðvesturkjördæmi,Héðinsminni,Akrahreppur,5706
+6-10,0,0.0,Norðvesturkjördæmi,Héðinsminni,Akrahreppur,5706
+11-15,5,0.028901734104046242,Norðvesturkjördæmi,Héðinsminni,Akrahreppur,5706
+16-20,7,0.04046242774566474,Norðvesturkjördæmi,Héðinsminni,Akrahreppur,5706
+21-25,0,0.0,Norðvesturkjördæmi,Héðinsminni,Akrahreppur,5706
+>26,155,0.8959537572254336,Norðvesturkjördæmi,Héðinsminni,Akrahreppur,5706
+0-5,107,0.3905109489051095,Reykjavíkurkjördæmi norður,Höfðatorg,Reykjavíkurborg,0000
+6-10,124,0.45255474452554745,Reykjavíkurkjördæmi norður,Höfðatorg,Reykjavíkurborg,0000
+11-15,43,0.15693430656934307,Reykjavíkurkjördæmi norður,Höfðatorg,Reykjavíkurborg,0000
+16-20,0,0.0,Reykjavíkurkjördæmi norður,Höfðatorg,Reykjavíkurborg,0000
+21-25,0,0.0,Reykjavíkurkjördæmi norður,Höfðatorg,Reykjavíkurborg,0000
+>26,0,0.0,Reykjavíkurkjördæmi norður,Höfðatorg,Reykjavíkurborg,0000
+0-5,4,0.010075566750629723,Norðvesturkjördæmi,Húnavallaskóli,Húnavatnshreppur,5612
+6-10,8,0.020151133501259445,Norðvesturkjördæmi,Húnavallaskóli,Húnavatnshreppur,5612
+11-15,3,0.007556675062972292,Norðvesturkjördæmi,Húnavallaskóli,Húnavatnshreppur,5612
+16-20,0,0.0,Norðvesturkjördæmi,Húnavallaskóli,Húnavatnshreppur,5612
+21-25,0,0.0,Norðvesturkjördæmi,Húnavallaskóli,Húnavatnshreppur,5612
+>26,382,0.9622166246851386,Norðvesturkjördæmi,Húnavallaskóli,Húnavatnshreppur,5612
+0-5,169,0.20993788819875778,Reykjavíkurkjördæmi norður og suður,Ingunnarskóli,Reykjavíkurborg,0000
+6-10,340,0.422360248447205,Reykjavíkurkjördæmi norður og suður,Ingunnarskóli,Reykjavíkurborg,0000
+11-15,150,0.18633540372670807,Reykjavíkurkjördæmi norður og suður,Ingunnarskóli,Reykjavíkurborg,0000
+16-20,14,0.017391304347826087,Reykjavíkurkjördæmi norður og suður,Ingunnarskóli,Reykjavíkurborg,0000
+21-25,10,0.012422360248447204,Reykjavíkurkjördæmi norður og suður,Ingunnarskóli,Reykjavíkurborg,0000
+>26,122,0.1515527950310559,Reykjavíkurkjördæmi norður og suður,Ingunnarskóli,Reykjavíkurborg,0000
+0-5,3,0.016129032258064516,Norðvesturkjördæmi,Ketilás,Sveitarfélagið Skagafjörður,5200
+6-10,5,0.026881720430107527,Norðvesturkjördæmi,Ketilás,Sveitarfélagið Skagafjörður,5200
+11-15,4,0.021505376344086023,Norðvesturkjördæmi,Ketilás,Sveitarfélagið Skagafjörður,5200
+16-20,5,0.026881720430107527,Norðvesturkjördæmi,Ketilás,Sveitarfélagið Skagafjörður,5200
+21-25,5,0.026881720430107527,Norðvesturkjördæmi,Ketilás,Sveitarfélagið Skagafjörður,5200
+>26,164,0.8817204301075269,Norðvesturkjördæmi,Ketilás,Sveitarfélagið Skagafjörður,5200
+0-5,38,0.05397727272727273,Suðurkjördæmi,Kirkjubæjarskóli,Skaftárhreppur,8509
+6-10,19,0.026988636363636364,Suðurkjördæmi,Kirkjubæjarskóli,Skaftárhreppur,8509
+11-15,39,0.05539772727272727,Suðurkjördæmi,Kirkjubæjarskóli,Skaftárhreppur,8509
+16-20,6,0.008522727272727272,Suðurkjördæmi,Kirkjubæjarskóli,Skaftárhreppur,8509
+21-25,13,0.018465909090909092,Suðurkjördæmi,Kirkjubæjarskóli,Skaftárhreppur,8509
+>26,589,0.8366477272727273,Suðurkjördæmi,Kirkjubæjarskóli,Skaftárhreppur,8509
+0-5,222,0.29403973509933773,Reykjavíkurkjördæmi norður,Kjarvalsstaðir,Reykjavíkurborg,0000
+6-10,453,0.6,Reykjavíkurkjördæmi norður,Kjarvalsstaðir,Reykjavíkurborg,0000
+11-15,80,0.10596026490066225,Reykjavíkurkjördæmi norður,Kjarvalsstaðir,Reykjavíkurborg,0000
+16-20,0,0.0,Reykjavíkurkjördæmi norður,Kjarvalsstaðir,Reykjavíkurborg,0000
+21-25,0,0.0,Reykjavíkurkjördæmi norður,Kjarvalsstaðir,Reykjavíkurborg,0000
+>26,0,0.0,Reykjavíkurkjördæmi norður,Kjarvalsstaðir,Reykjavíkurborg,0000
+0-5,9,0.01559792027729636,Reykjavíkurkjördæmi norður,Klébergsskóli,Reykjavíkurborg,0000
+6-10,95,0.16464471403812825,Reykjavíkurkjördæmi norður,Klébergsskóli,Reykjavíkurborg,0000
+11-15,76,0.1317157712305026,Reykjavíkurkjördæmi norður,Klébergsskóli,Reykjavíkurborg,0000
+16-20,7,0.012131715771230503,Reykjavíkurkjördæmi norður,Klébergsskóli,Reykjavíkurborg,0000
+21-25,24,0.0415944540727903,Reykjavíkurkjördæmi norður,Klébergsskóli,Reykjavíkurborg,0000
+>26,366,0.634315424610052,Reykjavíkurkjördæmi norður,Klébergsskóli,Reykjavíkurborg,0000
+0-5,47,0.025529603476371537,Suðvesturkjördæmi,Kórinn,Kópavogsbær,1000
+6-10,331,0.17979359043997828,Suðvesturkjördæmi,Kórinn,Kópavogsbær,1000
+11-15,480,0.26072786529060293,Suðvesturkjördæmi,Kórinn,Kópavogsbær,1000
+16-20,331,0.17979359043997828,Suðvesturkjördæmi,Kórinn,Kópavogsbær,1000
+21-25,343,0.18631178707224336,Suðvesturkjördæmi,Kórinn,Kópavogsbær,1000
+>26,309,0.16784356328082564,Suðvesturkjördæmi,Kórinn,Kópavogsbær,1000
+0-5,230,0.20408163265306123,Reykjavíkurkjördæmi norður,Laugalækjarskóli,Reykjavíkurborg,0000
+6-10,422,0.3744454303460515,Reykjavíkurkjördæmi norður,Laugalækjarskóli,Reykjavíkurborg,0000
+11-15,299,0.2653061224489796,Reykjavíkurkjördæmi norður,Laugalækjarskóli,Reykjavíkurborg,0000
+16-20,170,0.15084294587400177,Reykjavíkurkjördæmi norður,Laugalækjarskóli,Reykjavíkurborg,0000
+21-25,6,0.005323868677905945,Reykjavíkurkjördæmi norður,Laugalækjarskóli,Reykjavíkurborg,0000
+>26,0,0.0,Reykjavíkurkjördæmi norður,Laugalækjarskóli,Reykjavíkurborg,0000
+0-5,1,0.0008382229673093043,Norðausturkjördæmi,Ljósvetningabúð,Þingeyjarsveit,6612
+6-10,2,0.0016764459346186086,Norðausturkjördæmi,Ljósvetningabúð,Þingeyjarsveit,6612
+11-15,1,0.0008382229673093043,Norðausturkjördæmi,Ljósvetningabúð,Þingeyjarsveit,6612
+16-20,3,0.002514668901927913,Norðausturkjördæmi,Ljósvetningabúð,Þingeyjarsveit,6612
+21-25,3,0.002514668901927913,Norðausturkjördæmi,Ljósvetningabúð,Þingeyjarsveit,6612
+>26,1183,0.991617770326907,Norðausturkjördæmi,Ljósvetningabúð,Þingeyjarsveit,6612
+0-5,208,0.052313883299798795,Suðvesturkjördæmi,Lágafellsskóli,Mosfellsbær,1604
+6-10,444,0.11167002012072434,Suðvesturkjördæmi,Lágafellsskóli,Mosfellsbær,1604
+11-15,353,0.08878269617706237,Suðvesturkjördæmi,Lágafellsskóli,Mosfellsbær,1604
+16-20,254,0.06388329979879276,Suðvesturkjördæmi,Lágafellsskóli,Mosfellsbær,1604
+21-25,117,0.02942655935613682,Suðvesturkjördæmi,Lágafellsskóli,Mosfellsbær,1604
+>26,2600,0.6539235412474849,Suðvesturkjördæmi,Lágafellsskóli,Mosfellsbær,1604
+0-5,183,0.050468836183121896,Suðvesturkjördæmi,Lækjarskóli,Hafnarfjarðarkaupstaður,1400
+6-10,808,0.2228350799779371,Suðvesturkjördæmi,Lækjarskóli,Hafnarfjarðarkaupstaður,1400
+11-15,823,0.22697186982901268,Suðvesturkjördæmi,Lækjarskóli,Hafnarfjarðarkaupstaður,1400
+16-20,581,0.16023166023166024,Suðvesturkjördæmi,Lækjarskóli,Hafnarfjarðarkaupstaður,1400
+21-25,625,0.17236624379481522,Suðvesturkjördæmi,Lækjarskóli,Hafnarfjarðarkaupstaður,1400
+>26,606,0.16712630998345285,Suðvesturkjördæmi,Lækjarskóli,Hafnarfjarðarkaupstaður,1400
+0-5,118,0.06614349775784753,Norðvesturkjördæmi,Menntaskóli Borgarfjarðar,Borgarbyggð,3609
+6-10,203,0.11378923766816143,Norðvesturkjördæmi,Menntaskóli Borgarfjarðar,Borgarbyggð,3609
+11-15,98,0.05493273542600897,Norðvesturkjördæmi,Menntaskóli Borgarfjarðar,Borgarbyggð,3609
+16-20,30,0.016816143497757848,Norðvesturkjördæmi,Menntaskóli Borgarfjarðar,Borgarbyggð,3609
+21-25,145,0.0812780269058296,Norðvesturkjördæmi,Menntaskóli Borgarfjarðar,Borgarbyggð,3609
+>26,1190,0.6670403587443946,Norðvesturkjördæmi,Menntaskóli Borgarfjarðar,Borgarbyggð,3609
+0-5,255,0.19675925925925927,Reykjavíkurkjördæmi norður,Menntaskólinn við Sund,Reykjavíkurborg,0000
+6-10,447,0.3449074074074074,Reykjavíkurkjördæmi norður,Menntaskólinn við Sund,Reykjavíkurborg,0000
+11-15,322,0.24845679012345678,Reykjavíkurkjördæmi norður,Menntaskólinn við Sund,Reykjavíkurborg,0000
+16-20,212,0.16358024691358025,Reykjavíkurkjördæmi norður,Menntaskólinn við Sund,Reykjavíkurborg,0000
+21-25,40,0.030864197530864196,Reykjavíkurkjördæmi norður,Menntaskólinn við Sund,Reykjavíkurborg,0000
+>26,20,0.015432098765432098,Reykjavíkurkjördæmi norður,Menntaskólinn við Sund,Reykjavíkurborg,0000
+0-5,77,0.03768967205090553,Norðausturkjördæmi,Menntaskólinn á Egilsstöðum,Múlaþing,7400
+6-10,338,0.16544297601566324,Norðausturkjördæmi,Menntaskólinn á Egilsstöðum,Múlaþing,7400
+11-15,222,0.10866372980910426,Norðausturkjördæmi,Menntaskólinn á Egilsstöðum,Múlaþing,7400
+16-20,130,0.06363191385217817,Norðausturkjördæmi,Menntaskólinn á Egilsstöðum,Múlaþing,7400
+21-25,138,0.06754772393538913,Norðausturkjördæmi,Menntaskólinn á Egilsstöðum,Múlaþing,7400
+>26,1138,0.5570239843367597,Norðausturkjördæmi,Menntaskólinn á Egilsstöðum,Múlaþing,7400
+0-5,189,0.34115523465703973,Norðausturkjördæmi,Menntaskólinn á Tröllaskaga,Fjallabyggð,6250
+6-10,164,0.296028880866426,Norðausturkjördæmi,Menntaskólinn á Tröllaskaga,Fjallabyggð,6250
+11-15,78,0.1407942238267148,Norðausturkjördæmi,Menntaskólinn á Tröllaskaga,Fjallabyggð,6250
+16-20,10,0.018050541516245487,Norðausturkjördæmi,Menntaskólinn á Tröllaskaga,Fjallabyggð,6250
+21-25,7,0.01263537906137184,Norðausturkjördæmi,Menntaskólinn á Tröllaskaga,Fjallabyggð,6250
+>26,106,0.19133574007220217,Norðausturkjördæmi,Menntaskólinn á Tröllaskaga,Fjallabyggð,6250
+0-5,9,0.008579599618684462,Norðvesturkjördæmi,Menntaskólinn á Ísafirði,Ísafjarðarbær,4200
+6-10,282,0.2688274547187798,Norðvesturkjördæmi,Menntaskólinn á Ísafirði,Ísafjarðarbær,4200
+11-15,285,0.2716873212583413,Norðvesturkjördæmi,Menntaskólinn á Ísafirði,Ísafjarðarbær,4200
+16-20,24,0.022878932316491896,Norðvesturkjördæmi,Menntaskólinn á Ísafirði,Ísafjarðarbær,4200
+21-25,2,0.0019065776930409914,Norðvesturkjördæmi,Menntaskólinn á Ísafirði,Ísafjarðarbær,4200
+>26,447,0.4261201143946616,Norðvesturkjördæmi,Menntaskólinn á Ísafirði,Ísafjarðarbær,4200
+0-5,12,0.03409090909090909,Suðurkjördæmi,Mánagarður,Sveitarfélagið Hornafjörður,8401
+6-10,35,0.09943181818181818,Suðurkjördæmi,Mánagarður,Sveitarfélagið Hornafjörður,8401
+11-15,12,0.03409090909090909,Suðurkjördæmi,Mánagarður,Sveitarfélagið Hornafjörður,8401
+16-20,15,0.04261363636363636,Suðurkjördæmi,Mánagarður,Sveitarfélagið Hornafjörður,8401
+21-25,10,0.028409090909090908,Suðurkjördæmi,Mánagarður,Sveitarfélagið Hornafjörður,8401
+>26,268,0.7613636363636364,Suðurkjördæmi,Mánagarður,Sveitarfélagið Hornafjörður,8401
+0-5,105,0.16279069767441862,Norðausturkjördæmi,Nesskóli,Fjarðabyggð,7300
+6-10,223,0.3457364341085271,Norðausturkjördæmi,Nesskóli,Fjarðabyggð,7300
+11-15,136,0.21085271317829457,Norðausturkjördæmi,Nesskóli,Fjarðabyggð,7300
+16-20,49,0.07596899224806201,Norðausturkjördæmi,Nesskóli,Fjarðabyggð,7300
+21-25,7,0.010852713178294573,Norðausturkjördæmi,Nesskóli,Fjarðabyggð,7300
+>26,125,0.1937984496124031,Norðausturkjördæmi,Nesskóli,Fjarðabyggð,7300
+0-5,159,0.37767220902612825,Reykjavíkurkjördæmi suður,Norðlingaskóli,Reykjavíkurborg,0000
+6-10,164,0.38954869358669836,Reykjavíkurkjördæmi suður,Norðlingaskóli,Reykjavíkurborg,0000
+11-15,21,0.0498812351543943,Reykjavíkurkjördæmi suður,Norðlingaskóli,Reykjavíkurborg,0000
+16-20,5,0.011876484560570071,Reykjavíkurkjördæmi suður,Norðlingaskóli,Reykjavíkurborg,0000
+21-25,8,0.019002375296912115,Reykjavíkurkjördæmi suður,Norðlingaskóli,Reykjavíkurborg,0000
+>26,64,0.15201900237529692,Reykjavíkurkjördæmi suður,Norðlingaskóli,Reykjavíkurborg,0000
+0-5,269,0.34980494148244473,Reykjavíkurkjördæmi norður,Rimaskóli,Reykjavíkurborg,0000
+6-10,433,0.5630689206762028,Reykjavíkurkjördæmi norður,Rimaskóli,Reykjavíkurborg,0000
+11-15,20,0.02600780234070221,Reykjavíkurkjördæmi norður,Rimaskóli,Reykjavíkurborg,0000
+16-20,25,0.032509752925877766,Reykjavíkurkjördæmi norður,Rimaskóli,Reykjavíkurborg,0000
+21-25,15,0.01950585175552666,Reykjavíkurkjördæmi norður,Rimaskóli,Reykjavíkurborg,0000
+>26,7,0.009102730819245773,Reykjavíkurkjördæmi norður,Rimaskóli,Reykjavíkurborg,0000
+0-5,275,0.350765306122449,Norðausturkjördæmi,Ráðhús Fjallabyggðar,Fjallabyggð,6250
+6-10,249,0.31760204081632654,Norðausturkjördæmi,Ráðhús Fjallabyggðar,Fjallabyggð,6250
+11-15,154,0.19642857142857142,Norðausturkjördæmi,Ráðhús Fjallabyggðar,Fjallabyggð,6250
+16-20,18,0.02295918367346939,Norðausturkjördæmi,Ráðhús Fjallabyggðar,Fjallabyggð,6250
+21-25,8,0.01020408163265306,Norðausturkjördæmi,Ráðhús Fjallabyggðar,Fjallabyggð,6250
+>26,80,0.10204081632653061,Norðausturkjördæmi,Ráðhús Fjallabyggðar,Fjallabyggð,6250
+0-5,257,0.1096884336320956,Reykjavíkurkjördæmi norður,Ráðhús Reykjavíkur,Reykjavíkurborg,0000
+6-10,1123,0.4793000426803244,Reykjavíkurkjördæmi norður,Ráðhús Reykjavíkur,Reykjavíkurborg,0000
+11-15,716,0.30559112249253095,Reykjavíkurkjördæmi norður,Ráðhús Reykjavíkur,Reykjavíkurborg,0000
+16-20,247,0.10542040119504908,Reykjavíkurkjördæmi norður,Ráðhús Reykjavíkur,Reykjavíkurborg,0000
+21-25,0,0.0,Reykjavíkurkjördæmi norður,Ráðhús Reykjavíkur,Reykjavíkurborg,0000
+>26,0,0.0,Reykjavíkurkjördæmi norður,Ráðhús Reykjavíkur,Reykjavíkurborg,0000
+0-5,69,0.43125,Norðausturkjördæmi,Ráðhúsið Raufarhöfn,Norðurþing,6100
+6-10,34,0.2125,Norðausturkjördæmi,Ráðhúsið Raufarhöfn,Norðurþing,6100
+11-15,55,0.34375,Norðausturkjördæmi,Ráðhúsið Raufarhöfn,Norðurþing,6100
+16-20,1,0.00625,Norðausturkjördæmi,Ráðhúsið Raufarhöfn,Norðurþing,6100
+21-25,0,0.0,Norðausturkjördæmi,Ráðhúsið Raufarhöfn,Norðurþing,6100
+>26,1,0.00625,Norðausturkjördæmi,Ráðhúsið Raufarhöfn,Norðurþing,6100
+0-5,94,0.1663716814159292,Norðausturkjördæmi,Safnaðarheimili Reyðarfjarðarkirkju,Fjarðabyggð,7300
+6-10,216,0.3823008849557522,Norðausturkjördæmi,Safnaðarheimili Reyðarfjarðarkirkju,Fjarðabyggð,7300
+11-15,155,0.2743362831858407,Norðausturkjördæmi,Safnaðarheimili Reyðarfjarðarkirkju,Fjarðabyggð,7300
+16-20,42,0.0743362831858407,Norðausturkjördæmi,Safnaðarheimili Reyðarfjarðarkirkju,Fjarðabyggð,7300
+21-25,14,0.024778761061946902,Norðausturkjördæmi,Safnaðarheimili Reyðarfjarðarkirkju,Fjarðabyggð,7300
+>26,44,0.07787610619469026,Norðausturkjördæmi,Safnaðarheimili Reyðarfjarðarkirkju,Fjarðabyggð,7300
+0-5,53,0.12183908045977011,Norðausturkjördæmi,Safnaðarheimili Vopnafjarðarkirkju,Vopnafjarðarhreppur,7502
+6-10,130,0.2988505747126437,Norðausturkjördæmi,Safnaðarheimili Vopnafjarðarkirkju,Vopnafjarðarhreppur,7502
+11-15,78,0.1793103448275862,Norðausturkjördæmi,Safnaðarheimili Vopnafjarðarkirkju,Vopnafjarðarhreppur,7502
+16-20,7,0.016091954022988506,Norðausturkjördæmi,Safnaðarheimili Vopnafjarðarkirkju,Vopnafjarðarhreppur,7502
+21-25,4,0.009195402298850575,Norðausturkjördæmi,Safnaðarheimili Vopnafjarðarkirkju,Vopnafjarðarhreppur,7502
+>26,163,0.37471264367816093,Norðausturkjördæmi,Safnaðarheimili Vopnafjarðarkirkju,Vopnafjarðarhreppur,7502
+0-5,153,0.3200836820083682,Norðvesturkjördæmi,Samkomuhús Grundarfjarðar,Grundarfjarðarbær,3709
+6-10,161,0.3368200836820084,Norðvesturkjördæmi,Samkomuhús Grundarfjarðar,Grundarfjarðarbær,3709
+11-15,22,0.04602510460251046,Norðvesturkjördæmi,Samkomuhús Grundarfjarðar,Grundarfjarðarbær,3709
+16-20,19,0.0397489539748954,Norðvesturkjördæmi,Samkomuhús Grundarfjarðar,Grundarfjarðarbær,3709
+21-25,7,0.014644351464435146,Norðvesturkjördæmi,Samkomuhús Grundarfjarðar,Grundarfjarðarbær,3709
+>26,116,0.24267782426778242,Norðvesturkjördæmi,Samkomuhús Grundarfjarðar,Grundarfjarðarbær,3709
+0-5,117,0.16595744680851063,Suðurkjördæmi,Samkomuhúsið Staður,Sveitarfélagið Árborg,8200
+6-10,108,0.15319148936170213,Suðurkjördæmi,Samkomuhúsið Staður,Sveitarfélagið Árborg,8200
+11-15,106,0.150354609929078,Suðurkjördæmi,Samkomuhúsið Staður,Sveitarfélagið Árborg,8200
+16-20,40,0.05673758865248227,Suðurkjördæmi,Samkomuhúsið Staður,Sveitarfélagið Árborg,8200
+21-25,18,0.02553191489361702,Suðurkjördæmi,Samkomuhúsið Staður,Sveitarfélagið Árborg,8200
+>26,316,0.4482269503546099,Suðurkjördæmi,Samkomuhúsið Staður,Sveitarfélagið Árborg,8200
+0-5,100,0.12706480304955528,Suðurkjördæmi,Sandgerðisskóli,Suðurnesjabær,2510
+6-10,383,0.4866581956797967,Suðurkjördæmi,Sandgerðisskóli,Suðurnesjabær,2510
+11-15,129,0.1639135959339263,Suðurkjördæmi,Sandgerðisskóli,Suðurnesjabær,2510
+16-20,70,0.08894536213468869,Suðurkjördæmi,Sandgerðisskóli,Suðurnesjabær,2510
+21-25,7,0.008894536213468869,Suðurkjördæmi,Sandgerðisskóli,Suðurnesjabær,2510
+>26,98,0.12452350698856417,Suðurkjördæmi,Sandgerðisskóli,Suðurnesjabær,2510
+0-5,1,0.009009009009009009,Norðvesturkjördæmi,Skagabúð,Skagabyggð,5611
+6-10,2,0.018018018018018018,Norðvesturkjördæmi,Skagabúð,Skagabyggð,5611
+11-15,2,0.018018018018018018,Norðvesturkjördæmi,Skagabúð,Skagabyggð,5611
+16-20,0,0.0,Norðvesturkjördæmi,Skagabúð,Skagabyggð,5611
+21-25,0,0.0,Norðvesturkjördæmi,Skagabúð,Skagabyggð,5611
+>26,106,0.954954954954955,Norðvesturkjördæmi,Skagabúð,Skagabyggð,5611
+0-5,6,0.014354066985645933,Norðausturkjördæmi,Skjólbrekka,Skútustaðahreppur,6607
+6-10,14,0.03349282296650718,Norðausturkjördæmi,Skjólbrekka,Skútustaðahreppur,6607
+11-15,11,0.02631578947368421,Norðausturkjördæmi,Skjólbrekka,Skútustaðahreppur,6607
+16-20,0,0.0,Norðausturkjördæmi,Skjólbrekka,Skútustaðahreppur,6607
+21-25,0,0.0,Norðausturkjördæmi,Skjólbrekka,Skútustaðahreppur,6607
+>26,387,0.9258373205741627,Norðausturkjördæmi,Skjólbrekka,Skútustaðahreppur,6607
+0-5,7,0.016666666666666666,Norðvesturkjördæmi,Skrifstofa Reykhólahrepps,Reykhólahreppur,4502
+6-10,28,0.06666666666666667,Norðvesturkjördæmi,Skrifstofa Reykhólahrepps,Reykhólahreppur,4502
+11-15,51,0.12142857142857143,Norðvesturkjördæmi,Skrifstofa Reykhólahrepps,Reykhólahreppur,4502
+16-20,5,0.011904761904761904,Norðvesturkjördæmi,Skrifstofa Reykhólahrepps,Reykhólahreppur,4502
+21-25,2,0.004761904761904762,Norðvesturkjördæmi,Skrifstofa Reykhólahrepps,Reykhólahreppur,4502
+>26,327,0.7785714285714286,Norðvesturkjördæmi,Skrifstofa Reykhólahrepps,Reykhólahreppur,4502
+0-5,3,0.010067114093959731,Norðausturkjördæmi,Skólahúsið Kópaskeri,Norðurþing,6100
+6-10,4,0.013422818791946308,Norðausturkjördæmi,Skólahúsið Kópaskeri,Norðurþing,6100
+11-15,2,0.006711409395973154,Norðausturkjördæmi,Skólahúsið Kópaskeri,Norðurþing,6100
+16-20,57,0.1912751677852349,Norðausturkjördæmi,Skólahúsið Kópaskeri,Norðurþing,6100
+21-25,16,0.053691275167785234,Norðausturkjördæmi,Skólahúsið Kópaskeri,Norðurþing,6100
+>26,216,0.7248322147651006,Norðausturkjördæmi,Skólahúsið Kópaskeri,Norðurþing,6100
+0-5,1,0.009523809523809525,Norðausturkjördæmi,Skúlagarður,Norðurþing,6100
+6-10,0,0.0,Norðausturkjördæmi,Skúlagarður,Norðurþing,6100
+11-15,3,0.02857142857142857,Norðausturkjördæmi,Skúlagarður,Norðurþing,6100
+16-20,6,0.05714285714285714,Norðausturkjördæmi,Skúlagarður,Norðurþing,6100
+21-25,8,0.0761904761904762,Norðausturkjördæmi,Skúlagarður,Norðurþing,6100
+>26,87,0.8285714285714286,Norðausturkjördæmi,Skúlagarður,Norðurþing,6100
+0-5,1,0.00021862702229995628,Suðvesturkjördæmi,Smárinn,Kópavogsbær,1000
+6-10,251,0.054875382597289024,Suðvesturkjördæmi,Smárinn,Kópavogsbær,1000
+11-15,576,0.12592916484477482,Suðvesturkjördæmi,Smárinn,Kópavogsbær,1000
+16-20,611,0.13358111062527328,Suðvesturkjördæmi,Smárinn,Kópavogsbær,1000
+21-25,1013,0.2214691735898557,Suðvesturkjördæmi,Smárinn,Kópavogsbær,1000
+>26,2122,0.4639265413205072,Suðvesturkjördæmi,Smárinn,Kópavogsbær,1000
+0-5,32,0.00612088752869166,Suðurkjördæmi,Stjórnsýsluhúsið á Borg,Grímsnes- og Grafningshreppur,8719
+6-10,58,0.011094108645753635,Suðurkjördæmi,Stjórnsýsluhúsið á Borg,Grímsnes- og Grafningshreppur,8719
+11-15,18,0.0034429992348890587,Suðurkjördæmi,Stjórnsýsluhúsið á Borg,Grímsnes- og Grafningshreppur,8719
+16-20,29,0.005547054322876817,Suðurkjördæmi,Stjórnsýsluhúsið á Borg,Grímsnes- og Grafningshreppur,8719
+21-25,28,0.005355776587605203,Suðurkjördæmi,Stjórnsýsluhúsið á Borg,Grímsnes- og Grafningshreppur,8719
+>26,5063,0.9684391736801836,Suðurkjördæmi,Stjórnsýsluhúsið á Borg,Grímsnes- og Grafningshreppur,8719
+0-5,48,0.061224489795918366,Norðvesturkjördæmi,Stjórnsýsluhúsið í Dalabyggð,Dalabyggð,3811
+6-10,96,0.12244897959183673,Norðvesturkjördæmi,Stjórnsýsluhúsið í Dalabyggð,Dalabyggð,3811
+11-15,21,0.026785714285714284,Norðvesturkjördæmi,Stjórnsýsluhúsið í Dalabyggð,Dalabyggð,3811
+16-20,1,0.0012755102040816326,Norðvesturkjördæmi,Stjórnsýsluhúsið í Dalabyggð,Dalabyggð,3811
+21-25,2,0.002551020408163265,Norðvesturkjördæmi,Stjórnsýsluhúsið í Dalabyggð,Dalabyggð,3811
+>26,616,0.7857142857142857,Norðvesturkjördæmi,Stjórnsýsluhúsið í Dalabyggð,Dalabyggð,3811
+0-5,53,0.03547523427041499,Norðvesturkjördæmi,Stjórnsýsluhúsið í Melahverfi,Hvalfjarðarsveit,3511
+6-10,4,0.002677376171352075,Norðvesturkjördæmi,Stjórnsýsluhúsið í Melahverfi,Hvalfjarðarsveit,3511
+11-15,1,0.0006693440428380187,Norðvesturkjördæmi,Stjórnsýsluhúsið í Melahverfi,Hvalfjarðarsveit,3511
+16-20,4,0.002677376171352075,Norðvesturkjördæmi,Stjórnsýsluhúsið í Melahverfi,Hvalfjarðarsveit,3511
+21-25,14,0.009370816599732263,Norðvesturkjördæmi,Stjórnsýsluhúsið í Melahverfi,Hvalfjarðarsveit,3511
+>26,1418,0.9491298527443106,Norðvesturkjördæmi,Stjórnsýsluhúsið í Melahverfi,Hvalfjarðarsveit,3511
+0-5,164,0.2534775888717156,Suðurkjördæmi,Stóru-Vogaskóli,Sveitarfélagið Vogar,2506
+6-10,205,0.3168469860896445,Suðurkjördæmi,Stóru-Vogaskóli,Sveitarfélagið Vogar,2506
+11-15,71,0.10973724884080371,Suðurkjördæmi,Stóru-Vogaskóli,Sveitarfélagið Vogar,2506
+16-20,15,0.023183925811437404,Suðurkjördæmi,Stóru-Vogaskóli,Sveitarfélagið Vogar,2506
+21-25,2,0.0030911901081916537,Suðurkjördæmi,Stóru-Vogaskóli,Sveitarfélagið Vogar,2506
+>26,190,0.2936630602782071,Suðurkjördæmi,Stóru-Vogaskóli,Sveitarfélagið Vogar,2506
+0-5,4,0.05063291139240506,Norðausturkjördæmi,Svalbarðsskóli,Svalbarðshreppur,6706
+6-10,1,0.012658227848101266,Norðausturkjördæmi,Svalbarðsskóli,Svalbarðshreppur,6706
+11-15,0,0.0,Norðausturkjördæmi,Svalbarðsskóli,Svalbarðshreppur,6706
+16-20,0,0.0,Norðausturkjördæmi,Svalbarðsskóli,Svalbarðshreppur,6706
+21-25,1,0.012658227848101266,Norðausturkjördæmi,Svalbarðsskóli,Svalbarðshreppur,6706
+>26,73,0.9240506329113924,Norðausturkjördæmi,Svalbarðsskóli,Svalbarðshreppur,6706
+0-5,6,0.12,Norðausturkjördæmi,Sólbrekka,Fjarðabyggð,7300
+6-10,7,0.14,Norðausturkjördæmi,Sólbrekka,Fjarðabyggð,7300
+11-15,10,0.2,Norðausturkjördæmi,Sólbrekka,Fjarðabyggð,7300
+16-20,1,0.02,Norðausturkjördæmi,Sólbrekka,Fjarðabyggð,7300
+21-25,0,0.0,Norðausturkjördæmi,Sólbrekka,Fjarðabyggð,7300
+>26,26,0.52,Norðausturkjördæmi,Sólbrekka,Fjarðabyggð,7300
+0-5,61,0.2747747747747748,Norðvesturkjördæmi,Súðavíkurskóli,Súðavíkurhreppur,4803
+6-10,26,0.11711711711711711,Norðvesturkjördæmi,Súðavíkurskóli,Súðavíkurhreppur,4803
+11-15,32,0.14414414414414414,Norðvesturkjördæmi,Súðavíkurskóli,Súðavíkurhreppur,4803
+16-20,31,0.13963963963963963,Norðvesturkjördæmi,Súðavíkurskóli,Súðavíkurhreppur,4803
+21-25,4,0.018018018018018018,Norðvesturkjördæmi,Súðavíkurskóli,Súðavíkurhreppur,4803
+>26,68,0.3063063063063063,Norðvesturkjördæmi,Súðavíkurskóli,Súðavíkurhreppur,4803
+0-5,117,0.3295774647887324,Norðausturkjördæmi,Tryggvabúð,Múlaþing,7400
+6-10,93,0.2619718309859155,Norðausturkjördæmi,Tryggvabúð,Múlaþing,7400
+11-15,22,0.061971830985915494,Norðausturkjördæmi,Tryggvabúð,Múlaþing,7400
+16-20,1,0.0028169014084507044,Norðausturkjördæmi,Tryggvabúð,Múlaþing,7400
+21-25,0,0.0,Norðausturkjördæmi,Tryggvabúð,Múlaþing,7400
+>26,122,0.3436619718309859,Norðausturkjördæmi,Tryggvabúð,Múlaþing,7400
+0-5,7,0.04,Norðvesturkjördæmi,Tálknafjarðarskóli,Tálknafjarðarhreppur,4604
+6-10,24,0.13714285714285715,Norðvesturkjördæmi,Tálknafjarðarskóli,Tálknafjarðarhreppur,4604
+11-15,92,0.5257142857142857,Norðvesturkjördæmi,Tálknafjarðarskóli,Tálknafjarðarhreppur,4604
+16-20,21,0.12,Norðvesturkjördæmi,Tálknafjarðarskóli,Tálknafjarðarhreppur,4604
+21-25,1,0.005714285714285714,Norðvesturkjördæmi,Tálknafjarðarskóli,Tálknafjarðarhreppur,4604
+>26,30,0.17142857142857143,Norðvesturkjördæmi,Tálknafjarðarskóli,Tálknafjarðarhreppur,4604
+0-5,55,0.10638297872340426,Norðausturkjördæmi,Tónlistarmiðstöð Austurlands,Fjarðabyggð,7300
+6-10,133,0.2572533849129594,Norðausturkjördæmi,Tónlistarmiðstöð Austurlands,Fjarðabyggð,7300
+11-15,71,0.13733075435203096,Norðausturkjördæmi,Tónlistarmiðstöð Austurlands,Fjarðabyggð,7300
+16-20,105,0.20309477756286268,Norðausturkjördæmi,Tónlistarmiðstöð Austurlands,Fjarðabyggð,7300
+21-25,46,0.08897485493230174,Norðausturkjördæmi,Tónlistarmiðstöð Austurlands,Fjarðabyggð,7300
+>26,107,0.20696324951644102,Norðausturkjördæmi,Tónlistarmiðstöð Austurlands,Fjarðabyggð,7300
+0-5,129,0.1238003838771593,Suðvesturkjördæmi,Valhúsaskóli,Seltjarnarnesbær,1100
+6-10,397,0.3809980806142035,Suðvesturkjördæmi,Valhúsaskóli,Seltjarnarnesbær,1100
+11-15,448,0.42994241842610365,Suðvesturkjördæmi,Valhúsaskóli,Seltjarnarnesbær,1100
+16-20,60,0.05758157389635317,Suðvesturkjördæmi,Valhúsaskóli,Seltjarnarnesbær,1100
+21-25,5,0.0047984644913627635,Suðvesturkjördæmi,Valhúsaskóli,Seltjarnarnesbær,1100
+>26,3,0.0028790786948176585,Suðvesturkjördæmi,Valhúsaskóli,Seltjarnarnesbær,1100
+0-5,127,0.03798982949446605,Suðurkjördæmi,Vallaskóli,Sveitarfélagið Árborg,8200
+6-10,684,0.20460664074184864,Suðurkjördæmi,Vallaskóli,Sveitarfélagið Árborg,8200
+11-15,875,0.26174095124139996,Suðurkjördæmi,Vallaskóli,Sveitarfélagið Árborg,8200
+16-20,1054,0.31528567155249776,Suðurkjördæmi,Vallaskóli,Sveitarfélagið Árborg,8200
+21-25,382,0.11426862099910261,Suðurkjördæmi,Vallaskóli,Sveitarfélagið Árborg,8200
+>26,221,0.06610828597068501,Suðurkjördæmi,Vallaskóli,Sveitarfélagið Árborg,8200
+0-5,48,0.10256410256410256,Norðausturkjördæmi,Valsárskóli,Svalbarðsstrandarhreppur,6601
+6-10,26,0.05555555555555555,Norðausturkjördæmi,Valsárskóli,Svalbarðsstrandarhreppur,6601
+11-15,32,0.06837606837606838,Norðausturkjördæmi,Valsárskóli,Svalbarðsstrandarhreppur,6601
+16-20,23,0.049145299145299144,Norðausturkjördæmi,Valsárskóli,Svalbarðsstrandarhreppur,6601
+21-25,18,0.038461538461538464,Norðausturkjördæmi,Valsárskóli,Svalbarðsstrandarhreppur,6601
+>26,321,0.6858974358974359,Norðausturkjördæmi,Valsárskóli,Svalbarðsstrandarhreppur,6601
+0-5,26,0.07602339181286549,Norðvesturkjördæmi,Varmahlíðarskóli,Sveitarfélagið Skagafjörður,5200
+6-10,47,0.13742690058479531,Norðvesturkjördæmi,Varmahlíðarskóli,Sveitarfélagið Skagafjörður,5200
+11-15,28,0.08187134502923976,Norðvesturkjördæmi,Varmahlíðarskóli,Sveitarfélagið Skagafjörður,5200
+16-20,19,0.05555555555555555,Norðvesturkjördæmi,Varmahlíðarskóli,Sveitarfélagið Skagafjörður,5200
+21-25,2,0.005847953216374269,Norðvesturkjördæmi,Varmahlíðarskóli,Sveitarfélagið Skagafjörður,5200
+>26,220,0.6432748538011696,Norðvesturkjördæmi,Varmahlíðarskóli,Sveitarfélagið Skagafjörður,5200
+0-5,189,0.03402340234023402,Norðausturkjördæmi,Verkmenntaskólinn á Akureyri,Akureyrarbær,6000
+6-10,549,0.09882988298829883,Norðausturkjördæmi,Verkmenntaskólinn á Akureyri,Akureyrarbær,6000
+11-15,787,0.1416741674167417,Norðausturkjördæmi,Verkmenntaskólinn á Akureyri,Akureyrarbær,6000
+16-20,977,0.17587758775877588,Norðausturkjördæmi,Verkmenntaskólinn á Akureyri,Akureyrarbær,6000
+21-25,390,0.0702070207020702,Norðausturkjördæmi,Verkmenntaskólinn á Akureyri,Akureyrarbær,6000
+>26,2663,0.47938793879387936,Norðausturkjördæmi,Verkmenntaskólinn á Akureyri,Akureyrarbær,6000
+0-5,183,0.11104368932038836,Suðurkjördæmi,Versalir,Sveitarfélagið Ölfus,8717
+6-10,414,0.2512135922330097,Suðurkjördæmi,Versalir,Sveitarfélagið Ölfus,8717
+11-15,119,0.07220873786407767,Suðurkjördæmi,Versalir,Sveitarfélagið Ölfus,8717
+16-20,51,0.030946601941747573,Suðurkjördæmi,Versalir,Sveitarfélagið Ölfus,8717
+21-25,9,0.0054611650485436895,Suðurkjördæmi,Versalir,Sveitarfélagið Ölfus,8717
+>26,872,0.529126213592233,Suðurkjördæmi,Versalir,Sveitarfélagið Ölfus,8717
+0-5,429,0.5958333333333333,Reykjavíkurkjördæmi norður,Vesturbæjarskóli,Reykjavíkurborg,0000
+6-10,184,0.25555555555555554,Reykjavíkurkjördæmi norður,Vesturbæjarskóli,Reykjavíkurborg,0000
+11-15,71,0.09861111111111111,Reykjavíkurkjördæmi norður,Vesturbæjarskóli,Reykjavíkurborg,0000
+16-20,29,0.04027777777777778,Reykjavíkurkjördæmi norður,Vesturbæjarskóli,Reykjavíkurborg,0000
+21-25,5,0.006944444444444444,Reykjavíkurkjördæmi norður,Vesturbæjarskóli,Reykjavíkurborg,0000
+>26,2,0.002777777777777778,Reykjavíkurkjördæmi norður,Vesturbæjarskóli,Reykjavíkurborg,0000
+0-5,1,0.0125,Norðausturkjördæmi,Végarður,Fljótsdalshreppur,7505
+6-10,1,0.0125,Norðausturkjördæmi,Végarður,Fljótsdalshreppur,7505
+11-15,1,0.0125,Norðausturkjördæmi,Végarður,Fljótsdalshreppur,7505
+16-20,0,0.0,Norðausturkjördæmi,Végarður,Fljótsdalshreppur,7505
+21-25,1,0.0125,Norðausturkjördæmi,Végarður,Fljótsdalshreppur,7505
+>26,76,0.95,Norðausturkjördæmi,Végarður,Fljótsdalshreppur,7505
+0-5,138,0.2623574144486692,Suðurkjördæmi,Víkurskóli,Mýrdalshreppur,8508
+6-10,120,0.22813688212927757,Suðurkjördæmi,Víkurskóli,Mýrdalshreppur,8508
+11-15,22,0.04182509505703422,Suðurkjördæmi,Víkurskóli,Mýrdalshreppur,8508
+16-20,1,0.0019011406844106464,Suðurkjördæmi,Víkurskóli,Mýrdalshreppur,8508
+21-25,1,0.0019011406844106464,Suðurkjördæmi,Víkurskóli,Mýrdalshreppur,8508
+>26,244,0.46387832699619774,Suðurkjördæmi,Víkurskóli,Mýrdalshreppur,8508
+0-5,57,0.0232463295269168,Suðvesturkjördæmi,Víðistaðaskóli,Hafnarfjarðarkaupstaður,1400
+6-10,479,0.19535073409461665,Suðvesturkjördæmi,Víðistaðaskóli,Hafnarfjarðarkaupstaður,1400
+11-15,419,0.17088091353996737,Suðvesturkjördæmi,Víðistaðaskóli,Hafnarfjarðarkaupstaður,1400
+16-20,3,0.0012234910277324632,Suðvesturkjördæmi,Víðistaðaskóli,Hafnarfjarðarkaupstaður,1400
+21-25,0,0.0,Suðvesturkjördæmi,Víðistaðaskóli,Hafnarfjarðarkaupstaður,1400
+>26,1494,0.6092985318107668,Suðvesturkjördæmi,Víðistaðaskóli,Hafnarfjarðarkaupstaður,1400
+0-5,145,0.35108958837772397,Reykjavíkurkjördæmi norður,Álftamýrarskóli,Reykjavíkurborg,0000
+6-10,169,0.4092009685230024,Reykjavíkurkjördæmi norður,Álftamýrarskóli,Reykjavíkurborg,0000
+11-15,93,0.22518159806295399,Reykjavíkurkjördæmi norður,Álftamýrarskóli,Reykjavíkurborg,0000
+16-20,6,0.014527845036319613,Reykjavíkurkjördæmi norður,Álftamýrarskóli,Reykjavíkurborg,0000
+21-25,0,0.0,Reykjavíkurkjördæmi norður,Álftamýrarskóli,Reykjavíkurborg,0000
+>26,0,0.0,Reykjavíkurkjördæmi norður,Álftamýrarskóli,Reykjavíkurborg,0000
+0-5,165,0.18032786885245902,Suðvesturkjördæmi,Álftanesskóli,Garðabær,1300
+6-10,281,0.307103825136612,Suðvesturkjördæmi,Álftanesskóli,Garðabær,1300
+11-15,166,0.1814207650273224,Suðvesturkjördæmi,Álftanesskóli,Garðabær,1300
+16-20,74,0.08087431693989071,Suðvesturkjördæmi,Álftanesskóli,Garðabær,1300
+21-25,21,0.022950819672131147,Suðvesturkjördæmi,Álftanesskóli,Garðabær,1300
+>26,208,0.2273224043715847,Suðvesturkjördæmi,Álftanesskóli,Garðabær,1300
+0-5,204,0.11505922165820642,Reykjavíkurkjördæmi suður,Árbæjarskóli,Reykjavíkurborg,0000
+6-10,416,0.23463056965595036,Reykjavíkurkjördæmi suður,Árbæjarskóli,Reykjavíkurborg,0000
+11-15,404,0.22786238014664412,Reykjavíkurkjördæmi suður,Árbæjarskóli,Reykjavíkurborg,0000
+16-20,345,0.19458544839255498,Reykjavíkurkjördæmi suður,Árbæjarskóli,Reykjavíkurborg,0000
+21-25,312,0.17597292724196278,Reykjavíkurkjördæmi suður,Árbæjarskóli,Reykjavíkurborg,0000
+>26,92,0.05188945290468133,Reykjavíkurkjördæmi suður,Árbæjarskóli,Reykjavíkurborg,0000
+0-5,2,0.001949317738791423,Suðvesturkjördæmi,Ásgarður,Kjósarhreppur,1606
+6-10,2,0.001949317738791423,Suðvesturkjördæmi,Ásgarður,Kjósarhreppur,1606
+11-15,4,0.003898635477582846,Suðvesturkjördæmi,Ásgarður,Kjósarhreppur,1606
+16-20,9,0.008771929824561403,Suðvesturkjördæmi,Ásgarður,Kjósarhreppur,1606
+21-25,17,0.016569200779727095,Suðvesturkjördæmi,Ásgarður,Kjósarhreppur,1606
+>26,992,0.9668615984405458,Suðvesturkjördæmi,Ásgarður,Kjósarhreppur,1606
+0-5,152,0.046483180428134555,Suðvesturkjördæmi,Íþróttahúsið Mýrin,Garðabær,1300
+6-10,800,0.24464831804281345,Suðvesturkjördæmi,Íþróttahúsið Mýrin,Garðabær,1300
+11-15,550,0.16819571865443425,Suðvesturkjördæmi,Íþróttahúsið Mýrin,Garðabær,1300
+16-20,495,0.15137614678899083,Suðvesturkjördæmi,Íþróttahúsið Mýrin,Garðabær,1300
+21-25,270,0.08256880733944955,Suðvesturkjördæmi,Íþróttahúsið Mýrin,Garðabær,1300
+>26,1003,0.3067278287461774,Suðvesturkjördæmi,Íþróttahúsið Mýrin,Garðabær,1300
+0-5,127,0.06013257575757576,Norðvesturkjördæmi,Íþróttahúsið að Jaðarsbökkum,Akraneskaupstaður,3000
+6-10,445,0.21070075757575757,Norðvesturkjördæmi,Íþróttahúsið að Jaðarsbökkum,Akraneskaupstaður,3000
+11-15,753,0.3565340909090909,Norðvesturkjördæmi,Íþróttahúsið að Jaðarsbökkum,Akraneskaupstaður,3000
+16-20,493,0.2334280303030303,Norðvesturkjördæmi,Íþróttahúsið að Jaðarsbökkum,Akraneskaupstaður,3000
+21-25,169,0.08001893939393939,Norðvesturkjördæmi,Íþróttahúsið að Jaðarsbökkum,Akraneskaupstaður,3000
+>26,125,0.059185606060606064,Norðvesturkjördæmi,Íþróttahúsið að Jaðarsbökkum,Akraneskaupstaður,3000
+0-5,204,0.2015810276679842,Reykjavíkurkjördæmi suður,Íþróttamiðstöðin Austurbergi,Reykjavíkurborg,0000
+6-10,555,0.5484189723320159,Reykjavíkurkjördæmi suður,Íþróttamiðstöðin Austurbergi,Reykjavíkurborg,0000
+11-15,249,0.24604743083003952,Reykjavíkurkjördæmi suður,Íþróttamiðstöðin Austurbergi,Reykjavíkurborg,0000
+16-20,0,0.0,Reykjavíkurkjördæmi suður,Íþróttamiðstöðin Austurbergi,Reykjavíkurborg,0000
+21-25,2,0.001976284584980237,Reykjavíkurkjördæmi suður,Íþróttamiðstöðin Austurbergi,Reykjavíkurborg,0000
+>26,2,0.001976284584980237,Reykjavíkurkjördæmi suður,Íþróttamiðstöðin Austurbergi,Reykjavíkurborg,0000
+0-5,77,0.14128440366972478,Norðvesturkjördæmi,Íþróttamiðstöðin Blönudósi,Blönduósbær,5604
+6-10,201,0.3688073394495413,Norðvesturkjördæmi,Íþróttamiðstöðin Blönudósi,Blönduósbær,5604
+11-15,49,0.08990825688073395,Norðvesturkjördæmi,Íþróttamiðstöðin Blönudósi,Blönduósbær,5604
+16-20,66,0.12110091743119267,Norðvesturkjördæmi,Íþróttamiðstöðin Blönudósi,Blönduósbær,5604
+21-25,48,0.08807339449541285,Norðvesturkjördæmi,Íþróttamiðstöðin Blönudósi,Blönduósbær,5604
+>26,104,0.1908256880733945,Norðvesturkjördæmi,Íþróttamiðstöðin Blönudósi,Blönduósbær,5604
+0-5,188,0.4,Norðausturkjördæmi,Íþróttamiðstöðin Seyðisfirði,Múlaþing,7400
+6-10,162,0.3446808510638298,Norðausturkjördæmi,Íþróttamiðstöðin Seyðisfirði,Múlaþing,7400
+11-15,48,0.10212765957446808,Norðausturkjördæmi,Íþróttamiðstöðin Seyðisfirði,Múlaþing,7400
+16-20,10,0.02127659574468085,Norðausturkjördæmi,Íþróttamiðstöðin Seyðisfirði,Múlaþing,7400
+21-25,7,0.014893617021276596,Norðausturkjördæmi,Íþróttamiðstöðin Seyðisfirði,Múlaþing,7400
+>26,55,0.11702127659574468,Norðausturkjördæmi,Íþróttamiðstöðin Seyðisfirði,Múlaþing,7400
+0-5,162,0.10163111668757842,Reykjavíkurkjördæmi suður,Ölduselsskóli,Reykjavíkurborg,0000
+6-10,501,0.31430363864491845,Reykjavíkurkjördæmi suður,Ölduselsskóli,Reykjavíkurborg,0000
+11-15,602,0.37766624843161856,Reykjavíkurkjördæmi suður,Ölduselsskóli,Reykjavíkurborg,0000
+16-20,282,0.17691342534504392,Reykjavíkurkjördæmi suður,Ölduselsskóli,Reykjavíkurborg,0000
+21-25,47,0.029485570890840654,Reykjavíkurkjördæmi suður,Ölduselsskóli,Reykjavíkurborg,0000
+>26,0,0.0,Reykjavíkurkjördæmi suður,Ölduselsskóli,Reykjavíkurborg,0000
+0-5,3,0.004784688995215311,Norðausturkjördæmi,Þelamerkurskóli,Hörgársveit,6515
+6-10,3,0.004784688995215311,Norðausturkjördæmi,Þelamerkurskóli,Hörgársveit,6515
+11-15,0,0.0,Norðausturkjördæmi,Þelamerkurskóli,Hörgársveit,6515
+16-20,0,0.0,Norðausturkjördæmi,Þelamerkurskóli,Hörgársveit,6515
+21-25,2,0.003189792663476874,Norðausturkjördæmi,Þelamerkurskóli,Hörgársveit,6515
+>26,619,0.9872408293460925,Norðausturkjördæmi,Þelamerkurskóli,Hörgársveit,6515
