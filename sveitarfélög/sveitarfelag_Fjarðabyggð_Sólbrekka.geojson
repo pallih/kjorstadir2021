@@ -11,7 +11,7 @@
         {
             "type": "Feature",
             "properties": {
-                "svfn": 7300,
+                "svfnr": 7300,
                 "sveitarfelag": "Fjarðabyggð",
                 "kjorstadur": "Sólbrekka",
                 "kjordaemi": "Norðausturkjördæmi"

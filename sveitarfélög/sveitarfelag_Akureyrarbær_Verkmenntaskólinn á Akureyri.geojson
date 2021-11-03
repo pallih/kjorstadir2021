@@ -11,7 +11,7 @@
         {
             "type": "Feature",
             "properties": {
-                "svfn": 6000,
+                "svfnr": 6000,
                 "sveitarfelag": "Akureyrarbær",
                 "kjorstadur": "Verkmenntaskólinn á Akureyri",
                 "kjordaemi": "Norðausturkjördæmi"

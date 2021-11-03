@@ -9409,8 +9409,10 @@
         {
             "type": "Feature",
             "properties": {
-                "KJORSTADUR": "Vetsurbæjarskóli",
-                "KJORDAEMI": "Reykjavík norður"
+                "svfnr": 0,
+                "sveitarfelag": "Reykjavíkurborg",
+                "kjordaemi": "Reykjavíkurkjördæmi norður",
+                "kjorstadur": "Vesturbæjarskóli"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9441,8 +9443,10 @@
         {
             "type": "Feature",
             "properties": {
-                "KJORSTADUR": "Vetsurbæjarskóli",
-                "KJORDAEMI": "Reykjavík norður"
+                "svfnr": 0,
+                "sveitarfelag": "Reykjavíkurborg",
+                "kjordaemi": "Reykjavíkurkjördæmi norður",
+                "kjorstadur": "Vesturbæjarskóli"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9473,8 +9477,10 @@
         {
             "type": "Feature",
             "properties": {
-                "KJORSTADUR": "Vetsurbæjarskóli",
-                "KJORDAEMI": "Reykjavík norður"
+                "svfnr": 0,
+                "sveitarfelag": "Reykjavíkurborg",
+                "kjordaemi": "Reykjavíkurkjördæmi norður",
+                "kjorstadur": "Vesturbæjarskóli"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9505,8 +9511,10 @@
         {
             "type": "Feature",
             "properties": {
-                "KJORSTADUR": "Vetsurbæjarskóli",
-                "KJORDAEMI": "Reykjavík norður"
+                "svfnr": 0,
+                "sveitarfelag": "Reykjavíkurborg",
+                "kjordaemi": "Reykjavíkurkjördæmi norður",
+                "kjorstadur": "Vesturbæjarskóli"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9537,8 +9545,10 @@
         {
             "type": "Feature",
             "properties": {
-                "KJORSTADUR": "Vetsurbæjarskóli",
-                "KJORDAEMI": "Reykjavík norður"
+                "svfnr": 0,
+                "sveitarfelag": "Reykjavíkurborg",
+                "kjordaemi": "Reykjavíkurkjördæmi norður",
+                "kjorstadur": "Vesturbæjarskóli"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9569,8 +9579,10 @@
         {
             "type": "Feature",
             "properties": {
-                "KJORSTADUR": "Vetsurbæjarskóli",
-                "KJORDAEMI": "Reykjavík norður"
+                "svfnr": 0,
+                "sveitarfelag": "Reykjavíkurborg",
+                "kjordaemi": "Reykjavíkurkjördæmi norður",
+                "kjorstadur": "Vesturbæjarskóli"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9601,8 +9613,10 @@
         {
             "type": "Feature",
             "properties": {
-                "KJORSTADUR": "Vetsurbæjarskóli",
-                "KJORDAEMI": "Reykjavík norður"
+                "svfnr": 0,
+                "sveitarfelag": "Reykjavíkurborg",
+                "kjordaemi": "Reykjavíkurkjördæmi norður",
+                "kjorstadur": "Vesturbæjarskóli"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9641,8 +9655,10 @@
         {
             "type": "Feature",
             "properties": {
-                "KJORSTADUR": "Vetsurbæjarskóli",
-                "KJORDAEMI": "Reykjavík norður"
+                "svfnr": 0,
+                "sveitarfelag": "Reykjavíkurborg",
+                "kjordaemi": "Reykjavíkurkjördæmi norður",
+                "kjorstadur": "Vesturbæjarskóli"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9673,8 +9689,10 @@
         {
             "type": "Feature",
             "properties": {
-                "KJORSTADUR": "Vetsurbæjarskóli",
-                "KJORDAEMI": "Reykjavík norður"
+                "svfnr": 0,
+                "sveitarfelag": "Reykjavíkurborg",
+                "kjordaemi": "Reykjavíkurkjördæmi norður",
+                "kjorstadur": "Vesturbæjarskóli"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9705,8 +9723,10 @@
         {
             "type": "Feature",
             "properties": {
-                "KJORSTADUR": "Vetsurbæjarskóli",
-                "KJORDAEMI": "Reykjavík norður"
+                "svfnr": 0,
+                "sveitarfelag": "Reykjavíkurborg",
+                "kjordaemi": "Reykjavíkurkjördæmi norður",
+                "kjorstadur": "Vesturbæjarskóli"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9741,8 +9761,10 @@
         {
             "type": "Feature",
             "properties": {
-                "KJORSTADUR": "Vetsurbæjarskóli",
-                "KJORDAEMI": "Reykjavík norður"
+                "svfnr": 0,
+                "sveitarfelag": "Reykjavíkurborg",
+                "kjordaemi": "Reykjavíkurkjördæmi norður",
+                "kjorstadur": "Vesturbæjarskóli"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9773,8 +9795,10 @@
         {
             "type": "Feature",
             "properties": {
-                "KJORSTADUR": "Vetsurbæjarskóli",
-                "KJORDAEMI": "Reykjavík norður"
+                "svfnr": 0,
+                "sveitarfelag": "Reykjavíkurborg",
+                "kjordaemi": "Reykjavíkurkjördæmi norður",
+                "kjorstadur": "Vesturbæjarskóli"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9805,8 +9829,10 @@
         {
             "type": "Feature",
             "properties": {
-                "KJORSTADUR": "Vetsurbæjarskóli",
-                "KJORDAEMI": "Reykjavík norður"
+                "svfnr": 0,
+                "sveitarfelag": "Reykjavíkurborg",
+                "kjordaemi": "Reykjavíkurkjördæmi norður",
+                "kjorstadur": "Vesturbæjarskóli"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9837,8 +9863,10 @@
         {
             "type": "Feature",
             "properties": {
-                "KJORSTADUR": "Vetsurbæjarskóli",
-                "KJORDAEMI": "Reykjavík norður"
+                "svfnr": 0,
+                "sveitarfelag": "Reykjavíkurborg",
+                "kjordaemi": "Reykjavíkurkjördæmi norður",
+                "kjorstadur": "Vesturbæjarskóli"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9869,8 +9897,10 @@
         {
             "type": "Feature",
             "properties": {
-                "KJORSTADUR": "Vetsurbæjarskóli",
-                "KJORDAEMI": "Reykjavík norður"
+                "svfnr": 0,
+                "sveitarfelag": "Reykjavíkurborg",
+                "kjordaemi": "Reykjavíkurkjördæmi norður",
+                "kjorstadur": "Vesturbæjarskóli"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9901,8 +9931,10 @@
         {
             "type": "Feature",
             "properties": {
-                "KJORSTADUR": "Vetsurbæjarskóli",
-                "KJORDAEMI": "Reykjavík norður"
+                "svfnr": 0,
+                "sveitarfelag": "Reykjavíkurborg",
+                "kjordaemi": "Reykjavíkurkjördæmi norður",
+                "kjorstadur": "Vesturbæjarskóli"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9949,8 +9981,10 @@
         {
             "type": "Feature",
             "properties": {
-                "KJORSTADUR": "Vetsurbæjarskóli",
-                "KJORDAEMI": "Reykjavík norður"
+                "svfnr": 0,
+                "sveitarfelag": "Reykjavíkurborg",
+                "kjordaemi": "Reykjavíkurkjördæmi norður",
+                "kjorstadur": "Vesturbæjarskóli"
             },
             "geometry": {
                 "type": "MultiPolygon",

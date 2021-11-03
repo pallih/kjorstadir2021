@@ -11,7 +11,7 @@
         {
             "type": "Feature",
             "properties": {
-                "svfn": 8200,
+                "svfnr": 8200,
                 "sveitarfelag": "Sveitarfélagið Árborg",
                 "kjorstadur": "Vallaskóli",
                 "kjordaemi": "Suðurkjördæmi"

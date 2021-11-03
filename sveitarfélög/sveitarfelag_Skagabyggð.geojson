@@ -6757,22 +6757,10 @@
         {
             "type": "Feature",
             "properties": {
-                "objectid": 28,
-                "uuid": "c81a6f89-2a50-3257-71cb-f5c6269bff27",
-                "fitjuflokkur": 101,
-                "stjornsyslusvaedi": 4,
-                "nrsveitarfelags": 5611,
+                "svfnr": 5611,
                 "sveitarfelag": "Skagabyggð",
-                "ath": " ",
-                "vinnsluferlifitju": 4,
-                "dagsheimildar": null,
-                "dagsinnsetningar": "2003-01-01",
-                "dagsleidrettingar": "2010-04-26",
-                "dagsuppfaerslu": "2020-12-24",
-                "nakvaemnixy": 50.0,
-                "heimild": "AMS/DMA",
-                "gagnaeigandi": "LMÍ",
-                "gagnasafn": "IS 50V, útgáfa 24.12.2020, 01"
+                "kjordaemi": "Norðvesturkjördæmi",
+                "kjorstadur": "Skagabúð"
             },
             "geometry": {
                 "type": "MultiPolygon",

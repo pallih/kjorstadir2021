@@ -11,7 +11,7 @@
         {
             "type": "Feature",
             "properties": {
-                "svfn": 7300,
+                "svfnr": 7300,
                 "sveitarfelag": "Fjarðabyggð",
                 "kjorstadur": "Nesskóli",
                 "kjordaemi": "Norðausturkjördæmi"
@@ -2465,7 +2465,7 @@
         {
             "type": "Feature",
             "properties": {
-                "svfn": 7300,
+                "svfnr": 7300,
                 "sveitarfelag": "Fjarðabyggð",
                 "kjorstadur": "Nesskóli",
                 "kjordaemi": "Norðausturkjördæmi"
