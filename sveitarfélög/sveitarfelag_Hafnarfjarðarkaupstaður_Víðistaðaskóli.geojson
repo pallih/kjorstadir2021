@@ -821,22 +821,10 @@
         {
             "type": "Feature",
             "properties": {
-                "objectid": 26,
-                "uuid": "89e093ae-4485-2907-0151-40bd3771cfcb",
-                "fitjuflokkur": 101,
-                "stjornsyslusvaedi": 4,
-                "nrsveitarfelags": 1400,
+                "svfnr": 1400,
                 "sveitarfelag": "Hafnarfjarðarkaupstaður",
-                "ath": " ",
-                "vinnsluferlifitju": 4,
-                "dagsheimildar": null,
-                "dagsinnsetningar": "2003-01-01",
-                "dagsleidrettingar": "2017-11-21",
-                "dagsuppfaerslu": "2020-12-24",
-                "nakvaemnixy": 50.0,
-                "heimild": "LMÍ",
-                "gagnaeigandi": "LMÍ",
-                "gagnasafn": "IS 50V, útgáfa 24.12.2020, 01"
+                "kjordaemi": "Suðvesturkjördæmi",
+                "kjorstadur": "Víðistaðaskóli"
             },
             "geometry": {
                 "type": "MultiPolygon",

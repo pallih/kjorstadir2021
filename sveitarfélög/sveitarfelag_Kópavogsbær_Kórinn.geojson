@@ -3005,22 +3005,10 @@
         {
             "type": "Feature",
             "properties": {
-                "objectid": 30,
-                "uuid": "df71b97b-3444-5ccf-ddf0-13786ab5456d",
-                "fitjuflokkur": 101,
-                "stjornsyslusvaedi": 4,
-                "nrsveitarfelags": 1000,
+                "svfnr": 1000,
                 "sveitarfelag": "Kópavogsbær",
-                "ath": " ",
-                "vinnsluferlifitju": 4,
-                "dagsheimildar": null,
-                "dagsinnsetningar": "2003-01-01",
-                "dagsleidrettingar": "2016-01-22",
-                "dagsuppfaerslu": "2020-12-24",
-                "nakvaemnixy": 50.0,
-                "heimild": "LMÍ",
-                "gagnaeigandi": "LMÍ",
-                "gagnasafn": "IS 50V, útgáfa 24.12.2020, 01"
+                "kjordaemi": "Suðvesturkjördæmi",
+                "kjorstadur": "Kórinn"
             },
             "geometry": {
                 "type": "MultiPolygon",

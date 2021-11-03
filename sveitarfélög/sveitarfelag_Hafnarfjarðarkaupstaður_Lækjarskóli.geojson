@@ -2717,22 +2717,10 @@
         {
             "type": "Feature",
             "properties": {
-                "objectid": 4,
-                "uuid": "dcd8f54b-24cf-c678-a645-5e74ad42ab0e",
-                "fitjuflokkur": 101,
-                "stjornsyslusvaedi": 4,
-                "nrsveitarfelags": 1400,
+                "svfnr": 1400,
                 "sveitarfelag": "Hafnarfjarðarkaupstaður",
-                "ath": " ",
-                "vinnsluferlifitju": 4,
-                "dagsheimildar": null,
-                "dagsinnsetningar": "2003-01-01",
-                "dagsleidrettingar": "2013-08-08",
-                "dagsuppfaerslu": "2020-12-24",
-                "nakvaemnixy": 50.0,
-                "heimild": "AMS/DMA",
-                "gagnaeigandi": "LMÍ",
-                "gagnasafn": "IS 50V, útgáfa 24.12.2020, 01"
+                "kjordaemi": "Suðvesturkjördæmi",
+                "kjorstadur": "Lækjarskóli"
             },
             "geometry": {
                 "type": "MultiPolygon",
