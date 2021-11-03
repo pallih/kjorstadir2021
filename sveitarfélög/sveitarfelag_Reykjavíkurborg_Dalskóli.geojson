@@ -11,6 +11,8 @@
         {
             "type": "Feature",
             "properties": {
+                "svfnr": 0,
+                "sveitarfelag": "Reykjavíkurborg",
                 "kjordaemi": "Reykjavíkurkjördæmi norður",
                 "kjorstadur": "Dalskóli"
             },

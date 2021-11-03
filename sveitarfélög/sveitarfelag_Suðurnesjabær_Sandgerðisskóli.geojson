@@ -14,8 +14,7 @@
                 "svfnr": 2510,
                 "sveitarfelag": "Suðurnesjabær",
                 "kjorstadur": "Sandgerðisskóli",
-                "kjordaemi": null,
-                "byggd": 1
+                "kjordaemi": "Suðvesturkjördæmi"
             },
             "geometry": {
                 "type": "MultiPolygon",

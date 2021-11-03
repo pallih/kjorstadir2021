@@ -14,8 +14,7 @@
                 "svfnr": 2510,
                 "sveitarfelag": "Suðurnesjabær",
                 "kjorstadur": "Gerðaskóli",
-                "kjordaemi": null,
-                "byggd": 2
+                "kjordaemi": "Suðvesturkjördæmi"
             },
             "geometry": {
                 "type": "MultiPolygon",
