@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kjörstaðir 2021</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<svg width="970" height="600" viewBox="0 0 970 600">
+</svg>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://unpkg.com/aggro@1.1.1"></script>
+<script src="https://unpkg.com/topojson-client@3"></script>
+<script src="./utils.js"></script>
+<script>
+async function main () {
+  const data = (
+    await d3.csv('../tolfraedi.csv', d => {
+      d.fjoldi = +d.fjoldi;
+      d.hlutfall = +d.hlutfall;
+      return d;
+    })
+  )
+  // .filter(d => d.kjordaemi !== 'Reykjavíkurkjördæmi norður og suður');
+
+  const iceland = await d3.json('./combined-topo.json');
+  const iceland10 = await d3.json('./iceland.topo.geojson');
+
+  const svg = d3.select("svg");
+  const width = 600;
+  const height = 600;
+  const baseColor = '#333';
+  const niceColor = 'green';
+
+  const projection = d3.geoMercator()
+    .scale(7000)
+    .center([ 0, 0 ])
+    .rotate(getCenter(iceland))
+    // .rotate([ 18.9, -64.6, 0 ])
+    .translate([ width / 2 + 370, height / 2 ]);
+
+  const geoPath = d3.geoPath()
+    .projection(projection);
+
+  const toCounty = {};
+  const toArea = {};
+  data.forEach(d => {
+    const { kjordaemi, kjorstadur, sveitarfelag } = d;
+    toCounty[kjorstadur] = sveitarfelag;
+    toArea[sveitarfelag] = kjordaemi;
+  });
+
+  const areas = getKeys('kjordaemi', data);
+  const counties = getKeys('sveitarfelag', data);
+  const color = d3.interpolateLab(niceColor, baseColor);
+
+  let currentArea = null;
+  let currentCounty = null;
+  let currentPlace = null;
+
+  const legend = [
+    { key: '0-5', color: color(0) },
+    { key: '6-10', color: color(0.2) },
+    { key: '11-15', color: color(0.4) },
+    { key: '16-20', color: color(0.6) },
+    { key: '21-25', color: color(0.8) },
+    { key: '>26', color: color(1) },
+  ];
+
+  // ---
+
+  function update () {
+    svg.html('');
+
+    let mainArea = null;
+    let isochrones = null;
+    let plotData = [];
+    let fitTo = null;
+    let onBarClick = () => {};
+
+    // render iceland
+    if (!currentArea) {
+      // FIXME: show meshes of kjördæmi (need geo-data)
+      mainArea = topojson.feature(iceland10, iceland10.objects.iceland);
+      isochrones = topojson.feature(iceland, iceland.objects.isochrones_clipped);
+
+      plotData = aggro()
+        .groupBy([ 'kjordaemi', 'ferdatimi' ])
+        .sum('fjoldi')
+        .data(data);
+
+      onBarClick = d => (currentArea = d.key);
+      fitTo = mainArea;
+    }
+    // render map of kjördæmi
+    else if (!currentCounty) {
+      mainArea = geoFilter(
+        topojson.feature(iceland, iceland.objects.sveitarfelog),
+        d => d.properties.kjordaemi === currentArea
+      );
+      isochrones = geoFilter(
+        topojson.feature(iceland, iceland.objects.isochrones_clipped),
+        d => d.properties.kjordaemi === currentArea
+      );
+
+      plotData = aggro()
+        .filter('kjordaemi', currentArea)
+        .groupBy([ 'sveitarfelag', 'ferdatimi' ])
+        .sum('fjoldi')
+        .data(data);
+
+      onBarClick = d => (currentCounty = d.key);
+      fitTo = mainArea;
+    }
+    // render map of municipality
+    else if (!currentPlace) {
+      mainArea = geoFilter(
+        topojson.feature(iceland, iceland.objects.sveitarfelog),
+        d => d.properties.sveitarfelag === currentCounty
+      );
+      isochrones = geoFilter(
+        topojson.feature(iceland, iceland.objects.isochrones_clipped),
+        d => d.properties.sveitarfelag === currentCounty
+      );
+      // render per kjörstaður
+      plotData = aggro()
+        .filter('sveitarfelag', currentCounty)
+        .groupBy([ 'kjorstadur', 'ferdatimi' ])
+        .sum('fjoldi')
+        .data(data);
+
+      onBarClick = d => (currentPlace = d.key);
+      fitTo = mainArea;
+    }
+    // render map of kjörstaður
+    else {
+      mainArea = geoFilter(
+        topojson.feature(iceland, iceland.objects.sveitarfelog),
+        d => d.properties.sveitarfelag === currentCounty
+      );
+      isochrones = geoFilter(
+        topojson.feature(iceland, iceland.objects.isochrones_clipped),
+        d => d.properties.kjorstadur === currentPlace
+      );
+
+      // render per kjörstaður
+      plotData = aggro()
+        .filter('kjorstadur', currentPlace)
+        .groupBy([ 'kjorstadur', 'ferdatimi' ])
+        .sum('fjoldi')
+        .data(data);
+
+      fitTo = isochrones;
+    }
+
+    // compute percentages and stacking
+    plotData.forEach(area => {
+      const total = area.sum_fjoldi;
+      area.values.reduce((base, county) => {
+        county.base = base;
+        county.percent = county.sum_fjoldi / total;
+        return county.percent + base;
+      }, 0);
+    });
+
+    // fit projection to the focal part
+    projection.fitExtent( [ [ 20, 20 ], [ width - 40, height - 40 ] ], fitTo);
+
+    // render iceland
+    svg.append('path')
+      .attr('transform', 'translate(370,0)')
+      .datum(topojson.feature(iceland10, iceland10.objects.iceland))
+      .attr('d', geoPath)
+      .attr('stroke', 'none')
+      .attr('fill', '#181818');
+
+    // render county outlines
+    svg.append("path")
+      .attr('transform', 'translate(370,0)')
+      .datum(mainArea)
+      .attr('d', geoPath)
+      .attr('stroke', 'black')
+      .attr('fill', baseColor);
+
+    // render isochrones
+    if (isochrones) {
+      svg.selectAll('.iso').data(isochrones.features).enter()
+        .append('path')
+          .attr('class', 'iso')
+          .attr('transform', 'translate(370,0)')
+          .attr('d', geoPath)
+          .attr('class', d => 'iso-' + d.properties.contour)
+          .attr('stroke', 'none')
+          .attr('fill', d => color(d.properties.contour / 30));
+    }
+
+    // plot bars
+    const top = 30;
+    const barWidth = 350;
+    const barheight = Math.min(35, (height - 20 - top) / plotData.length);
+    const fontsize = Math.max(12, Math.round(barheight * 0.4)) + 'px';
+
+    const bars = svg.selectAll(".bar").data(plotData).enter();
+    const gr = bars.append("g")
+      .attr("transform", (d, i) => `translate(10,${top + 10 + i * barheight})`)
+      .on('click', (_, d) => (onBarClick(d), update()));
+    gr.selectAll('rect').data(d => d.values)
+      .join('rect')
+      .attr('x', (d, i) => barWidth * d.base)
+      .attr('width', d => barWidth * d.percent)
+      .attr('height', barheight - 2)
+      .attr('stroke', 'none')
+      .attr('cursor', 'pointer')
+      .attr('fill', d => legend.find(m => m.key === d.key).color);
+    gr.append('text')
+      .attr('font-size', fontsize)
+      .attr('pointer-events', 'none')
+      .attr('fill', 'white')
+      .attr('dy', '0.32em')
+      .attr('x', 10)
+      .attr('y', barheight / 2)
+      .text(d => d.key);
+
+    const ticks = svg.selectAll('.ax').data([ 0, .25, .5, .75, 1 ]).enter()
+      .append('g')
+      .attr('class', 'ax')
+      .attr('transform', d => `translate(${10 + d * barWidth},0)`);
+    ticks.append('line')
+      .attr('y1', top + 8 + 4 + barheight * plotData.length)
+      .attr('y2', top + 13 + 4 + barheight * plotData.length)
+      .attr('stroke', '#888');
+    ticks.append('text')
+      .attr('font-size', '10px')
+      .attr('fill', '#888')
+      .attr('dy', '0.32em')
+      .attr('y', top + 20 + 4 + barheight * plotData.length)
+      .attr('text-anchor', 'middle')
+      .text(d => d * 100 + '%');
+
+    // breadcrumbs
+    const nav = getBreadcrumbs(currentArea, currentCounty, currentPlace);
+    svg.selectAll('.crumbs').data(nav).enter()
+      .append('text')
+        .attr('font-size', '20px')
+        .attr('cursor', d => 'level' in d ? 'pointer' : 'default')
+        .attr('fill', d => 'level' in d ? 'white' : 'gray')
+        .attr('dy', '0.32em')
+        .attr('x', d => 10 + d.x)
+        .attr('y', 20)
+        .on('click', (e, d) => {
+          if (d.level <= 0) { currentArea = null; }
+          if (d.level <= 1) { currentCounty = null; }
+          if (d.level <= 2) { currentPlace = null; }
+          update();
+        })
+        .text(d => d.value);
+
+    // color legend
+    const swatchW = 40;
+    const legendPos = [
+      (width + 370) - (legend.length * swatchW),
+      height - 30
+    ];
+    const legendx = (width + 370) - (legend.length * swatchW);
+    const gLegend = svg.append('g')
+      .attr('transform', `translate(${legendPos})`);
+    gLegend.append('text')
+      .attr('font-size', '11px')
+      .attr('font-weight', 'bold')
+      .attr('fill', '#888')
+      .attr('dy', '0.32em')
+      .attr('y', -10)
+      .text('Göngutími (mín)');
+    const ent = gLegend.selectAll('.key').data(legend).enter().append('g')
+      .attr('class', 'key')
+      .attr('transform', (d, i) => `translate(${i * swatchW},0)`)
+    ent.append('rect')
+      .attr('width', swatchW - 1.5)
+      .attr('height', 8)
+      .attr('fill', (d, i) => d.color);
+    ent.append('text')
+      .attr('font-size', '10px')
+      .attr('fill', '#888')
+      .attr('dy', '0.32em')
+      .attr('x', swatchW / 2)
+      .attr('y', 16)
+      .attr('text-anchor', 'middle')
+      .text(d => d.key);
+  }
+
+  update();
+};
+main();
+
+
+</script>
+
+</body>
+</html>
