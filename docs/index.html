@@ -18,7 +18,7 @@
 <script>
 async function main () {
   const data = (
-    await d3.csv('../tolfraedi.csv', d => {
+    await d3.csv('tolfraedi.csv', d => {
       d.fjoldi = +d.fjoldi;
       d.hlutfall = +d.hlutfall;
       return d;
