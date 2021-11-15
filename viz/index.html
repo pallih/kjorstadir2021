@@ -28,6 +28,7 @@ async function main () {
 
   const iceland = await d3.json('./combined-topo.json');
   const iceland10 = await d3.json('./iceland.topo.geojson');
+  const roads = await d3.json('./roads.json');
 
   const svg = d3.select("svg");
   const width = 600;
@@ -177,6 +178,7 @@ async function main () {
       .attr('stroke', 'none')
       .attr('fill', '#181818');
 
+
     // render county outlines
     svg.append("path")
       .attr('transform', 'translate(370,0)')
@@ -195,7 +197,17 @@ async function main () {
           .attr('class', d => 'iso-' + d.properties.contour)
           .attr('stroke', 'none')
           .attr('fill', d => color(d.properties.contour / 30));
+    
+    // render roads
+    svg.append('path')
+      .attr('transform', 'translate(370,0)')
+      .datum(topojson.feature(roads, roads.objects.roads))
+      .attr('d', geoPath)
+      .attr('stroke', 'gray')
+      .attr('stroke-width', '0.5')
+      .attr('fill', '#181818');
     }
+
 
     // plot bars
     const top = 30;
@@ -223,6 +235,7 @@ async function main () {
       .attr('x', 10)
       .attr('y', barheight / 2)
       .text(d => d.key);
+
 
     const ticks = svg.selectAll('.ax').data([ 0, .25, .5, .75, 1 ]).enter()
       .append('g')
@@ -290,7 +303,7 @@ async function main () {
       .attr('text-anchor', 'middle')
       .text(d => d.key);
   }
-
+  
   update();
 };
 main();
