@@ -23,8 +23,7 @@ async function main () {
       d.hlutfall = +d.hlutfall;
       return d;
     })
-  )
-  // .filter(d => d.kjordaemi !== 'Reykjavíkurkjördæmi norður og suður');
+  ).filter(d => d.kjordaemi !== 'Reykjavíkurkjördæmi norður og suður');
 
   const iceland = await d3.json('./combined-topo.json');
   const iceland10 = await d3.json('./iceland.topo.geojson');
