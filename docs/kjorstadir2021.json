@@ -1,0 +1,1805 @@
+{
+    "type": "Topology",
+    "arcs": [],
+    "objects": {
+        "kjorstadir2021": {
+            "type": "GeometryCollection",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.772532,
+                        64.10110499999958
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi suður",
+                        "kjorstadur": "Norðlingaskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.942316,
+                        64.1459719999996
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi norður",
+                        "kjorstadur": "Ráðhús Reykjavíkur"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.879701,
+                        64.1474329999996
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi norður",
+                        "kjorstadur": "Laugalækjarskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.910643,
+                        64.13090399999959
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi suður",
+                        "kjorstadur": "Hlíðaskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.791766,
+                        64.15324899999959
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi norður",
+                        "kjorstadur": "Borgaskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.817637,
+                        64.10452399999959
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi suður",
+                        "kjorstadur": "Íþróttamiðstöðin Austurbergi"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.957444,
+                        64.1405889999996
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi suður",
+                        "kjorstadur": "Hagaskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.825668,
+                        64.23729699999959
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi norður",
+                        "kjorstadur": "Klébergsskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.913669,
+                        64.13789999999959
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi norður",
+                        "kjorstadur": "Kjarvalsstaðir"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.871444,
+                        64.12536999999959
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi suður",
+                        "kjorstadur": "Breiðagerðisskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.797752,
+                        64.1155579999996
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi suður",
+                        "kjorstadur": "Árbæjarskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.758232,
+                        64.12601799999959
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi norður og suður",
+                        "kjorstadur": "Ingunnarskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.849499,
+                        64.10032699999957
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi suður",
+                        "kjorstadur": "Ölduselsskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.859896,
+                        64.13097899999957
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi norður",
+                        "kjorstadur": "Menntaskólinn við Sund"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.738923532814756,
+                        64.13246090530829
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi norður",
+                        "kjorstadur": "Dalskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.834890508735466,
+                        64.10752866123522
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi suður",
+                        "kjorstadur": "Breiðholtsskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.893022519850877,
+                        64.12972100362511
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi suður",
+                        "kjorstadur": "Borgarbókasafnið Kringlan"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.95785976106265,
+                        64.14967157972345
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi norður",
+                        "kjorstadur": "Vesturbæjarskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.908966318747964,
+                        64.14503116098378
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi norður",
+                        "kjorstadur": "Höfðatorg"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.96842908859253,
+                        64.1458828790758
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi suður",
+                        "kjorstadur": "Frostaskjól"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.892619132995605,
+                        64.13459101435238
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi norður",
+                        "kjorstadur": "Álftamýrarskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.79391920566559,
+                        64.13422358896503
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi norður",
+                        "kjorstadur": "Foldaskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.794600486755368,
+                        64.14571444736227
+                    ],
+                    "properties": {
+                        "svfnr": "0000",
+                        "sveitarfelag": "Reykjavíkurborg",
+                        "kjordaemi": "Reykjavíkurkjördæmi norður",
+                        "kjorstadur": "Rimaskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -14.398639798164368,
+                        65.26742784799862
+                    ],
+                    "properties": {
+                        "svfnr": 7400,
+                        "sveitarfelag": "Múlaþing",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Menntaskólinn á Egilsstöðum"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -13.817311227321625,
+                        65.52727896998195
+                    ],
+                    "properties": {
+                        "svfnr": 7400,
+                        "sveitarfelag": "Múlaþing",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Hreppsstofa"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -14.28486853837967,
+                        64.65700810349584
+                    ],
+                    "properties": {
+                        "svfnr": 7400,
+                        "sveitarfelag": "Múlaþing",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Tryggvabúð"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -14.006286263465881,
+                        65.26014718476316
+                    ],
+                    "properties": {
+                        "svfnr": 7400,
+                        "sveitarfelag": "Múlaþing",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Íþróttamiðstöðin Seyðisfirði"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.724369525909424,
+                        64.1660405155874
+                    ],
+                    "properties": {
+                        "svfnr": 1604,
+                        "sveitarfelag": "Mosfellsbær",
+                        "kjordaemi": "Suðvesturkjördæmi",
+                        "kjorstadur": "Lágafellsskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.898090839385986,
+                        64.10261853442151
+                    ],
+                    "properties": {
+                        "svfnr": 1000,
+                        "sveitarfelag": "Kópavogsbær",
+                        "kjordaemi": "Suðvesturkjördæmi",
+                        "kjorstadur": "Smárinn"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.824984550476074,
+                        64.08271494333832
+                    ],
+                    "properties": {
+                        "svfnr": 1000,
+                        "sveitarfelag": "Kópavogsbær",
+                        "kjordaemi": "Suðvesturkjördæmi",
+                        "kjorstadur": "Kórinn"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.94096326828003,
+                        64.06770518346026
+                    ],
+                    "properties": {
+                        "svfnr": 1400,
+                        "sveitarfelag": "Hafnarfjarðarkaupstaður",
+                        "kjordaemi": "Suðvesturkjördæmi",
+                        "kjorstadur": "Lækjarskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.958258152008057,
+                        64.07528612321404
+                    ],
+                    "properties": {
+                        "svfnr": 1400,
+                        "sveitarfelag": "Hafnarfjarðarkaupstaður",
+                        "kjordaemi": "Suðvesturkjördæmi",
+                        "kjorstadur": "Víðistaðaskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.904935836791992,
+                        64.09373727268574
+                    ],
+                    "properties": {
+                        "svfnr": 1300,
+                        "sveitarfelag": "Garðabær",
+                        "kjordaemi": "Suðvesturkjördæmi",
+                        "kjorstadur": "Íþróttahúsið Mýrin"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -22.016440629959106,
+                        64.10449284475251
+                    ],
+                    "properties": {
+                        "svfnr": 1300,
+                        "sveitarfelag": "Garðabær",
+                        "kjordaemi": "Suðvesturkjördæmi",
+                        "kjorstadur": "Álftanesskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -22.560258507728577,
+                        63.996571101049575
+                    ],
+                    "properties": {
+                        "svfnr": 2000,
+                        "sveitarfelag": "Reykjanesbær",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Fjölbrautaskóli Suðurnesja"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -22.439556419849396,
+                        63.84027584930153
+                    ],
+                    "properties": {
+                        "svfnr": 2300,
+                        "sveitarfelag": "Grindavíkurbær",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Grunnskóli Grindavíkur"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -22.653443813323975,
+                        64.07250684121679
+                    ],
+                    "properties": {
+                        "svfnr": 2510,
+                        "sveitarfelag": "Suðurnesjabær",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Gerðaskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -22.699309587478638,
+                        64.03371103901944
+                    ],
+                    "properties": {
+                        "svfnr": 2510,
+                        "sveitarfelag": "Suðurnesjabær",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Sandgerðisskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -22.387320399284363,
+                        63.98298090291267
+                    ],
+                    "properties": {
+                        "svfnr": 2506,
+                        "sveitarfelag": "Sveitarfélagið Vogar",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Stóru-Vogaskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -20.446881651878357,
+                        64.17403871066743
+                    ],
+                    "properties": {
+                        "svfnr": 8721,
+                        "sveitarfelag": "Bláskógabyggð",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Aratunga"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -20.73093295097351,
+                        64.21768891566072
+                    ],
+                    "properties": {
+                        "svfnr": 8721,
+                        "sveitarfelag": "Bláskógabyggð",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Bláskógaskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -16.71641170978546,
+                        63.90709856862315
+                    ],
+                    "properties": {
+                        "svfnr": 8401,
+                        "sveitarfelag": "Sveitarfélagið Hornafjörður",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Hofgarður"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -15.870217680931091,
+                        64.17943186603529
+                    ],
+                    "properties": {
+                        "svfnr": 8401,
+                        "sveitarfelag": "Sveitarfélagið Hornafjörður",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Hrollaugsstaðir"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -15.411881804466248,
+                        64.29975641846796
+                    ],
+                    "properties": {
+                        "svfnr": 8401,
+                        "sveitarfelag": "Sveitarfélagið Hornafjörður",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Holt"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -15.229234099388123,
+                        64.31361448638422
+                    ],
+                    "properties": {
+                        "svfnr": 8401,
+                        "sveitarfelag": "Sveitarfélagið Hornafjörður",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Mánagarður"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -15.213124752044678,
+                        64.25801341816243
+                    ],
+                    "properties": {
+                        "svfnr": 8401,
+                        "sveitarfelag": "Sveitarfélagið Hornafjörður",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Heppuskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -18.10172975063324,
+                        65.6718404582583
+                    ],
+                    "properties": {
+                        "svfnr": 6000,
+                        "sveitarfelag": "Akureyrarbær",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Verkmenntaskólinn á Akureyri"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -18.37164044380188,
+                        65.97896848265427
+                    ],
+                    "properties": {
+                        "svfnr": 6000,
+                        "sveitarfelag": "Akureyrarbær",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Hríseyjarskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -18.00922840833664,
+                        66.53742428635668
+                    ],
+                    "properties": {
+                        "svfnr": 6000,
+                        "sveitarfelag": "Akureyrarbær",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Félagsheimilið Múli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -20.996246337890625,
+                        63.93430364882678
+                    ],
+                    "properties": {
+                        "svfnr": 8200,
+                        "sveitarfelag": "Sveitarfélagið Árborg",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Vallaskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.157007217407227,
+                        63.86454367602896
+                    ],
+                    "properties": {
+                        "svfnr": 8200,
+                        "sveitarfelag": "Sveitarfélagið Árborg",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Samkomuhúsið Staður"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.06455683708191,
+                        63.83766236107684
+                    ],
+                    "properties": {
+                        "svfnr": 8200,
+                        "sveitarfelag": "Sveitarfélagið Árborg",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Grunnskólinn á Stokkseyri"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -20.27248978614807,
+                        63.43778639429621
+                    ],
+                    "properties": {
+                        "svfnr": 8000,
+                        "sveitarfelag": "Vestmannaeyjabær",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Grunnskóli Vestmannaeyja"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.18204832077026,
+                        64.00043969994428
+                    ],
+                    "properties": {
+                        "svfnr": 8716,
+                        "sveitarfelag": "Hveragerðisbær",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Grunnskólinn í Hveragerði"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -13.793557584285736,
+                        65.2030017460807
+                    ],
+                    "properties": {
+                        "svfnr": 7300,
+                        "sveitarfelag": "Fjarðabyggð",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Sólbrekka"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -13.67822527885437,
+                        65.14762995944763
+                    ],
+                    "properties": {
+                        "svfnr": 7300,
+                        "sveitarfelag": "Fjarðabyggð",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Nesskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -14.033151268959045,
+                        65.07861604336057
+                    ],
+                    "properties": {
+                        "svfnr": 7300,
+                        "sveitarfelag": "Fjarðabyggð",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Tónlistarmiðstöð Austurlands"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -14.2214235663414,
+                        65.03245090425031
+                    ],
+                    "properties": {
+                        "svfnr": 7300,
+                        "sveitarfelag": "Fjarðabyggð",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Safnaðarheimili Reyðarfjarðarkirkju"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -14.015781283378601,
+                        64.93257318203986
+                    ],
+                    "properties": {
+                        "svfnr": 7300,
+                        "sveitarfelag": "Fjarðabyggð",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Grunnskóli Fáskrúðsfjarðar"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -13.868922293186186,
+                        64.83340772571424
+                    ],
+                    "properties": {
+                        "svfnr": 7300,
+                        "sveitarfelag": "Fjarðabyggð",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Grunnskóli Stöðvarfjarðar"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -14.001882076263428,
+                        64.79443557031261
+                    ],
+                    "properties": {
+                        "svfnr": 7300,
+                        "sveitarfelag": "Fjarðabyggð",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Grunnskóli Breiðdalshrepps"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -23.132100105285645,
+                        66.0736525653324
+                    ],
+                    "properties": {
+                        "svfnr": 4200,
+                        "sveitarfelag": "Ísafjarðarbær",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Menntaskólinn á Ísafirði"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -23.524104952812195,
+                        66.12841869864079
+                    ],
+                    "properties": {
+                        "svfnr": 4200,
+                        "sveitarfelag": "Ísafjarðarbær",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Grunnskólinn á Suðureyri"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -23.51671278476715,
+                        66.05185890750965
+                    ],
+                    "properties": {
+                        "svfnr": 4200,
+                        "sveitarfelag": "Ísafjarðarbær",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Grunnskóli Önundarfjarðar"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -23.48801851272583,
+                        65.87510837578436
+                    ],
+                    "properties": {
+                        "svfnr": 4200,
+                        "sveitarfelag": "Ísafjarðarbær",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Grunnskólinn á Þingeyri"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -23.71426820755005,
+                        64.89690937036814
+                    ],
+                    "properties": {
+                        "svfnr": 3714,
+                        "sveitarfelag": "Snæfellsbær",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Grunnskólinn í Ólafsvík"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -23.88278603553772,
+                        64.91846661695203
+                    ],
+                    "properties": {
+                        "svfnr": 3714,
+                        "sveitarfelag": "Snæfellsbær",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Grunnskólinn á Hellissandi"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -23.224204480648037,
+                        64.83985028188656
+                    ],
+                    "properties": {
+                        "svfnr": 3714,
+                        "sveitarfelag": "Snæfellsbær",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Grunnskólinn á Lýsuhóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -22.05876588821411,
+                        64.31861433226645
+                    ],
+                    "properties": {
+                        "svfnr": 3000,
+                        "sveitarfelag": "Akraneskaupstaður",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Íþróttahúsið að Jaðarsbökkum"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.912928819656372,
+                        64.54203052592021
+                    ],
+                    "properties": {
+                        "svfnr": 3609,
+                        "sveitarfelag": "Borgarbyggð",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Menntaskóli Borgarfjarðar"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -22.256691455841064,
+                        64.82091624838162
+                    ],
+                    "properties": {
+                        "svfnr": 3609,
+                        "sveitarfelag": "Borgarbyggð",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Félagsheimilið Lindartungu"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -22.06449508666992,
+                        64.62969756494272
+                    ],
+                    "properties": {
+                        "svfnr": 3609,
+                        "sveitarfelag": "Borgarbyggð",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Félagsheimilið Lyngbrekku"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.592710614204407,
+                        64.69092878954278
+                    ],
+                    "properties": {
+                        "svfnr": 3609,
+                        "sveitarfelag": "Borgarbyggð",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Félagsheimilið Þinghamar"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.041114330291748,
+                        64.70195958107934
+                    ],
+                    "properties": {
+                        "svfnr": 3609,
+                        "sveitarfelag": "Borgarbyggð",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Félagsheimilið Brúarási"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.40233278274536,
+                        64.65590132954677
+                    ],
+                    "properties": {
+                        "svfnr": 3609,
+                        "sveitarfelag": "Borgarbyggð",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Grunnskólinn að Kleppjárnsreykjum"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -19.949820041656494,
+                        65.98984101368156
+                    ],
+                    "properties": {
+                        "svfnr": 5200,
+                        "sveitarfelag": "Sveitarfélagið Skagafjörður",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Félagsheimilið Skagasel"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -19.64253544807434,
+                        65.74087293473487
+                    ],
+                    "properties": {
+                        "svfnr": 5200,
+                        "sveitarfelag": "Sveitarfélagið Skagafjörður",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Fjölbrautaskóli Norðurlands vestra"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -19.35412287712097,
+                        65.4682656568861
+                    ],
+                    "properties": {
+                        "svfnr": 5200,
+                        "sveitarfelag": "Sveitarfélagið Skagafjörður",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Félagsheimilið Árgarður"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -19.12408053874969,
+                        65.73676206038972
+                    ],
+                    "properties": {
+                        "svfnr": 5200,
+                        "sveitarfelag": "Sveitarfélagið Skagafjörður",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Grunnskólinn að Hólum"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -19.41006302833557,
+                        65.8977148990021
+                    ],
+                    "properties": {
+                        "svfnr": 5200,
+                        "sveitarfelag": "Sveitarfélagið Skagafjörður",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Félagsheimilið Höfðaborg"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -19.01682436466217,
+                        66.05064602844227
+                    ],
+                    "properties": {
+                        "svfnr": 5200,
+                        "sveitarfelag": "Sveitarfélagið Skagafjörður",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Ketilás"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -19.448083341121674,
+                        65.55098751597002
+                    ],
+                    "properties": {
+                        "svfnr": 5200,
+                        "sveitarfelag": "Sveitarfélagið Skagafjörður",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Varmahlíðarskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -17.33583569526672,
+                        66.0452015144941
+                    ],
+                    "properties": {
+                        "svfnr": 6100,
+                        "sveitarfelag": "Norðurþing",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Borgarhólsskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -16.709969043731686,
+                        66.07714634510135
+                    ],
+                    "properties": {
+                        "svfnr": 6100,
+                        "sveitarfelag": "Norðurþing",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Skúlagarður"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -15.951043367385864,
+                        66.45460395872932
+                    ],
+                    "properties": {
+                        "svfnr": 6100,
+                        "sveitarfelag": "Norðurþing",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Ráðhúsið Raufarhöfn"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -16.42439693212509,
+                        66.29519956919303
+                    ],
+                    "properties": {
+                        "svfnr": 6100,
+                        "sveitarfelag": "Norðurþing",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Skólahúsið Kópaskeri"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -20.282585620880123,
+                        65.6597559111204
+                    ],
+                    "properties": {
+                        "svfnr": 5604,
+                        "sveitarfelag": "Blönduósbær",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Íþróttamiðstöðin Blönudósi"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -20.296854972839355,
+                        65.82341009251961
+                    ],
+                    "properties": {
+                        "svfnr": 5200,
+                        "sveitarfelag": "Sveitarfélagið Skagaströnd",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Félagsheimilið Fellsborg"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -20.20657181739807,
+                        65.54134099449517
+                    ],
+                    "properties": {
+                        "svfnr": 5612,
+                        "sveitarfelag": "Húnavatnshreppur",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Húnavallaskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -20.319310426712036,
+                        65.90450501626057
+                    ],
+                    "properties": {
+                        "svfnr": 5611,
+                        "sveitarfelag": "Skagabyggð",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Skagabúð"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -20.94546675682068,
+                        65.39744453909809
+                    ],
+                    "properties": {
+                        "svfnr": 5508,
+                        "sveitarfelag": "Húnaþing vestra",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Félagsheimilið Hvammstanga"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -19.316537082195282,
+                        65.53634422935066
+                    ],
+                    "properties": {
+                        "svfnr": 5706,
+                        "sveitarfelag": "Akrahreppur",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Héðinsminni"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.51261448860168,
+                        66.01127776258257
+                    ],
+                    "properties": {
+                        "svfnr": 4901,
+                        "sveitarfelag": "Árneshreppur",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Félagsheimilið Árnesi"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -23.25083613395691,
+                        66.15746193244543
+                    ],
+                    "properties": {
+                        "svfnr": 4100,
+                        "sveitarfelag": "Bolungarvíkurkaupstaður",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Félagsheimili Bolungarvíkur"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.765010356903073,
+                        65.10947333014272
+                    ],
+                    "properties": {
+                        "svfnr": 3811,
+                        "sveitarfelag": "Dalabyggð",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Stjórnsýsluhúsið í Dalabyggð"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.995320916175842,
+                        64.15098914994925
+                    ],
+                    "properties": {
+                        "svfnr": 1100,
+                        "sveitarfelag": "Seltjarnarnesbær",
+                        "kjordaemi": "Suðvesturkjördæmi",
+                        "kjorstadur": "Valhúsaskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -22.72821843624115,
+                        65.07217982709089
+                    ],
+                    "properties": {
+                        "svfnr": 3711,
+                        "sveitarfelag": "Stykkishólmsbær",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Grunnskólinn í Stykkishólmi"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -18.532074093818665,
+                        65.9684124594529
+                    ],
+                    "properties": {
+                        "svfnr": 6400,
+                        "sveitarfelag": "Dalvíkurbyggð",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Dalvíkurskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -20.39865016937256,
+                        63.83670678081437
+                    ],
+                    "properties": {
+                        "svfnr": 8614,
+                        "sveitarfelag": "Rangárþing ytra",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Grunnskólinn á Hellu"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -20.233951807022095,
+                        63.75133556323742
+                    ],
+                    "properties": {
+                        "svfnr": 8613,
+                        "sveitarfelag": "Rangárþing eystra",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Félagsheimilið Hvoll"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -19.9892096221447,
+                        63.60814427605566
+                    ],
+                    "properties": {
+                        "svfnr": 8613,
+                        "sveitarfelag": "Rangárþing eystra",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Félagsheimilið Heimaland"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -19.00782287120819,
+                        63.41730409181819
+                    ],
+                    "properties": {
+                        "svfnr": 8508,
+                        "sveitarfelag": "Mýrdalshreppur",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Víkurskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -18.05370211601257,
+                        63.78720172440247
+                    ],
+                    "properties": {
+                        "svfnr": 8509,
+                        "sveitarfelag": "Skaftárhreppur",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Kirkjubæjarskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -18.09124231338501,
+                        65.57216446222523
+                    ],
+                    "properties": {
+                        "svfnr": 6513,
+                        "sveitarfelag": "Eyjafjarðarsveit",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Hrafnagilsskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -18.9085154235363,
+                        66.15016194811929
+                    ],
+                    "properties": {
+                        "svfnr": 6250,
+                        "sveitarfelag": "Fjallabyggð",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Ráðhús Fjallabyggðar"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -18.653339445590973,
+                        66.06970136160889
+                    ],
+                    "properties": {
+                        "svfnr": 6250,
+                        "sveitarfelag": "Fjallabyggð",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Menntaskólinn á Tröllaskaga"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -14.972734451293945,
+                        65.02546787638806
+                    ],
+                    "properties": {
+                        "svfnr": 7505,
+                        "sveitarfelag": "Fljótsdalshreppur",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Végarður"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -20.754547119140625,
+                        63.88073618264188
+                    ],
+                    "properties": {
+                        "svfnr": 8722,
+                        "sveitarfelag": "Flóahreppur",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Félagsheimilið Þjórsárver"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -20.767464637756344,
+                        64.07508911995157
+                    ],
+                    "properties": {
+                        "svfnr": 8719,
+                        "sveitarfelag": "Grímsnes- og Grafningshreppur",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Stjórnsýsluhúsið á Borg"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -23.259354829788208,
+                        64.92631537553096
+                    ],
+                    "properties": {
+                        "svfnr": 3709,
+                        "sveitarfelag": "Grundarfjarðarbær",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Samkomuhús Grundarfjarðar"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -18.172411322593685,
+                        65.94901343612581
+                    ],
+                    "properties": {
+                        "svfnr": 6602,
+                        "sveitarfelag": "Grýtubakkahreppur",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Grenivíkurskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -20.31998097896576,
+                        64.13029159904174
+                    ],
+                    "properties": {
+                        "svfnr": 8710,
+                        "sveitarfelag": "Hrunamannahreppur",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Félagsheimili Hrunamanna"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.84008538722992,
+                        64.38160359389512
+                    ],
+                    "properties": {
+                        "svfnr": 3511,
+                        "sveitarfelag": "Hvalfjarðarsveit",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Stjórnsýsluhúsið í Melahverfi"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -18.27923834323883,
+                        65.74268459758392
+                    ],
+                    "properties": {
+                        "svfnr": 6515,
+                        "sveitarfelag": "Hörgársveit",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Þelamerkurskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -14.801217913627626,
+                        66.0367101044428
+                    ],
+                    "properties": {
+                        "svfnr": 6709,
+                        "sveitarfelag": "Langanesbyggð",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Grunnskólinn á Bakkafirði"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -15.337284207344053,
+                        66.20061263709465
+                    ],
+                    "properties": {
+                        "svfnr": 6709,
+                        "sveitarfelag": "Langanesbyggð",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Félagsheimilið Þórsver"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -17.561345100402832,
+                        65.81156334294133
+                    ],
+                    "properties": {
+                        "svfnr": 6612,
+                        "sveitarfelag": "Þingeyjarsveit",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Ljósvetningabúð"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -14.829877316951752,
+                        65.75238100340668
+                    ],
+                    "properties": {
+                        "svfnr": 7502,
+                        "sveitarfelag": "Vopnafjarðarhreppur",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Safnaðarheimili Vopnafjarðarkirkju"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -23.974072337150574,
+                        65.59130475783914
+                    ],
+                    "properties": {
+                        "svfnr": 4607,
+                        "sveitarfelag": "Vesturbyggð",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Félagsheimili Patreksfjarðar"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -23.60015630722046,
+                        65.68566876576877
+                    ],
+                    "properties": {
+                        "svfnr": 4607,
+                        "sveitarfelag": "Vesturbyggð",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Baldurshagi"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -23.409005999565125,
+                        65.5212148188643
+                    ],
+                    "properties": {
+                        "svfnr": 4607,
+                        "sveitarfelag": "Vesturbyggð",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Birkimelur"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -23.843883275985718,
+                        65.62869531695554
+                    ],
+                    "properties": {
+                        "svfnr": 4604,
+                        "sveitarfelag": "Tálknafjarðarhreppur",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Tálknafjarðarskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.385751366615295,
+                        63.856124234077186
+                    ],
+                    "properties": {
+                        "svfnr": 8717,
+                        "sveitarfelag": "Sveitarfélagið Ölfus",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Versalir"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -18.081838488578796,
+                        65.7486388272988
+                    ],
+                    "properties": {
+                        "svfnr": 6601,
+                        "sveitarfelag": "Svalbarðsstrandarhreppur",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Valsárskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -22.9901522397995,
+                        66.02684056561996
+                    ],
+                    "properties": {
+                        "svfnr": 4803,
+                        "sveitarfelag": "Súðavíkurhreppur",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Súðavíkurskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -22.678710222244263,
+                        65.84353990523863
+                    ],
+                    "properties": {
+                        "svfnr": 4803,
+                        "sveitarfelag": "Súðavíkurhreppur",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Heydalur"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -15.709558725357057,
+                        66.20713089023126
+                    ],
+                    "properties": {
+                        "svfnr": 6706,
+                        "sveitarfelag": "Svalbarðshreppur",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Svalbarðsskóli"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.665583550930023,
+                        65.70674167332837
+                    ],
+                    "properties": {
+                        "svfnr": 4911,
+                        "sveitarfelag": "Strandabyggð",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Hnyðja"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -17.026842534542084,
+                        65.56533410475245
+                    ],
+                    "properties": {
+                        "svfnr": 6607,
+                        "sveitarfelag": "Skútustaðahreppur",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Skjólbrekka"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.512281894683838,
+                        64.53063013479589
+                    ],
+                    "properties": {
+                        "svfnr": 3506,
+                        "sveitarfelag": "Skorradalshreppur",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Hvammur"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -20.25128960609436,
+                        64.0425222282487
+                    ],
+                    "properties": {
+                        "svfnr": 8720,
+                        "sveitarfelag": "Skeiða- og Gnúpverjahreppur",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Félagsheimilið Árnesi"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -22.199238538742062,
+                        65.45452411540431
+                    ],
+                    "properties": {
+                        "svfnr": 4502,
+                        "sveitarfelag": "Reykhólahreppur",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Skrifstofa Reykhólahrepps"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.592608690261837,
+                        64.34174525850469
+                    ],
+                    "properties": {
+                        "svfnr": 1606,
+                        "sveitarfelag": "Kjósarhreppur",
+                        "kjordaemi": "Suðvesturkjördæmi",
+                        "kjorstadur": "Ásgarður"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -22.760721445083618,
+                        65.00569215913283
+                    ],
+                    "properties": {
+                        "svfnr": 3710,
+                        "sveitarfelag": "Helgafellssveit",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Félagsheimilið Skjöldur"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -17.245895862579342,
+                        66.14863922629911
+                    ],
+                    "properties": {
+                        "svfnr": 6611,
+                        "sveitarfelag": "Tjörneshreppur",
+                        "kjordaemi": "Norðausturkjördæmi",
+                        "kjorstadur": "Félagsheimilið Sólvangur"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -21.4487886428833,
+                        65.68831361821604
+                    ],
+                    "properties": {
+                        "svfnr": 4902,
+                        "sveitarfelag": "Kaldrananeshreppur",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Grunnskóli Drangsness"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -22.65308976173401,
+                        64.84428584203275
+                    ],
+                    "properties": {
+                        "svfnr": 3713,
+                        "sveitarfelag": "Eyja- og Miklaholtshreppur",
+                        "kjordaemi": "Norðvesturkjördæmi",
+                        "kjorstadur": "Félagsheimilið Breiðablik"
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        -20.587091445922848,
+                        63.84211105887423
+                    ],
+                    "properties": {
+                        "svfnr": 8610,
+                        "sveitarfelag": "Ásahreppur",
+                        "kjordaemi": "Suðurkjördæmi",
+                        "kjorstadur": "Félagsheimilið Ásgarður"
+                    }
+                }
+            ]
+        }
+    }
+}

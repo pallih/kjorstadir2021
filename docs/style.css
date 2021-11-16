@@ -69,3 +69,14 @@ svg {
   width: 100%;
   height: 100%;
 }
+
+.place,
+.place-label {
+  fill: rgb(218, 213, 213);
+}
+
+/* text {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  pointer-events: none; */
+}
