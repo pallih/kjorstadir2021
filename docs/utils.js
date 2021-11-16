@@ -1,15 +1,16 @@
-function geoFilter (feat, filterFn) {
+function geoFilter(feat, filterFn) {
+  console.log(filterFn)
   feat.features = feat.features.filter(filterFn);
   return feat;
 }
 
-function getCenter (topo) {
-  const [ x0, y0, x1, y1 ] = topojson.bbox(topo);
-  return [ -(x1 + ((x0 - x1) / 2)), -(y1 + ((y0 - y1) / 2)), 0 ];
+function getCenter(topo) {
+  const [x0, y0, x1, y1] = topojson.bbox(topo);
+  return [-(x1 + ((x0 - x1) / 2)), -(y1 + ((y0 - y1) / 2)), 0];
 }
 
 let _canvas = null;
-function getTextWidth (text, font) {
+function getTextWidth(text, font) {
   // re-use canvas object for better performance
   const canvas = _canvas || (_canvas = document.createElement('canvas'));
   const context = canvas.getContext('2d');
@@ -18,13 +19,13 @@ function getTextWidth (text, font) {
   return metrics.width;
 }
 
-function getKeys (propName, data) {
+function getKeys(propName, data) {
   return Array.from(
     new Set(data.map(d => d[propName]))
   ).sort((a, b) => a.localeCompare(b));
 }
 
-function getBreadcrumbs (area, county, place, arrow = '→') {
+function getBreadcrumbs(area, county, place, arrow = '→') {
   const nav = [
     { value: 'Ísland', level: 0 },
     area && { value: arrow },

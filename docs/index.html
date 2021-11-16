@@ -119,20 +119,65 @@ async function main () {
     }
     // render map of municipality
     else if (!currentPlace) {
-      mainArea = geoFilter(
+      if (currentCounty === 'Reykjavíkurborg' && currentArea === 'Reykjavíkurkjördæmi norður'){
+        mainArea = geoFilter(
         topojson.feature(iceland, iceland.objects.sveitarfelog),
-        d => d.properties.sveitarfelag === currentCounty
+        d => d.properties.sveitarfelag === currentCounty && d.properties.kjordaemi == 'Reykjavíkurkjördæmi norður'
       );
-      isochrones = geoFilter(
-        topojson.feature(iceland, iceland.objects.isochrones_clipped),
-        d => d.properties.sveitarfelag === currentCounty
-      );
-      // render per kjörstaður
+
       plotData = aggro()
+        .filter('sveitarfelag', currentCounty)
+        .filter('kjordaemi', 'Reykjavíkurkjördæmi norður')
+        .groupBy([ 'kjorstadur', 'ferdatimi' ])
+        .sum('fjoldi')
+        .data(data);
+
+        isochrones = geoFilter(
+        topojson.feature(iceland, iceland.objects.isochrones_clipped),
+        d => d.properties.sveitarfelag === currentCounty && d.properties.kjordaemi == 'Reykjavíkurkjördæmi norður'
+      );
+
+      }
+      else if (currentCounty === 'Reykjavíkurborg' && currentArea === 'Reykjavíkurkjördæmi suður'){
+        mainArea = geoFilter(
+        topojson.feature(iceland, iceland.objects.sveitarfelog),
+        d => d.properties.sveitarfelag === currentCounty && d.properties.kjordaemi == 'Reykjavíkurkjördæmi suður'
+      );
+      plotData = aggro()
+        .filter('sveitarfelag', currentCounty)
+        .filter('kjordaemi', 'Reykjavíkurkjördæmi suður')
+        .groupBy([ 'kjorstadur', 'ferdatimi' ])
+        .sum('fjoldi')
+        .data(data);
+
+        isochrones = geoFilter(
+        topojson.feature(iceland, iceland.objects.isochrones_clipped),
+        d => d.properties.sveitarfelag === currentCounty && d.properties.kjordaemi == 'Reykjavíkurkjördæmi suður'
+      );
+      }
+      else {
+        mainArea = geoFilter(
+        topojson.feature(iceland, iceland.objects.sveitarfelog),
+        d => d.properties.sveitarfelag === currentCounty);
+
+        plotData = aggro()
         .filter('sveitarfelag', currentCounty)
         .groupBy([ 'kjorstadur', 'ferdatimi' ])
         .sum('fjoldi')
         .data(data);
+
+        isochrones = geoFilter(
+        topojson.feature(iceland, iceland.objects.isochrones_clipped),
+        d => d.properties.sveitarfelag === currentCounty
+      );
+
+      }
+      console.log(mainArea);
+      console.log(currentCounty);
+      console.log(currentArea);
+      
+      // render per kjörstaður
+      
 
       onBarClick = d => (currentPlace = d.key);
       fitTo = mainArea;
