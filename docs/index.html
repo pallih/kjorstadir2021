@@ -72,6 +72,13 @@ async function main () {
     { key: '>26', color: color(1) },
   ];
 
+  const contourtooltips = [
+    { key: 5, tooltip: '0-5' },
+    { key: 10, tooltip: '6-10' },
+    { key: 15, tooltip: '11-15' },
+    { key: 20, tooltip: '16-20' },
+    { key: 25, tooltip: '21-25' },
+  ];
   // ---
 
   function update () {
@@ -172,9 +179,6 @@ async function main () {
       );
 
       }
-      console.log(mainArea);
-      console.log(currentCounty);
-      console.log(currentArea);
       
       // render per kjörstaður
       
@@ -248,7 +252,10 @@ async function main () {
 
         .append("title")
         .classed("tooltip", true)
-        .text(function(d) { return d.properties.contour });
+        //.text(function(d) { return d.properties.contour });
+        //.text(d => d.properties.contour)
+        .text(d => contourtooltips.find(m => m.key === d.properties.contour).tooltip);
+        //d => legend.find(m => m.key === d.key).color)
     }
     // render roads
     svg.append('path')
@@ -267,11 +274,13 @@ async function main () {
     .attr("class", "place")
 
     // plot bars
+    plotData = plotData.sort(function (a, b) {
+    return ('' + a.key).localeCompare(b.key);
+})
     const top = 30;
     const barWidth = 350;
     const barheight = Math.min(35, (height - 20 - top) / plotData.length);
     const fontsize = Math.max(12, Math.round(barheight * 0.4)) + 'px';
-
     const bars = svg.selectAll(".bar").data(plotData).enter();
     const gr = bars.append("g")
       .attr("transform", (d, i) => `translate(10,${top + 10 + i * barheight})`)
@@ -283,7 +292,10 @@ async function main () {
       .attr('height', barheight - 2)
       .attr('stroke', 'none')
       .attr('cursor', 'pointer')
-      .attr('fill', d => legend.find(m => m.key === d.key).color);
+      .attr('fill', d => legend.find(m => m.key === d.key).color)
+      .append("title")
+      // tooltip
+      .text(d => d.key + " | " + (d.percent * 100 ).toFixed(2) + "%");
     gr.append('text')
       .attr('font-size', fontsize)
       .attr('pointer-events', 'none')
@@ -292,6 +304,7 @@ async function main () {
       .attr('x', 10)
       .attr('y', barheight / 2)
       .text(d => d.key);
+    
 
 
     const ticks = svg.selectAll('.ax').data([ 0, .25, .5, .75, 1 ]).enter()
