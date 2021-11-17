@@ -1,5 +1,4 @@
 function geoFilter(feat, filterFn) {
-  console.log(filterFn)
   feat.features = feat.features.filter(filterFn);
   return feat;
 }
