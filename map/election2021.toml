@@ -1,0 +1,243 @@
+[cache]
+type = "file"
+basepath = "./map/cache/tiles"
+max_zoom = 12
+
+[[providers]]
+name = "election2021"
+type = "postgis"
+host = "localhost"
+port = 5432
+database = "election2021"
+user = "election2021"
+password = ""
+srid = 3857
+
+[[providers.layers]]
+name = "coastline"
+geometry_fieldname = "geom"
+geometry_type = "Polygon"
+dont_simplify = true
+id_fieldname = "id"
+sql = """
+  SELECT
+    id,
+    ST_AsBinary(
+      ST_SimplifyPreserveTopology(
+        geom,
+        CASE !ZOOM!
+          WHEN  5 THEN  1500
+          WHEN  6 THEN  1000
+          WHEN  7 THEN   350
+          WHEN  8 THEN   200
+          WHEN  9 THEN   100
+          WHEN 10 THEN    50
+          WHEN 11 THEN    25
+          WHEN 12 THEN    15
+        END
+      )
+    )
+      AS geom
+  FROM
+    coastline
+  WHERE
+    geom && !BBOX!
+"""
+
+[[providers.layers]]
+name = "roads"
+geometry_fieldname = "geom"
+geometry_type = "LineString"
+dont_simplify = true
+id_fieldname = "id"
+sql = """
+  SELECT
+    id,
+    vegnr
+      AS ref,
+    ST_AsBinary(
+      ST_Simplify(
+        geom,
+        CASE !ZOOM!
+          WHEN  5 THEN 2500
+          WHEN  6 THEN 2000
+          WHEN  7 THEN  800
+          WHEN  8 THEN  400
+          WHEN  9 THEN  200
+          WHEN 10 THEN  100
+          WHEN 11 THEN   50
+          WHEN 12 THEN   0
+        END
+      )
+    )
+      AS geom
+  FROM
+    roads
+  WHERE
+    geom && !BBOX!
+    AND (
+      !ZOOM! >= 6 AND vegflokkun = '1'
+      OR
+      !ZOOM! >= 9 AND vegflokkun IN ('2', '3', '4')
+      OR
+      !ZOOM! >= 11 AND vegflokkun = '5'
+      OR
+      !ZOOM! >= 12 AND vegflokkun IN ('8', '12')
+    )
+"""
+
+[[providers.layers]]
+name = "constituencies"
+geometry_fieldname = "geom"
+geometry_type = "Polygon"
+dont_simplify = true
+id_fieldname = "id"
+sql = """
+  SELECT
+    id,
+    nafnfitju
+      AS constituency,
+    ST_AsBinary(
+      ST_SimplifyPreserveTopology(
+        geom,
+        CASE !ZOOM!
+          WHEN  5 THEN  1500
+          WHEN  6 THEN  1000
+          WHEN  7 THEN   350
+          WHEN  8 THEN   200
+          WHEN  9 THEN   100
+          WHEN 10 THEN    50
+          WHEN 11 THEN    25
+          WHEN 12 THEN    15
+        END
+      )
+    )
+      AS geom
+  FROM
+    constituencies
+  WHERE
+    geom && !BBOX!
+"""
+
+[[providers.layers]]
+name = "districts"
+geometry_fieldname = "geom"
+geometry_type = "Polygon"
+dont_simplify = true
+id_fieldname = "id"
+sql = """
+  SELECT
+    id,
+    sveitarfelag
+      AS municipality,
+    kjordaemi
+      AS constituency,
+    kjorstadur
+      AS polling_place,
+    ST_AsBinary(
+      ST_SimplifyPreserveTopology(
+        geom,
+        CASE !ZOOM!
+          WHEN  5 THEN  1500
+          WHEN  6 THEN  1000
+          WHEN  7 THEN   350
+          WHEN  8 THEN   200
+          WHEN  9 THEN   100
+          WHEN 10 THEN    50
+          WHEN 11 THEN    25
+          WHEN 12 THEN    15
+        END
+      )
+    )
+      AS geom
+  FROM
+    districts
+  WHERE
+    geom && !BBOX!
+"""
+
+[[providers.layers]]
+name = "isochrones"
+geometry_fieldname = "geom"
+geometry_type = "Polygon"
+dont_simplify = true
+id_fieldname = "id"
+sql = """
+  SELECT
+    id,
+    contour
+      AS time,
+    kjordaemi
+      AS constituency,
+    kjorstadur
+      AS polling_place,
+    sveitarfelag
+      AS municipality,
+    ST_AsBinary(geom)
+      AS geom
+  FROM
+    isochrones
+  WHERE
+    geom && !BBOX!
+  ORDER BY
+    time
+      DESC
+"""
+
+[[providers.layers]]
+name = "polling_places"
+geometry_fieldname = "geom"
+dont_simplify = true
+id_fieldname = "id"
+sql = """
+  SELECT
+    id,
+    kjorstadur
+      AS polling_place,
+    kjordaemi
+      AS constituency,
+    ST_AsBinary(geom)
+      AS geom
+  FROM
+    polling_places
+  WHERE
+    geom && !BBOX!
+"""
+
+[[maps]]
+name = "election2021"
+bounds = [-24.532681, 63.295769, -13.494616, 66.56644]
+center = [-21.940285, 64.146745, 11.0]
+
+  [[maps.layers]]
+  provider_layer = "election2021.coastline"
+  min_zoom = 5
+  max_zoom = 12
+
+  [[maps.layers]]
+  provider_layer = "election2021.roads"
+  min_zoom = 6
+  max_zoom = 12
+
+  [[maps.layers]]
+  provider_layer = "election2021.constituencies"
+  min_zoom = 5
+  max_zoom = 9
+  dont_simplify = true
+
+  [[maps.layers]]
+  provider_layer = "election2021.districts"
+  min_zoom = 10
+  max_zoom = 12
+  dont_simplify = true
+
+  [[maps.layers]]
+  provider_layer = "election2021.isochrones"
+  min_zoom = 5
+  max_zoom = 12
+  dont_simplify = true
+
+  [[maps.layers]]
+  provider_layer = "election2021.polling_places"
+  min_zoom = 10
+  max_zoom = 12
