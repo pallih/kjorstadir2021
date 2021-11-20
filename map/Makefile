@@ -6,7 +6,7 @@ PGSUPERUSER ?= postgres
 OGR_DSN ?= PG:"dbname='$(PGDATABASE)' host='$(PGHOST)' port='$(PGPORT)' user='$(PGUSER)' password='$(PGPASSWORD)'"
 PG_DRIVER_OPTIONS ?= -f PostgreSQL -t_srs epsg:3857 -makevalid -overwrite -lco FID=id -lco PRECISION=NO -lco GEOMETRY_NAME=geom
 
-all: clean database data_cache db_tables
+all: clean database clear_cache clear_data_cache clear_tile_cache cache data_cache db_tables
 .PHONY: all
 
 ##### CACHE ############################################################################
