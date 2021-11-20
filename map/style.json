@@ -1,0 +1,153 @@
+{
+  "version": 8,
+  "name": "Election 2021",
+  "center": [
+    -21.9251,
+    64.1381
+  ],
+  "zoom": 11,
+  "sources": {
+    "election2021": {
+      "type": "vector",
+      "url": "http://localhost:8080/capabilities/election2021.json"
+    }
+  },
+  "layers": [
+    {
+      "id": "background",
+      "type": "background",
+      "paint": {
+        "background-color": "#002c3d"
+      }
+    },
+    {
+      "id": "coastline",
+      "type": "fill",
+      "source": "election2021",
+      "source-layer": "coastline",
+      "paint": {
+        "fill-color": "#001f2b"
+      }
+    },
+    {
+      "id": "isochrones",
+      "type": "fill",
+      "source": "election2021",
+      "source-layer": "isochrones",
+      "paint": {
+        "fill-color": [
+          "match",
+          [
+            "get",
+            "time"
+          ],
+          5,
+          "#ffffff",
+          10,
+          "#d6dde0",
+          15,
+          "#b8c4c9",
+          20,
+          "#99abb1",
+          25,
+          "#7b929c",
+          "rgba(0, 0, 0, 0)"
+        ]
+      }
+    },
+    {
+      "id": "roads",
+      "type": "line",
+      "source": "election2021",
+      "source-layer": "roads",
+      "paint": {
+        "line-color": "#5F7782",
+        "line-opacity": 0.6,
+        "line-width": {
+          "base": 1,
+          "stops": [
+            [
+              10,
+              1
+            ],
+            [
+              11,
+              0.5
+            ],
+            [
+              17,
+              5
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "constituencies",
+      "type": "line",
+      "source": "election2021",
+      "source-layer": "constituencies",
+      "layout": {
+        "visibility": "none"
+      },
+      "paint": {
+        "line-color": "#002c3d",
+        "line-opacity": 0.5,
+        "line-width": 1
+      }
+    },
+    {
+      "id": "districts",
+      "type": "line",
+      "source": "election2021",
+      "source-layer": "districts",
+      "paint": {
+        "line-color": "#002c3d",
+        "line-opacity": 0.5,
+        "line-width": {
+          "base": 0.1,
+          "stops": [
+            [
+              11,
+              1
+            ],
+            [
+              16,
+              3
+            ],
+            [
+              17,
+              6
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "polling_places",
+      "type": "circle",
+      "source": "election2021",
+      "source-layer": "polling_places",
+      "paint": {
+        "circle-radius": {
+          "base": 1,
+          "stops": [
+            [
+              7,
+              1
+            ],
+            [
+              12,
+              2
+            ],
+            [
+              22,
+              50
+            ]
+          ]
+        },
+        "circle-color": "#002c3d"
+      }
+    }
+  ]
+}
