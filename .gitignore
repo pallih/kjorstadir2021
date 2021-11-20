@@ -1,4 +1,5 @@
 scripts/
 env/
 stadfangaskra/
-map/cache/
+map/cache
+map/map/cache
