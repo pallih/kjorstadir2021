@@ -90,5 +90,5 @@ tile_cache:
 .PHONY: tile_cache
 
 static:
-	python3 -m http.server
+	python3 -m http.server 8090
 .PHONY: static

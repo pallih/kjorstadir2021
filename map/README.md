@@ -9,7 +9,7 @@ A tiled vector map showing isochrone walking distances to polling places used in
 5. Run `make server` to run the Tegola tile server
 6. In another terminal window, run `make static` from within the `map/` subdirectory to serve the static HTML
 
-Now you can visit <http://localhost:8000/> in your browser to see the map.
+Now you can visit <http://localhost:8090/> in your browser to see the map.
 
 ## Environment variables
 
