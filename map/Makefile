@@ -52,7 +52,7 @@ database:
 	createdb --owner ${PGUSER} --host ${PGHOST} --port ${PGPORT} --user ${PGSUPERUSER} ${PGDATABASE}
 	psql  --host ${PGHOST} --port ${PGPORT} --user ${PGSUPERUSER} ${PGDATABASE} --command "CREATE EXTENSION IF NOT EXISTS postgis"
 
-db_tables: coastline_db_table roads_db_table isochrones_db_table polling_places_db_table districts_db_table
+db_tables: coastline_db_table roads_db_table isochrones_db_table polling_places_db_table districts_db_table constituencies_db_table
 .PHONY: db_tables
 
 coastline_db_table: cache/data/coastline.gpkg
