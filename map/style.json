@@ -1,7 +1,7 @@
 {
   "version": 8,
   "name": "Election 2021",
-  "glyphs": "http://fonts.openmaptiles.org/{fontstack}/{range}.pbf",
+  "glyphs": "https://fonts.openmaptiles.org/{fontstack}/{range}.pbf",
   "center": [
     -21.9251,
     64.1381
