@@ -32,7 +32,7 @@ clear_tile_cache:
 	rm -rf cache/tiles
 .PHONY: clear_tile_cache
 
-data_cache: cache/data/coastline.gpkg cache/data/roads.gpkg cache/data/constituencies.gpkg
+data_cache: cache/data/coastline.gpkg cache/data/roads.gpkg
 .PHONY: data_cache
 
 cache/data/coastline.gpkg:
@@ -40,9 +40,6 @@ cache/data/coastline.gpkg:
 
 cache/data/roads.gpkg:
 	curl --silent https://atlas.lmi.is/heikir/downloadData/is_50v_samgongur_isn2016_lambert_2016_gpkg.zip | funzip > cache/data/roads.gpkg
-
-cache/data/constituencies.gpkg:
-	curl --silent https://atlas.lmi.is/heikir/downloadData/is_50v_mork_isn2016_lambert_2016_gpkg.zip | funzip > cache/data/constituencies.gpkg
 
 ##### DATABASE #########################################################################
 
@@ -63,8 +60,13 @@ roads_db_table: cache/data/roads.gpkg
 	ogr2ogr ${PG_DRIVER_OPTIONS} ${OGR_DSN} cache/data/roads.gpkg -nln roads samgongur_linur
 .PHONY: roads_db_table
 
-constituencies_db_table: cache/data/constituencies.gpkg
-	ogr2ogr ${PG_DRIVER_OPTIONS} ${OGR_DSN} cache/data/constituencies.gpkg -nln constituencies mork_kjordaemi
+constituencies_db_table:
+	ogr2ogr \
+		${PG_DRIVER_OPTIONS} \
+		${OGR_DSN} \
+		WFS:https://gis.lmi.is/geoserver/IS_50V/ows IS_50V:mork_kjordaemi \
+		-nln constituencies \
+		-nlt CONVERT_TO_LINEAR
 .PHONY: constituencies_db_table
 
 isochrones_db_table:
