@@ -1,6 +1,6 @@
 [cache]
 type = "file"
-basepath = "./map/cache/tiles"
+basepath = "./cache/tiles"
 max_zoom = 12
 
 [[providers]]
