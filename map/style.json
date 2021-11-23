@@ -1,6 +1,7 @@
 {
   "version": 8,
   "name": "Election 2021",
+  "glyphs": "https://fonts.openmaptiles.org/{fontstack}/{range}.pbf",
   "center": [
     -21.9251,
     64.1381
@@ -142,11 +143,50 @@
             ],
             [
               22,
-              50
+              35
             ]
           ]
         },
         "circle-color": "#002c3d"
+      }
+    },
+    {
+      "id": "polling_places_labels",
+      "type": "symbol",
+      "source": "election2021",
+      "source-layer": "polling_places",
+      "layout": {
+        "text-font": [
+          "Open Sans Italic"
+        ],
+        "text-field": "{polling_place}",
+        "text-max-width": 4,
+        "text-justify": "auto",
+        "text-radial-offset": 0.5,
+        "text-variable-anchor": [
+          "bottom",
+          "left",
+          "right"
+        ],
+        "text-size": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          10,
+          12,
+          16,
+          20
+        ]
+      },
+      "paint": {
+        "text-halo-color": "#f4f4ee",
+        "text-halo-width": 1,
+        "text-halo-blur": 1,
+        "text-color": "#002c3d"
       }
     }
   ]
