@@ -17,7 +17,6 @@ srid = 3857
 name = "coastline"
 geometry_fieldname = "geom"
 geometry_type = "Polygon"
-dont_simplify = true
 id_fieldname = "id"
 sql = """
   SELECT
@@ -48,7 +47,6 @@ sql = """
 name = "roads"
 geometry_fieldname = "geom"
 geometry_type = "LineString"
-dont_simplify = true
 id_fieldname = "id"
 sql = """
   SELECT
@@ -90,7 +88,6 @@ sql = """
 name = "constituencies"
 geometry_fieldname = "geom"
 geometry_type = "Polygon"
-dont_simplify = true
 id_fieldname = "id"
 sql = """
   SELECT
@@ -123,7 +120,6 @@ sql = """
 name = "districts"
 geometry_fieldname = "geom"
 geometry_type = "Polygon"
-dont_simplify = true
 id_fieldname = "id"
 sql = """
   SELECT
@@ -160,7 +156,6 @@ sql = """
 name = "isochrones"
 geometry_fieldname = "geom"
 geometry_type = "Polygon"
-dont_simplify = true
 id_fieldname = "id"
 sql = """
   SELECT
@@ -187,7 +182,6 @@ sql = """
 [[providers.layers]]
 name = "polling_places"
 geometry_fieldname = "geom"
-dont_simplify = true
 id_fieldname = "id"
 sql = """
   SELECT
